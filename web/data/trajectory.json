@@ -1,0 +1,71 @@
+{
+  "_note": "null_ci_lo/hi are the 2.5th\u201397.5th percentile of the permutation null distribution (not bootstrap CIs around the estimate). Use for visual reference bands showing the range of values consistent with spatial randomness, not as uncertainty around the BV I point estimate.",
+  "suicide_overdose": [
+    {
+      "period": "1999-2005",
+      "midpoint": 2002,
+      "bvi": 0.1775,
+      "p": 0.0001,
+      "null_ci_lo": -0.0328,
+      "null_ci_hi": 0.0333
+    },
+    {
+      "period": "2006-2012",
+      "midpoint": 2009,
+      "bvi": 0.277,
+      "p": 0.0001,
+      "null_ci_lo": -0.0417,
+      "null_ci_hi": 0.043
+    },
+    {
+      "period": "2013-2019",
+      "midpoint": 2016,
+      "bvi": 0.0761,
+      "p": 0.0001,
+      "null_ci_lo": -0.0372,
+      "null_ci_hi": 0.0376
+    },
+    {
+      "period": "2018-2024",
+      "midpoint": 2021,
+      "bvi": 0.0155,
+      "p": 0.1621,
+      "null_ci_lo": -0.0301,
+      "null_ci_hi": 0.0311
+    }
+  ],
+  "suicide_k70": [
+    {
+      "period": "1999-2005",
+      "midpoint": 2002,
+      "bvi": 0.3883,
+      "p": 0.0001,
+      "null_ci_lo": -0.0372,
+      "null_ci_hi": 0.0383
+    },
+    {
+      "period": "2006-2012",
+      "midpoint": 2009,
+      "bvi": 0.4564,
+      "p": 0.0001,
+      "null_ci_lo": -0.0585,
+      "null_ci_hi": 0.0616
+    },
+    {
+      "period": "2013-2019",
+      "midpoint": 2016,
+      "bvi": 0.4541,
+      "p": 0.0001,
+      "null_ci_lo": -0.0502,
+      "null_ci_hi": 0.0518
+    },
+    {
+      "period": "2018-2024",
+      "midpoint": 2021,
+      "bvi": 0.3405,
+      "p": 0.0001,
+      "null_ci_lo": -0.0347,
+      "null_ci_hi": 0.0363
+    }
+  ]
+}
