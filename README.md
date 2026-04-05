@@ -1,8 +1,12 @@
 # Deaths of Despair — Spatial Analysis
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 County-level spatial analysis of US "deaths of despair" (2018–2024), examining whether suicide, drug overdose, and alcoholic liver disease co-cluster geographically as the Case & Deaton unified-epidemic thesis implies.
 
 Analysis and write-up for [Apophenia](https://apophenia.blog).
+
+&copy; 2026 Dash Wieland. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you are free to share and adapt this work for any purpose provided you give appropriate credit.
 
 ---
 
@@ -124,3 +128,15 @@ All figures are written to the project root. Runtime estimates assume a typical 
 ### Dependencies
 
 Managed via `pyproject.toml` and `uv.lock`. Key packages: `pandas`, `geopandas`, `libpysal`, `esda`, `spreg`, `matplotlib`, `mapclassify`, `numpy`, `scipy`, `requests`.
+
+---
+
+## Data citations
+
+CDC WONDER data is in the public domain and may be freely used, copied, distributed, or published. Please cite as:
+
+> Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Mortality 2018-2024 on CDC WONDER Online Database. Accessed 2025. https://wonder.cdc.gov/
+
+> Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Mortality 1999-2020 on CDC WONDER Online Database. Accessed 2025. https://wonder.cdc.gov/
+
+County elevation data from the SRTM 90m dataset via the OpenTopoData API (https://www.opentopodata.org/). County shapefile from the US Census Bureau TIGER/Line 2023 (public domain). Demographic data from the American Community Survey 5-Year Estimates, 2023 (US Census Bureau, public domain).

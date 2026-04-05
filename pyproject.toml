@@ -1,7 +1,7 @@
 [project]
 name = "deaths-of-despair"
 version = "0.1.0"
-description = "Add your description here"
+description = "County-level spatial analysis of deaths of despair (suicide, overdose, alcoholic liver disease), 2018-2024"
 requires-python = ">=3.12"
 dependencies = [
     "esda>=2.9.0",

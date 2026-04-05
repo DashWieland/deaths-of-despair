@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it as below."
+type: software
+title: "Deaths of Despair — Spatial Analysis"
+abstract: >
+  County-level spatial analysis testing whether Case & Deaton's unified
+  "deaths of despair" thesis holds geographically. Uses bivariate Moran's I,
+  LISA cluster analysis, Bayesian inference, and spatial regression across
+  CDC WONDER mortality data (2018–2024) and four historical windows (1999–2024).
+authors:
+  - family-names: Wieland
+    given-names: Dash
+    alias: DashWieland
+repository-code: "https://github.com/DashWieland/deaths-of-despair"
+url: "https://apophenia.blog"
+license: CC-BY-4.0
+date-released: "2026-04-05"
+keywords:
+  - deaths of despair
+  - spatial analysis
+  - bivariate Moran's I
+  - suicide
+  - drug overdose
+  - alcoholic liver disease
+  - county-level
+  - CDC WONDER
