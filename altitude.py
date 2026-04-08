@@ -50,9 +50,9 @@ elevations = {}
 n_batches = (len(coords) + BATCH - 1) // BATCH
 
 import os
-if os.path.exists("elevation_cache.json"):
+if os.path.exists("data/elevation_cache.json"):
     print("  Loading from cache...")
-    with open("elevation_cache.json") as f:
+    with open("data/elevation_cache.json") as f:
         elevations = json.load(f)
     print(f"  {len(elevations)} counties loaded from cache")
 else:
@@ -76,7 +76,7 @@ else:
             print(f"  {i+1}/{n_batches} batches done")
 
     print(f"  Elevation retrieved for {len(elevations)} counties")
-    with open("elevation_cache.json", "w") as f:
+    with open("data/elevation_cache.json", "w") as f:
         json.dump(elevations, f)
     print("  Cached to elevation_cache.json")
 
@@ -91,9 +91,9 @@ def load_wonder(path, rate_col):
     df["pop"]  = pd.to_numeric(df["Population"], errors="coerce")
     return df[["fips", "rate", "pop"]].rename(columns={"rate": rate_col, "pop": f"pop_{rate_col}"})
 
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 df = (suicide
       .merge(overdose[["fips","overdose_rate"]], on="fips", how="outer")
@@ -215,7 +215,7 @@ for ax, (col, ylabel, color) in zip(axes, configs):
 plt.suptitle("Elevation vs. Death Rates by Axis\n(Spearman ρ, county centroids, SRTM90m)",
              fontsize=13, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_altitude.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("figures/fig_altitude.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_altitude.png")
 print("\nDone.")

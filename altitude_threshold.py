@@ -22,7 +22,7 @@ from scipy.interpolate import UnivariateSpline
 
 # ── Load data ──────────────────────────────────────────────────────────────────
 
-with open("elevation_cache.json") as f:
+with open("data/elevation_cache.json") as f:
     elevations = json.load(f)
 
 def load_wonder(path, rate_col):
@@ -33,9 +33,9 @@ def load_wonder(path, rate_col):
     df["rate"] = pd.to_numeric(df["Crude Rate"], errors="coerce")
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 df = (suicide
       .merge(overdose, on="fips", how="outer")
@@ -161,7 +161,7 @@ plt.suptitle("Elevation vs. Death Rate: Testing for Threshold at 2000m\n"
              "(black dots = binned means ± 95% CI; dashed = published hypoxia threshold)",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_altitude_threshold.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_altitude_threshold.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_altitude_threshold.png")

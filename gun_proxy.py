@@ -29,10 +29,10 @@ def load_wonder(path, rate_col):
         columns={"rate": rate_col, "deaths": f"deaths_{rate_col}"}
     )
 
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-firearm  = load_wonder("firearm_suicide_county_2018_2024.csv", "firearm_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+firearm  = load_wonder("data/firearm_suicide_county_2018_2024.csv", "firearm_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 df = (suicide
       .merge(firearm[["fips","firearm_rate","deaths_firearm_rate"]], on="fips", how="left")
@@ -175,7 +175,7 @@ axes[0].legend(handles=legend_elements, fontsize=8, loc="upper left")
 plt.suptitle("Firearm Suicide Fraction (Gun Ownership Proxy) vs. Each Death Axis\n"
              "(dot color = spatial regime)", fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_gun_proxy.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_gun_proxy.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("\n  Saved fig_gun_proxy.png")

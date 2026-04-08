@@ -88,9 +88,9 @@ def load_wonder(path, rate_col):
     df["rate"] = pd.to_numeric(df["Crude Rate"], errors="coerce")
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 deaths = (suicide
           .merge(overdose, on="fips", how="outer")
@@ -246,7 +246,7 @@ for ax, col, label in zip(axes, plot_vars, plot_labels):
 plt.suptitle("Demographic Profiles by Spatial Regime\n(ACS 2023 5-year estimates, county-level medians)",
              fontsize=13, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_demographics.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("figures/fig_demographics.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_demographics.png")
 print("\nDone.")

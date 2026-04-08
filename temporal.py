@@ -36,14 +36,14 @@ def load_wonder(path, rate_col):
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
 # Current era
-su_now = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-od_now = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k7_now = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+su_now = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+od_now = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k7_now = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 # Historical era
-su_old = load_wonder("suicide_county_1999_2005.csv",      "suicide_rate")
-od_old = load_wonder("overdose_county_1999_2005.csv",     "overdose_rate")
-k7_old = load_wonder("alcohol_liver_county_1999_2005.csv","k70_rate")
+su_old = load_wonder("data/suicide_county_1999_2005.csv",      "suicide_rate")
+od_old = load_wonder("data/overdose_county_1999_2005.csv",     "overdose_rate")
+k7_old = load_wonder("data/alcohol_liver_county_1999_2005.csv","k70_rate")
 
 for label, su, od, k7 in [("1999-2005", su_old, od_old, k7_old),
                             ("2018-2024", su_now, od_now, k7_now)]:
@@ -226,7 +226,7 @@ plt.suptitle("LISA Clusters: Suicide vs. Overdose, 1999–2005 vs. 2018–2024\n
              "Was the geographic split always there, or did it emerge with the opioid epidemic?",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_temporal.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_temporal.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_temporal.png")

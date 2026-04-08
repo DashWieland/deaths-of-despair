@@ -33,10 +33,10 @@ def load_wonder(path, rate_col):
     df["rate"] = pd.to_numeric(df["Crude Rate"], errors="coerce")
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
-suicide      = load_wonder("suicide_county_2018_2024.csv",           "suicide_rate")
-unintent     = load_wonder("overdose_unintentional_county_2018_2024.csv", "unintent_rate")
-undetermined = load_wonder("overdose_undetermined_county_2018_2024.csv",  "undeter_rate")
-overdose     = load_wonder("overdose_county_2018_2024.csv",          "overdose_rate")  # combined, for reference
+suicide      = load_wonder("data/suicide_county_2018_2024.csv",           "suicide_rate")
+unintent     = load_wonder("data/overdose_unintentional_county_2018_2024.csv", "unintent_rate")
+undetermined = load_wonder("data/overdose_undetermined_county_2018_2024.csv",  "undeter_rate")
+overdose     = load_wonder("data/overdose_county_2018_2024.csv",          "overdose_rate")  # combined, for reference
 
 print("Row counts (counties with data above suppression threshold):")
 print(f"  Suicide (X60-X84):           {len(suicide)}")
@@ -192,7 +192,7 @@ plt.suptitle("LISA Clusters: Suicide vs. Overdose Sub-components (p < 0.05)\n"
              "Key question: does Y10–Y14 look like X40–X44 or like X60–X84?",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_y10_split.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_y10_split.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_y10_split.png")

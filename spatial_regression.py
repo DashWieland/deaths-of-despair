@@ -49,12 +49,12 @@ def load_wonder(path, rate_col):
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
 print("Loading death rates...")
-su_now = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-od_now = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-od_old = load_wonder("overdose_county_2006_2012.csv",     "od_2006_2012")
-su_old = load_wonder("suicide_county_2006_2012.csv",      "su_2006_2012")
-k70    = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
-fw     = load_wonder("firearm_suicide_county_2018_2024.csv","firearm_rate")
+su_now = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+od_now = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+od_old = load_wonder("data/overdose_county_2006_2012.csv",     "od_2006_2012")
+su_old = load_wonder("data/suicide_county_2006_2012.csv",      "su_2006_2012")
+k70    = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
+fw     = load_wonder("data/firearm_suicide_county_2018_2024.csv","firearm_rate")
 
 deaths = (su_now
           .merge(od_now, on="fips", how="outer")
@@ -64,7 +64,7 @@ deaths = (su_now
           .merge(fw,     on="fips", how="left"))
 deaths["firearm_fraction"] = (deaths["firearm_rate"] / deaths["suicide_rate"]).clip(0, 1)
 
-with open("elevation_cache.json") as f:
+with open("data/elevation_cache.json") as f:
     elevations = json.load(f)
 deaths["elevation_m"] = deaths["fips"].map(elevations)
 
@@ -260,7 +260,7 @@ plt.suptitle("Spatial OLS: Standardised Coefficients for Each Regime\n"
              "Different predictors, different regime — two crises, not one",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_spatial_regression.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_spatial_regression.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_spatial_regression.png")

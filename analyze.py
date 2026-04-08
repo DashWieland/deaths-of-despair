@@ -29,9 +29,9 @@ def load_wonder(path, rate_col="suicide_rate"):
     return df
 
 print("Loading data...")
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 # ── 2. Merge ───────────────────────────────────────────────────────────────────
 
@@ -189,7 +189,7 @@ for ax, (gd, col, title, color) in zip(axes, configs):
 plt.suptitle("Deaths of Despair: Three Axes, 2018–2024\n(Crude rate per 100K, county-level, 5-quantile classification)",
              fontsize=13, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_choropleths.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("figures/fig_choropleths.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_choropleths.png")
 
@@ -223,7 +223,7 @@ axes[0].legend(handles=legend_patches, title="LISA (suicide)", fontsize=8, title
 plt.suptitle("Spatial Cross-Correlation Between Axes\n(dot color = suicide LISA cluster of that county)",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_scatter.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("figures/fig_scatter.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_scatter.png")
 
@@ -257,7 +257,7 @@ axes[0].legend(handles=legend_patches, loc="lower left", fontsize=8, framealpha=
 plt.suptitle("LISA Spatial Cluster Maps (p < 0.05, Queen contiguity, 999 permutations)",
              fontsize=13, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_lisa.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("figures/fig_lisa.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_lisa.png")
 

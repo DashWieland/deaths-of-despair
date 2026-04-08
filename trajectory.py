@@ -37,10 +37,10 @@ def load_wonder(path, rate_col):
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
 ERAS = [
-    ("1999–2005", "suicide_county_1999_2005.csv",      "overdose_county_1999_2005.csv",      "alcohol_liver_county_1999_2005.csv"),
-    ("2006–2012", "suicide_county_2006_2012.csv",      "overdose_county_2006_2012.csv",      "alcohol_liver_county_2006_2012.csv"),
-    ("2013–2019", "suicide_county_2013_2019.csv",      "overdose_county_2013_2019.csv",      "alcohol_liver_county_2013_2019.csv"),
-    ("2018–2024", "suicide_county_2018_2024.csv",      "overdose_county_2018_2024.csv",      "alcohol_liver_county_2018_2024.csv"),
+    ("1999–2005", "data/suicide_county_1999_2005.csv",      "data/overdose_county_1999_2005.csv",      "data/alcohol_liver_county_1999_2005.csv"),
+    ("2006–2012", "data/suicide_county_2006_2012.csv",      "data/overdose_county_2006_2012.csv",      "data/alcohol_liver_county_2006_2012.csv"),
+    ("2013–2019", "data/suicide_county_2013_2019.csv",      "data/overdose_county_2013_2019.csv",      "data/alcohol_liver_county_2013_2019.csv"),
+    ("2018–2024", "data/suicide_county_2018_2024.csv",      "data/overdose_county_2018_2024.csv",      "data/alcohol_liver_county_2018_2024.csv"),
 ]
 
 # ── Spatial setup (load once) ──────────────────────────────────────────────────
@@ -167,7 +167,7 @@ ax.set_title("Collapse of Suicide–Overdose Spatial Co-clustering, 1999–2024\
              fontsize=12, fontweight="bold")
 
 plt.tight_layout()
-plt.savefig("fig_trajectory.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_trajectory.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_trajectory.png")
@@ -224,7 +224,7 @@ plt.suptitle("Overdose LISA Clusters Across Four Eras\n"
              "Watch Appalachia and New England consolidate as Mountain West fades",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_trajectory_lisa.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_trajectory_lisa.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_trajectory_lisa.png")

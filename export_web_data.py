@@ -29,10 +29,10 @@ OUT_DIR = Path("web/data")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 ERAS = [
-    ("1999-2005", 2002, "suicide_county_1999_2005.csv",  "overdose_county_1999_2005.csv",  "alcohol_liver_county_1999_2005.csv"),
-    ("2006-2012", 2009, "suicide_county_2006_2012.csv",  "overdose_county_2006_2012.csv",  "alcohol_liver_county_2006_2012.csv"),
-    ("2013-2019", 2016, "suicide_county_2013_2019.csv",  "overdose_county_2013_2019.csv",  "alcohol_liver_county_2013_2019.csv"),
-    ("2018-2024", 2021, "suicide_county_2018_2024.csv",  "overdose_county_2018_2024.csv",  "alcohol_liver_county_2018_2024.csv"),
+    ("1999-2005", 2002, "data/suicide_county_1999_2005.csv",  "data/overdose_county_1999_2005.csv",  "data/alcohol_liver_county_1999_2005.csv"),
+    ("2006-2012", 2009, "data/suicide_county_2006_2012.csv",  "data/overdose_county_2006_2012.csv",  "data/alcohol_liver_county_2006_2012.csv"),
+    ("2013-2019", 2016, "data/suicide_county_2013_2019.csv",  "data/overdose_county_2013_2019.csv",  "data/alcohol_liver_county_2013_2019.csv"),
+    ("2018-2024", 2021, "data/suicide_county_2018_2024.csv",  "data/overdose_county_2018_2024.csv",  "data/alcohol_liver_county_2018_2024.csv"),
 ]
 
 PERMS = 9999
@@ -126,8 +126,8 @@ print(f"\n  Saved {traj_path}  ({traj_path.stat().st_size // 1024}KB)")
 
 print("\nComputing bivariate LISA (suicide × overdose, 2018–2024)...")
 
-su18 = load_wonder("suicide_county_2018_2024.csv",  "suicide_rate")
-od18 = load_wonder("overdose_county_2018_2024.csv", "overdose_rate")
+su18 = load_wonder("data/suicide_county_2018_2024.csv",  "suicide_rate")
+od18 = load_wonder("data/overdose_county_2018_2024.csv", "overdose_rate")
 merged18 = su18.merge(od18, on="fips", how="outer")
 gdf18 = counties.merge(merged18, on="fips", how="left")
 gdf18 = gdf18[gdf18["suicide_rate"].notna() & gdf18["overdose_rate"].notna()].copy().reset_index(drop=True)
@@ -161,7 +161,7 @@ print(f"  Saved {lisa_path}  ({lisa_path.stat().st_size // 1024}KB)")
 
 print("\nComputing regime classifications...")
 
-k70_18 = load_wonder("alcohol_liver_county_2018_2024.csv", "k70_rate")
+k70_18 = load_wonder("data/alcohol_liver_county_2018_2024.csv", "k70_rate")
 all18 = su18.merge(od18, on="fips", how="outer").merge(k70_18, on="fips", how="outer")
 
 def tercile(series):

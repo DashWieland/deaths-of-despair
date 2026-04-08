@@ -20,7 +20,7 @@ OUT_DIR = Path("web")
 OUT_DIR.mkdir(exist_ok=True)
 
 for fname in FIGURES:
-    src = Path(fname)
+    src = Path("figures") / fname
     dst = OUT_DIR / fname
 
     img = Image.open(src).convert("RGBA")

@@ -25,30 +25,30 @@ All files in project root. WONDER downloads are 7-year pooled, county-level, cru
 
 | File | ICD-10 | Counties |
 |------|--------|----------|
-| `suicide_county_2018_2024.csv` | X60–X84 | 2,661 |
-| `overdose_county_2018_2024.csv` | X40–X44, Y10–Y14 | 2,392 |
-| `alcohol_liver_county_2018_2024.csv` | K70 | 2,097 |
-| `firearm_suicide_county_2018_2024.csv` | X72–X74 | 2,356 |
-| `overdose_unintentional_county_2018_2024.csv` | X40–X44 | 2,371 |
-| `overdose_undetermined_county_2018_2024.csv` | Y10–Y14 | 286 |
+| `data/suicide_county_2018_2024.csv` | X60–X84 | 2,661 |
+| `data/overdose_county_2018_2024.csv` | X40–X44, Y10–Y14 | 2,392 |
+| `data/alcohol_liver_county_2018_2024.csv` | K70 | 2,097 |
+| `data/firearm_suicide_county_2018_2024.csv` | X72–X74 | 2,356 |
+| `data/overdose_unintentional_county_2018_2024.csv` | X40–X44 | 2,371 |
+| `data/overdose_undetermined_county_2018_2024.csv` | Y10–Y14 | 286 |
 
 ### Historical windows — CDC WONDER 1999–2020 database
 
 | File | ICD-10 | Period |
 |------|--------|--------|
-| `suicide_county_1999_2005.csv` | X60–X84 | 1999–2005 |
-| `overdose_county_1999_2005.csv` | X40–X44, Y10–Y14 | 1999–2005 |
-| `alcohol_liver_county_1999_2005.csv` | K70 | 1999–2005 |
-| `suicide_county_2006_2012.csv` | X60–X84 | 2006–2012 |
-| `overdose_county_2006_2012.csv` | X40–X44, Y10–Y14 | 2006–2012 |
-| `alcohol_liver_county_2006_2012.csv` | K70 | 2006–2012 |
-| `suicide_county_2013_2019.csv` | X60–X84 | 2013–2019 |
-| `overdose_county_2013_2019.csv` | X40–X44, Y10–Y14 | 2013–2019 |
-| `alcohol_liver_county_2013_2019.csv` | K70 | 2013–2019 |
+| `data/suicide_county_1999_2005.csv` | X60–X84 | 1999–2005 |
+| `data/overdose_county_1999_2005.csv` | X40–X44, Y10–Y14 | 1999–2005 |
+| `data/alcohol_liver_county_1999_2005.csv` | K70 | 1999–2005 |
+| `data/suicide_county_2006_2012.csv` | X60–X84 | 2006–2012 |
+| `data/overdose_county_2006_2012.csv` | X40–X44, Y10–Y14 | 2006–2012 |
+| `data/alcohol_liver_county_2006_2012.csv` | K70 | 2006–2012 |
+| `data/suicide_county_2013_2019.csv` | X60–X84 | 2013–2019 |
+| `data/overdose_county_2013_2019.csv` | X40–X44, Y10–Y14 | 2013–2019 |
+| `data/alcohol_liver_county_2013_2019.csv` | K70 | 2013–2019 |
 
 ### Other data
 
-- `elevation_cache.json` — SRTM90m county centroid elevations (3,109 CONUS counties), queried from OpenTopoData API. Do not re-query; use cache.
+- `data/elevation_cache.json` — SRTM90m county centroid elevations (3,109 CONUS counties), queried from OpenTopoData API. Do not re-query; use cache.
 - ACS 2023 5-year demographics fetched at runtime via Census API (no local file).
 
 **Known data quality issues:**
@@ -179,19 +179,19 @@ Spatial error models (robust LM tests favour error over lag for both outcomes).
 
 | File | Description |
 |------|-------------|
-| `fig_choropleths.png` | Three choropleth maps, one per axis, 5-quantile |
-| `fig_scatter.png` | Bivariate scatter plots with BV I annotations, LISA coloring |
-| `fig_lisa.png` | LISA cluster maps for all three axes |
-| `fig_altitude.png` | Elevation vs. each death rate, scatter + trend |
-| `fig_altitude_threshold.png` | Elevation vs. rates with 2,000m threshold, binned means |
-| `fig_gun_proxy.png` | Firearm fraction vs. each axis, regime-colored |
-| `fig_demographics.png` | Boxplot profiles by regime across six ACS variables |
-| `fig_y10_split.png` | LISA maps: suicide, unintentional OD, undetermined OD |
-| `fig_aian_decomp.png` | Regime A scatter split by AIAN subgroup |
-| `fig_temporal.png` | BV I trajectory line chart with C&D window annotated |
-| `fig_trajectory_lisa.png` | 2×2 overdose LISA maps across four eras |
-| `fig_bayes_independence.png` | Permutation null distributions + Bayesian posteriors |
-| `fig_spatial_regression.png` | Standardised coefficient plots for both regime models |
+| `figures/fig_choropleths.png` | Three choropleth maps, one per axis, 5-quantile |
+| `figures/fig_scatter.png` | Bivariate scatter plots with BV I annotations, LISA coloring |
+| `figures/fig_lisa.png` | LISA cluster maps for all three axes |
+| `figures/fig_altitude.png` | Elevation vs. each death rate, scatter + trend |
+| `figures/fig_altitude_threshold.png` | Elevation vs. rates with 2,000m threshold, binned means |
+| `figures/fig_gun_proxy.png` | Firearm fraction vs. each axis, regime-colored |
+| `figures/fig_demographics.png` | Boxplot profiles by regime across six ACS variables |
+| `figures/fig_y10_split.png` | LISA maps: suicide, unintentional OD, undetermined OD |
+| `figures/fig_aian_decomp.png` | Regime A scatter split by AIAN subgroup |
+| `figures/fig_temporal.png` | BV I trajectory line chart with C&D window annotated |
+| `figures/fig_trajectory_lisa.png` | 2×2 overdose LISA maps across four eras |
+| `figures/fig_bayes_independence.png` | Permutation null distributions + Bayesian posteriors |
+| `figures/fig_spatial_regression.png` | Standardised coefficient plots for both regime models |
 
 ---
 

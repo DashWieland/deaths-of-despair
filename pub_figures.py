@@ -53,9 +53,9 @@ def set_extent(ax):
 # ── Load data ──────────────────────────────────────────────────────────────────
 
 print("Loading data...")
-suicide  = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 counties = load_counties()
 
@@ -169,7 +169,7 @@ ax.set_title(
     fontsize=13, fontweight="bold", pad=12, color="#1a1a1a"
 )
 
-plt.savefig("fig_pub_bivariate.png", dpi=200, bbox_inches="tight",
+plt.savefig("figures/fig_pub_bivariate.png", dpi=200, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_pub_bivariate.png")
@@ -182,10 +182,10 @@ print("  Saved fig_pub_bivariate.png")
 print("\nFigure 2: BV I trajectory...")
 
 ERAS = [
-    ("1999–2005", "suicide_county_1999_2005.csv",  "overdose_county_1999_2005.csv",  "alcohol_liver_county_1999_2005.csv"),
-    ("2006–2012", "suicide_county_2006_2012.csv",  "overdose_county_2006_2012.csv",  "alcohol_liver_county_2006_2012.csv"),
-    ("2013–2019", "suicide_county_2013_2019.csv",  "overdose_county_2013_2019.csv",  "alcohol_liver_county_2013_2019.csv"),
-    ("2018–2024", "suicide_county_2018_2024.csv",  "overdose_county_2018_2024.csv",  "alcohol_liver_county_2018_2024.csv"),
+    ("1999–2005", "data/suicide_county_1999_2005.csv",  "data/overdose_county_1999_2005.csv",  "data/alcohol_liver_county_1999_2005.csv"),
+    ("2006–2012", "data/suicide_county_2006_2012.csv",  "data/overdose_county_2006_2012.csv",  "data/alcohol_liver_county_2006_2012.csv"),
+    ("2013–2019", "data/suicide_county_2013_2019.csv",  "data/overdose_county_2013_2019.csv",  "data/alcohol_liver_county_2013_2019.csv"),
+    ("2018–2024", "data/suicide_county_2018_2024.csv",  "data/overdose_county_2018_2024.csv",  "data/alcohol_liver_county_2018_2024.csv"),
 ]
 
 X_MID    = [2002, 2009, 2016, 2021]
@@ -299,7 +299,7 @@ ax.set_title(
     fontsize=12, fontweight="bold", pad=12, color="#1a1a1a"
 )
 
-plt.savefig("fig_pub_trajectory.png", dpi=200, bbox_inches="tight",
+plt.savefig("figures/fig_pub_trajectory.png", dpi=200, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_pub_trajectory.png")
@@ -312,9 +312,9 @@ print("  Saved fig_pub_trajectory.png")
 print("\nFigure 3: Regime classification map...")
 
 # Reload current era
-su = load_wonder("suicide_county_2018_2024.csv",      "suicide_rate")
-od = load_wonder("overdose_county_2018_2024.csv",     "overdose_rate")
-k7 = load_wonder("alcohol_liver_county_2018_2024.csv","k70_rate")
+su = load_wonder("data/suicide_county_2018_2024.csv",      "suicide_rate")
+od = load_wonder("data/overdose_county_2018_2024.csv",     "overdose_rate")
+k7 = load_wonder("data/alcohol_liver_county_2018_2024.csv","k70_rate")
 
 m_all = su.merge(od, on="fips", how="outer").merge(k7, on="fips", how="outer")
 
@@ -401,7 +401,7 @@ fig.text(
     ha="center", fontsize=8, color="#666666"
 )
 
-plt.savefig("fig_pub_regimes.png", dpi=200, bbox_inches="tight",
+plt.savefig("figures/fig_pub_regimes.png", dpi=200, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_pub_regimes.png")

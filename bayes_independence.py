@@ -48,9 +48,9 @@ def load_wonder(path, rate_col):
     return df[["fips", "rate"]].rename(columns={"rate": rate_col})
 
 print("Loading data and spatial weights...")
-suicide  = load_wonder("suicide_county_2018_2024.csv",  "suicide_rate")
-overdose = load_wonder("overdose_county_2018_2024.csv", "overdose_rate")
-k70      = load_wonder("alcohol_liver_county_2018_2024.csv", "k70_rate")
+suicide  = load_wonder("data/suicide_county_2018_2024.csv",  "suicide_rate")
+overdose = load_wonder("data/overdose_county_2018_2024.csv", "overdose_rate")
+k70      = load_wonder("data/alcohol_liver_county_2018_2024.csv", "k70_rate")
 
 counties = gpd.read_file(
     "https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip"
@@ -200,7 +200,7 @@ plt.suptitle("Bayesian Evidence for Spatial Independence: Suicide vs. Overdose (
              "Even under priors that assume strong co-clustering, posteriors concentrate near zero",
              fontsize=12, y=1.01)
 plt.tight_layout()
-plt.savefig("fig_bayes_independence.png", dpi=180, bbox_inches="tight",
+plt.savefig("figures/fig_bayes_independence.png", dpi=180, bbox_inches="tight",
             facecolor=fig.get_facecolor())
 plt.close()
 print("  Saved fig_bayes_independence.png")
