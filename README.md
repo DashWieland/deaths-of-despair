@@ -4,7 +4,7 @@
 
 County-level spatial analysis of US "deaths of despair" (2018–2024), examining whether suicide, drug overdose, and alcoholic liver disease co-cluster geographically as the Case & Deaton unified-epidemic thesis implies.
 
-Analysis and write-up for [Apophenia](https://apophenia.blog).
+Analysis and [write-up](https://www.apophenia.blog/work/deaths-of-despair) for [Apophenia](https://apophenia.blog).
 
 &copy; 2026 Dash Wieland. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you are free to share and adapt this work for any purpose provided you give appropriate credit.
 
