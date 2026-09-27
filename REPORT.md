@@ -383,7 +383,11 @@ uv run python figures.py
 ```
 
 External files download once into `data/cache/` and are checked against the
-SHA-256 in `revisit/fetch.py`. WONDER exports cannot be scripted (no county
+SHA-256 in `revisit/fetch.py`. Tested 2026-09-27: a fresh clone of this branch, a new environment and
+`run_all.py` regenerate all ten result tables byte-for-byte. On Windows, if the
+repository sits in a long path, point uv at a short environment path
+(`UV_PROJECT_ENVIRONMENT=C:/tmp/dodv`); some scipy files otherwise exceed the
+260-character path limit and the install fails silently. WONDER exports cannot be scripted (no county
 API); `data/wonder/QUERIES.md` explains how `tools/wonder_runner.js` regenerates
 them in a browser after accepting WONDER's data use restrictions.
 
