@@ -63,6 +63,9 @@ def county(cause: str, window: str, variant: str = "county") -> pd.DataFrame:
             out.loc[p, ["deaths", "population"]] += out.loc[c, ["deaths", "population"]].to_numpy()
             out.loc[p, "aar_wonder"] = np.nan  # no longer the published figure
         out = out[~c]
+    # WONDER has no Connecticut county populations after 2021 (the state moved
+    # to planning regions), so those rows carry deaths but no denominator.
+    out = out[out.population > 0]
     out["rate"] = 1e5 * out["deaths"] / out["population"]
     return out.reset_index(drop=True)
 
