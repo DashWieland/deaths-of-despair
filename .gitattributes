@@ -1,0 +1,5 @@
+# Data files are stored and checked out byte-exact (no line-ending conversion),
+# so the SHA-256s recorded in data/cdc/SNAPSHOTS.md hold on every platform.
+data/**/*.csv -text
+data/**/*.tsv -text
+data/**/*.json -text
