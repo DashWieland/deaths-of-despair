@@ -14,7 +14,6 @@ Two facts about the original exports drive the design:
 """
 from __future__ import annotations
 
-import urllib.request
 from pathlib import Path
 
 import numpy as np
@@ -22,13 +21,13 @@ import pandas as pd
 import geopandas as gpd
 import libpysal
 
+from fetch import path_for
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-CACHE = DATA / "cache"
 FIGURES = ROOT / "figures" / "revisit"
 OUT = ROOT / "out" / "revisit"
 
-TIGER_URL = "https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip"
 NON_CONUS = {"02", "15", "60", "66", "69", "72", "78"}
 
 # The four windows of the April analysis. 2013–2019 and 2018–2024 overlap by
@@ -38,13 +37,8 @@ CAUSES = {"suicide": "suicide", "overdose": "overdose", "k70": "alcohol_liver"}
 
 
 def county_shapes() -> gpd.GeoDataFrame:
-    """Contiguous-US counties (TIGER 2023), EPSG:5070. Downloads once, then caches."""
-    CACHE.mkdir(parents=True, exist_ok=True)
-    path = CACHE / "tl_2023_us_county.zip"
-    if not path.exists():
-        print(f"  downloading {TIGER_URL} (83 MB, once) ...")
-        urllib.request.urlretrieve(TIGER_URL, path)
-    g = gpd.read_file(path).rename(columns={"GEOID": "fips"})
+    """Contiguous-US counties (TIGER 2023), EPSG:5070, fetched once and hash-checked."""
+    g = gpd.read_file(path_for("tiger_2023_county")).rename(columns={"GEOID": "fips"})
     g = g[~g["STATEFP"].isin(NON_CONUS)].to_crs("EPSG:5070")
     return g[["fips", "STATEFP", "NAME", "geometry"]].sort_values("fips").reset_index(drop=True)
 
