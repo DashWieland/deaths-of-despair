@@ -1,127 +1,364 @@
 year,group,aar,deaths,suppressed_cells,cause,source
-2018,NH American Indian or Alaska Native,21.380000000000003,522.0,13,suicide,race_d158.tsv
+2024,NH White,7.77,19331.0,0,k70,race_d158.tsv
+2023,NH More than one race,8.68,591.0,9,suicide,race_d158.tsv
+2023,NH Native Hawaiian or Other Pacific Islander,15.19,101.0,7,suicide,race_d158.tsv
+2023,NH White,17.51,37153.0,3,suicide,race_d158.tsv
+2024,NH American Indian or Alaska Native,20.13,491.0,12,suicide,race_d158.tsv
+2024,NH Asian,6.33,1482.0,10,suicide,race_d158.tsv
+2024,NH Black or African American,8.59,3742.0,7,suicide,race_d158.tsv
+2024,NH More than one race,9.450000000000001,678.0,12,suicide,race_d158.tsv
+2024,NH Native Hawaiian or Other Pacific Islander,11.51,81.0,7,suicide,race_d158.tsv
+2024,NH White,17.1,36502.0,3,suicide,race_d158.tsv
+2018,NH Asian,2.9099999999999997,587.0,6,overdose_cdc,race_d158.tsv
+2018,NH More than one race,11.969999999999999,623.0,6,overdose_cdc,race_d158.tsv
+2018,NH Native Hawaiian or Other Pacific Islander,10.7,62.0,5,overdose_cdc,race_d158.tsv
+2019,NH Asian,3.26,661.0,4,overdose_cdc,race_d158.tsv
+2019,NH More than one race,12.120000000000001,666.0,8,overdose_cdc,race_d158.tsv
+2019,NH Native Hawaiian or Other Pacific Islander,7.6,46.0,5,overdose_cdc,race_d158.tsv
+2020,NH Asian,4.46,911.0,7,overdose_cdc,race_d158.tsv
+2020,NH More than one race,18.58,1060.0,6,overdose_cdc,race_d158.tsv
+2020,NH Native Hawaiian or Other Pacific Islander,12.68,79.0,3,overdose_cdc,race_d158.tsv
+2023,NH Black or African American,8.98,3857.0,8,suicide,race_d158.tsv
+2023,NH Asian,6.430000000000001,1388.0,7,suicide,race_d158.tsv
+2023,NH American Indian or Alaska Native,22.3,540.0,8,suicide,race_d158.tsv
+2022,NH White,17.560000000000002,37423.0,3,suicide,race_d158.tsv
+2018,NH Asian,6.46,1271.0,10,suicide,race_d158.tsv
+2018,NH More than one race,8.57,491.0,6,suicide,race_d158.tsv
+2018,NH Native Hawaiian or Other Pacific Islander,6.96,44.0,10,suicide,race_d158.tsv
+2019,NH Asian,6.42,1293.0,10,suicide,race_d158.tsv
+2019,NH More than one race,8.39,503.0,7,suicide,race_d158.tsv
+2019,NH Native Hawaiian or Other Pacific Islander,10.32,64.0,9,suicide,race_d158.tsv
+2021,NH American Indian or Alaska Native,55.4,1327.0,6,overdose_cdc,race_d158.tsv
+2020,NH Asian,6.29,1277.0,9,suicide,race_d158.tsv
+2020,NH More than one race,9.09,566.0,10,suicide,race_d158.tsv
+2020,NH Native Hawaiian or Other Pacific Islander,9.46,60.0,6,suicide,race_d158.tsv
+2021,NH American Indian or Alaska Native,27.14,669.0,9,suicide,race_d158.tsv
+2021,NH Asian,6.64,1347.0,9,suicide,race_d158.tsv
+2021,NH Black or African American,8.66,3668.0,4,suicide,race_d158.tsv
+2021,NH More than one race,9.32,606.0,11,suicide,race_d158.tsv
+2021,NH Native Hawaiian or Other Pacific Islander,9.11,60.0,6,suicide,race_d158.tsv
+2021,NH White,17.31,36644.0,2,suicide,race_d158.tsv
+2022,NH American Indian or Alaska Native,25.27,608.0,9,suicide,race_d158.tsv
+2022,NH Asian,6.69,1431.0,9,suicide,race_d158.tsv
+2022,NH Black or African American,8.83,3791.0,6,suicide,race_d158.tsv
+2022,NH Native Hawaiian or Other Pacific Islander,11.93,79.0,9,suicide,race_d158.tsv
+2021,NH Asian,4.51,931.0,9,overdose_cdc,race_d158.tsv
+2022,NH More than one race,10.26,662.0,7,suicide,race_d158.tsv
+2021,NH More than one race,21.14,1245.0,7,overdose_cdc,race_d158.tsv
+2020,NH Asian,1.92,403.0,0,k70,race_d158.tsv
+2020,NH More than one race,4.61,213.0,1,k70,race_d158.tsv
+2020,NH Native Hawaiian or Other Pacific Islander,2.5,13.0,2,k70,race_d158.tsv
+2021,NH American Indian or Alaska Native,62.260000000000005,1503.0,0,k70,race_d158.tsv
+2021,NH Asian,1.93,417.0,0,k70,race_d158.tsv
+2021,NH Black or African American,5.67,2619.0,1,k70,race_d158.tsv
+2021,NH More than one race,5.47,257.0,0,k70,race_d158.tsv
+2021,NH Native Hawaiian or Other Pacific Islander,3.03,19.0,4,k70,race_d158.tsv
+2021,NH White,9.26,22873.0,0,k70,race_d158.tsv
+2022,NH American Indian or Alaska Native,49.96,1202.0,0,k70,race_d158.tsv
+2022,NH Asian,1.84,414.0,1,k70,race_d158.tsv
+2022,NH Black or African American,4.89,2218.0,0,k70,race_d158.tsv
+2022,NH Native Hawaiian or Other Pacific Islander,2.82,17.0,4,k70,race_d158.tsv
+2022,NH White,8.729999999999999,21553.0,0,k70,race_d158.tsv
+2023,NH American Indian or Alaska Native,38.36,940.0,0,k70,race_d158.tsv
+2023,NH Asian,1.7899999999999998,412.0,0,k70,race_d158.tsv
+2023,NH Black or African American,4.37,2003.0,1,k70,race_d158.tsv
+2023,NH More than one race,4.86,242.0,0,k70,race_d158.tsv
+2023,NH Native Hawaiian or Other Pacific Islander,2.47,16.0,2,k70,race_d158.tsv
+2023,NH White,8.03,20023.0,0,k70,race_d158.tsv
+2024,NH American Indian or Alaska Native,37.199999999999996,908.0,1,k70,race_d158.tsv
+2024,NH Asian,1.59,383.0,0,k70,race_d158.tsv
+2024,NH Black or African American,4.0600000000000005,1889.0,1,k70,race_d158.tsv
+2024,NH More than one race,4.42,232.0,0,k70,race_d158.tsv
+2021,NH Black or African American,44.29,19197.0,3,overdose_cdc,race_d158.tsv
+2022,NH More than one race,4.8,234.0,0,k70,race_d158.tsv
+2024,NH Native Hawaiian or Other Pacific Islander,2.14,15.0,3,k70,race_d158.tsv
+2019,NH More than one race,3.29,143.0,1,k70,race_d158.tsv
+2019,NH Native Hawaiian or Other Pacific Islander,1.74,10.0,2,k70,race_d158.tsv
+2021,NH Native Hawaiian or Other Pacific Islander,19.27,122.0,2,overdose_cdc,race_d158.tsv
+2021,NH White,36.720000000000006,70119.0,1,overdose_cdc,race_d158.tsv
+2022,NH American Indian or Alaska Native,63.47,1504.0,6,overdose_cdc,race_d158.tsv
+2022,NH Asian,5.16,1115.0,7,overdose_cdc,race_d158.tsv
+2022,NH Black or African American,47.51,20716.0,2,overdose_cdc,race_d158.tsv
+2022,NH More than one race,22.78,1391.0,5,overdose_cdc,race_d158.tsv
+2022,NH Native Hawaiian or Other Pacific Islander,17.45,116.0,4,overdose_cdc,race_d158.tsv
+2022,NH White,35.55,67971.0,1,overdose_cdc,race_d158.tsv
+2023,NH Asian,4.92,1084.0,7,overdose_cdc,race_d158.tsv
+2023,NH Black or African American,48.86,21538.0,3,overdose_cdc,race_d158.tsv
+2023,NH More than one race,23.33,1420.0,6,overdose_cdc,race_d158.tsv
+2023,NH Native Hawaiian or Other Pacific Islander,24.77,165.0,6,overdose_cdc,race_d158.tsv
+2023,NH White,33.15,63655.0,1,overdose_cdc,race_d158.tsv
+2024,NH American Indian or Alaska Native,50.23,1206.0,7,overdose_cdc,race_d158.tsv
+2023,NH American Indian or Alaska Native,63.08,1504.0,9,overdose_cdc,race_d158.tsv
+2024,NH Black or African American,33.74,15213.0,4,overdose_cdc,race_d158.tsv
+2024,NH Asian,4.31,1017.0,7,overdose_cdc,race_d158.tsv
 2019,NH Asian,1.34,278.0,1,k70,race_d158.tsv
-2019,NH American Indian or Alaska Native,33.550000000000004,803.0,0,k70,race_d158.tsv
-2018,NH White,6.47,16431.0,1,k70,race_d158.tsv
-2018,NH Native Hawaiian or Other Pacific Islander,3.8,21.0,2,k70,race_d158.tsv
 2018,NH More than one race,4.12,170.0,1,k70,race_d158.tsv
-2018,NH Black or African American,3.8400000000000003,1711.0,0,k70,race_d158.tsv
+2018,NH Native Hawaiian or Other Pacific Islander,3.8,21.0,2,k70,race_d158.tsv
 2018,NH Asian,1.3800000000000001,282.0,1,k70,race_d158.tsv
-2018,NH American Indian or Alaska Native,33.68,817.0,0,k70,race_d158.tsv
 2024,NH White,24.71,48430.0,1,overdose_cdc,race_d158.tsv
 2024,NH Native Hawaiian or Other Pacific Islander,19.58,136.0,4,overdose_cdc,race_d158.tsv
 2024,NH More than one race,18.77,1143.0,7,overdose_cdc,race_d158.tsv
-2024,NH Black or African American,33.74,15213.0,4,overdose_cdc,race_d158.tsv
-2024,NH Asian,4.31,1017.0,7,overdose_cdc,race_d158.tsv
-2024,NH American Indian or Alaska Native,50.23,1206.0,7,overdose_cdc,race_d158.tsv
-2023,NH White,33.15,63655.0,1,overdose_cdc,race_d158.tsv
-2023,NH Native Hawaiian or Other Pacific Islander,24.77,165.0,6,overdose_cdc,race_d158.tsv
-2023,NH More than one race,23.33,1420.0,6,overdose_cdc,race_d158.tsv
-2023,NH Black or African American,48.86,21538.0,3,overdose_cdc,race_d158.tsv
-2023,NH Asian,4.92,1084.0,7,overdose_cdc,race_d158.tsv
-2023,NH American Indian or Alaska Native,63.08,1504.0,9,overdose_cdc,race_d158.tsv
-2022,NH White,35.55,67971.0,1,overdose_cdc,race_d158.tsv
-2022,NH Native Hawaiian or Other Pacific Islander,17.45,116.0,4,overdose_cdc,race_d158.tsv
-2022,NH More than one race,22.78,1391.0,5,overdose_cdc,race_d158.tsv
-2022,NH Black or African American,47.51,20716.0,2,overdose_cdc,race_d158.tsv
-2022,NH Asian,5.16,1115.0,7,overdose_cdc,race_d158.tsv
-2022,NH American Indian or Alaska Native,63.47,1504.0,6,overdose_cdc,race_d158.tsv
-2021,NH White,36.720000000000006,70119.0,1,overdose_cdc,race_d158.tsv
-2019,NH Black or African American,4.0,1812.0,1,k70,race_d158.tsv
-2019,NH More than one race,3.29,143.0,1,k70,race_d158.tsv
-2019,NH Native Hawaiian or Other Pacific Islander,1.74,10.0,2,k70,race_d158.tsv
-2019,NH White,6.760000000000001,17040.0,0,k70,race_d158.tsv
-2024,NH More than one race,4.42,232.0,0,k70,race_d158.tsv
-2024,NH Black or African American,4.0600000000000005,1889.0,1,k70,race_d158.tsv
-2024,NH Asian,1.59,383.0,0,k70,race_d158.tsv
-2024,NH American Indian or Alaska Native,37.199999999999996,908.0,1,k70,race_d158.tsv
-2023,NH White,8.03,20023.0,0,k70,race_d158.tsv
-2023,NH Native Hawaiian or Other Pacific Islander,2.47,16.0,2,k70,race_d158.tsv
-2023,NH More than one race,4.86,242.0,0,k70,race_d158.tsv
-2023,NH Black or African American,4.37,2003.0,1,k70,race_d158.tsv
-2023,NH Asian,1.7899999999999998,412.0,0,k70,race_d158.tsv
-2023,NH American Indian or Alaska Native,38.36,940.0,0,k70,race_d158.tsv
-2022,NH White,8.729999999999999,21553.0,0,k70,race_d158.tsv
-2022,NH Native Hawaiian or Other Pacific Islander,2.82,17.0,4,k70,race_d158.tsv
-2022,NH More than one race,4.8,234.0,0,k70,race_d158.tsv
-2021,NH Native Hawaiian or Other Pacific Islander,19.27,122.0,2,overdose_cdc,race_d158.tsv
-2022,NH Black or African American,4.89,2218.0,0,k70,race_d158.tsv
-2022,NH American Indian or Alaska Native,49.96,1202.0,0,k70,race_d158.tsv
-2021,NH White,9.26,22873.0,0,k70,race_d158.tsv
-2021,NH Native Hawaiian or Other Pacific Islander,3.03,19.0,4,k70,race_d158.tsv
-2021,NH More than one race,5.47,257.0,0,k70,race_d158.tsv
-2021,NH Black or African American,5.67,2619.0,1,k70,race_d158.tsv
-2021,NH Asian,1.93,417.0,0,k70,race_d158.tsv
-2021,NH American Indian or Alaska Native,62.260000000000005,1503.0,0,k70,race_d158.tsv
-2020,NH White,8.430000000000001,20787.0,0,k70,race_d158.tsv
-2020,NH Native Hawaiian or Other Pacific Islander,2.5,13.0,2,k70,race_d158.tsv
-2020,NH More than one race,4.61,213.0,1,k70,race_d158.tsv
-2020,NH Black or African American,4.8500000000000005,2182.0,1,k70,race_d158.tsv
-2020,NH Asian,1.92,403.0,0,k70,race_d158.tsv
-2020,NH American Indian or Alaska Native,47.2,1126.0,1,k70,race_d158.tsv
-2022,NH Asian,1.84,414.0,1,k70,race_d158.tsv
-2021,NH More than one race,21.14,1245.0,7,overdose_cdc,race_d158.tsv
-2021,NH Black or African American,44.29,19197.0,3,overdose_cdc,race_d158.tsv
-2021,NH Asian,4.51,931.0,9,overdose_cdc,race_d158.tsv
-2022,NH Native Hawaiian or Other Pacific Islander,11.93,79.0,9,suicide,race_d158.tsv
-2022,NH More than one race,10.26,662.0,7,suicide,race_d158.tsv
-2022,NH Black or African American,8.83,3791.0,6,suicide,race_d158.tsv
-2022,NH Asian,6.69,1431.0,9,suicide,race_d158.tsv
-2022,NH American Indian or Alaska Native,25.27,608.0,9,suicide,race_d158.tsv
-2021,NH White,17.31,36644.0,2,suicide,race_d158.tsv
-2021,NH Native Hawaiian or Other Pacific Islander,9.11,60.0,6,suicide,race_d158.tsv
-2021,NH More than one race,9.32,606.0,11,suicide,race_d158.tsv
-2021,NH Black or African American,8.66,3668.0,4,suicide,race_d158.tsv
-2021,NH Asian,6.64,1347.0,9,suicide,race_d158.tsv
-2021,NH American Indian or Alaska Native,27.14,669.0,9,suicide,race_d158.tsv
-2020,NH White,16.8,35411.0,2,suicide,race_d158.tsv
-2020,NH Native Hawaiian or Other Pacific Islander,9.46,60.0,6,suicide,race_d158.tsv
-2022,NH White,17.560000000000002,37423.0,3,suicide,race_d158.tsv
-2020,NH More than one race,9.09,566.0,10,suicide,race_d158.tsv
-2020,NH Asian,6.29,1277.0,9,suicide,race_d158.tsv
-2020,NH American Indian or Alaska Native,22.37,550.0,13,suicide,race_d158.tsv
-2019,NH White,17.580000000000002,37401.0,2,suicide,race_d158.tsv
-2019,NH Native Hawaiian or Other Pacific Islander,10.32,64.0,9,suicide,race_d158.tsv
-2019,NH More than one race,8.39,503.0,7,suicide,race_d158.tsv
-2019,NH Black or African American,7.359999999999999,3079.0,7,suicide,race_d158.tsv
-2019,NH Asian,6.42,1293.0,10,suicide,race_d158.tsv
-2019,NH American Indian or Alaska Native,20.51,499.0,12,suicide,race_d158.tsv
-2018,NH White,18.09,38385.0,1,suicide,race_d158.tsv
-2018,NH Native Hawaiian or Other Pacific Islander,6.96,44.0,10,suicide,race_d158.tsv
-2018,NH More than one race,8.57,491.0,6,suicide,race_d158.tsv
-2018,NH Black or African American,7.1499999999999995,2997.0,6,suicide,race_d158.tsv
-2018,NH Asian,6.46,1271.0,10,suicide,race_d158.tsv
-2020,NH Black or African American,7.72,3251.0,6,suicide,race_d158.tsv
-2024,NH Native Hawaiian or Other Pacific Islander,2.14,15.0,3,k70,race_d158.tsv
-2023,NH American Indian or Alaska Native,22.3,540.0,8,suicide,race_d158.tsv
-2023,NH Black or African American,8.98,3857.0,8,suicide,race_d158.tsv
-2021,NH American Indian or Alaska Native,55.4,1327.0,6,overdose_cdc,race_d158.tsv
-2020,NH White,32.97,62309.0,1,overdose_cdc,race_d158.tsv
-2020,NH Native Hawaiian or Other Pacific Islander,12.68,79.0,3,overdose_cdc,race_d158.tsv
-2020,NH More than one race,18.58,1060.0,6,overdose_cdc,race_d158.tsv
-2020,NH Black or African American,35.72,15236.0,4,overdose_cdc,race_d158.tsv
-2020,NH Asian,4.46,911.0,7,overdose_cdc,race_d158.tsv
-2020,NH American Indian or Alaska Native,41.26,982.0,8,overdose_cdc,race_d158.tsv
-2019,NH White,26.03,50041.0,1,overdose_cdc,race_d158.tsv
-2019,NH Native Hawaiian or Other Pacific Islander,7.6,46.0,5,overdose_cdc,race_d158.tsv
-2019,NH More than one race,12.120000000000001,666.0,8,overdose_cdc,race_d158.tsv
-2019,NH Black or African American,24.73,10501.0,4,overdose_cdc,race_d158.tsv
-2019,NH Asian,3.26,661.0,4,overdose_cdc,race_d158.tsv
-2019,NH American Indian or Alaska Native,28.64,679.0,10,overdose_cdc,race_d158.tsv
-2023,NH Asian,6.430000000000001,1388.0,7,suicide,race_d158.tsv
-2018,NH White,25.92,49636.0,1,overdose_cdc,race_d158.tsv
-2018,NH More than one race,11.969999999999999,623.0,6,overdose_cdc,race_d158.tsv
-2018,NH Black or African American,21.310000000000002,9015.0,5,overdose_cdc,race_d158.tsv
-2018,NH Asian,2.9099999999999997,587.0,6,overdose_cdc,race_d158.tsv
-2018,NH American Indian or Alaska Native,25.47,592.0,9,overdose_cdc,race_d158.tsv
-2024,NH White,17.1,36502.0,3,suicide,race_d158.tsv
-2024,NH Native Hawaiian or Other Pacific Islander,11.51,81.0,7,suicide,race_d158.tsv
-2024,NH More than one race,9.450000000000001,678.0,12,suicide,race_d158.tsv
-2024,NH Black or African American,8.59,3742.0,7,suicide,race_d158.tsv
-2024,NH Asian,6.33,1482.0,10,suicide,race_d158.tsv
-2024,NH American Indian or Alaska Native,20.13,491.0,12,suicide,race_d158.tsv
-2023,NH White,17.51,37153.0,3,suicide,race_d158.tsv
-2023,NH Native Hawaiian or Other Pacific Islander,15.19,101.0,7,suicide,race_d158.tsv
-2023,NH More than one race,8.68,591.0,9,suicide,race_d158.tsv
-2018,NH Native Hawaiian or Other Pacific Islander,10.7,62.0,5,overdose_cdc,race_d158.tsv
-2024,NH White,7.77,19331.0,0,k70,race_d158.tsv
+2009,NH Black or African American,3.0799999999999996,1151.0,1,k70,race_d77.tsv
+2008,NH Black or African American,3.26,1175.0,1,k70,race_d77.tsv
+2008,NH White,4.51,10819.0,0,k70,race_d77.tsv
+2009,NH American Indian or Alaska Native,19.34,465.0,1,k70,race_d77.tsv
+2009,NH Asian or Pacific Islander,1.0,171.0,2,k70,race_d77.tsv
+2009,NH White,4.529999999999999,11025.0,1,k70,race_d77.tsv
+2011,NH American Indian or Alaska Native,22.44,569.0,0,k70,race_d77.tsv
+2010,NH Asian or Pacific Islander,0.81,155.0,1,k70,race_d77.tsv
+2010,NH Black or African American,3.0999999999999996,1206.0,0,k70,race_d77.tsv
+2011,NH Black or African American,3.33,1329.0,1,k70,race_d77.tsv
+2010,NH White,4.72,11607.0,0,k70,race_d77.tsv
+2011,NH Asian or Pacific Islander,1.16,205.0,2,k70,race_d77.tsv
+2008,NH Asian or Pacific Islander,0.99,160.0,2,k70,race_d77.tsv
+2010,NH American Indian or Alaska Native,23.06,558.0,1,k70,race_d77.tsv
+2008,NH American Indian or Alaska Native,21.58,501.0,1,k70,race_d77.tsv
+2004,NH Black or African American,3.57,1160.0,0,k70,race_d77.tsv
+2007,NH Black or African American,3.37,1189.0,1,k70,race_d77.tsv
+2004,NH American Indian or Alaska Native,16.770000000000003,373.0,2,k70,race_d77.tsv
+2004,NH Asian or Pacific Islander,0.89,113.0,2,k70,race_d77.tsv
+2011,NH White,4.85,12023.0,1,k70,race_d77.tsv
+2004,NH White,4.01,9149.0,1,k70,race_d77.tsv
+2005,NH American Indian or Alaska Native,17.81,393.0,1,k70,race_d77.tsv
+2005,NH Asian or Pacific Islander,0.92,133.0,2,k70,race_d77.tsv
+2007,NH White,4.37,10415.0,1,k70,race_d77.tsv
+2005,NH Black or African American,3.45,1153.0,1,k70,race_d77.tsv
+2006,NH American Indian or Alaska Native,17.85,406.0,1,k70,race_d77.tsv
+2006,NH Asian or Pacific Islander,1.0,149.0,2,k70,race_d77.tsv
+2006,NH Black or African American,2.96,1021.0,0,k70,race_d77.tsv
+2006,NH White,4.04,9512.0,0,k70,race_d77.tsv
+2007,NH American Indian or Alaska Native,20.04,467.0,1,k70,race_d77.tsv
+2007,NH Asian or Pacific Islander,0.8999999999999999,141.0,2,k70,race_d77.tsv
+2005,NH White,4.02,9366.0,1,k70,race_d77.tsv
+2012,NH American Indian or Alaska Native,25.33,622.0,1,k70,race_d77.tsv
+2016,NH American Indian or Alaska Native,28.479999999999997,770.0,0,k70,race_d77.tsv
+2012,NH Black or African American,3.19,1283.0,1,k70,race_d77.tsv
+2017,NH Black or African American,3.69,1659.0,1,k70,race_d77.tsv
+2017,NH White,6.23,15903.0,1,k70,race_d77.tsv
+2018,NH American Indian or Alaska Native,30.900000000000002,853.0,0,k70,race_d77.tsv
+2018,NH Asian or Pacific Islander,1.48,347.0,0,k70,race_d77.tsv
+2018,NH Black or African American,3.83,1729.0,0,k70,race_d77.tsv
+2018,NH White,6.46,16520.0,1,k70,race_d77.tsv
+2017,NH Asian or Pacific Islander,1.26,293.0,1,k70,race_d77.tsv
+2019,NH American Indian or Alaska Native,31.360000000000003,841.0,0,k70,race_d77.tsv
+2019,NH Black or African American,3.9600000000000004,1829.0,1,k70,race_d77.tsv
+2019,NH White,6.7299999999999995,17107.0,0,k70,race_d77.tsv
+2020,NH Asian or Pacific Islander,1.9800000000000002,458.0,0,k70,race_d77.tsv
+2020,NH Black or African American,4.82,2209.0,1,k70,race_d77.tsv
+2020,NH White,8.409999999999998,20888.0,0,k70,race_d77.tsv
+2003,NH White,3.98,8898.0,1,k70,race_d77.tsv
+2019,NH Asian or Pacific Islander,1.41,323.0,1,k70,race_d77.tsv
+2012,NH Asian or Pacific Islander,0.92,174.0,2,k70,race_d77.tsv
+2017,NH American Indian or Alaska Native,29.470000000000002,781.0,1,k70,race_d77.tsv
+2016,NH Black or African American,3.67,1597.0,1,k70,race_d77.tsv
+2012,NH White,5.0600000000000005,12617.0,1,k70,race_d77.tsv
+2013,NH American Indian or Alaska Native,26.29,666.0,1,k70,race_d77.tsv
+2013,NH Asian or Pacific Islander,0.92,197.0,1,k70,race_d77.tsv
+2013,NH Black or African American,3.2699999999999996,1340.0,0,k70,race_d77.tsv
+2013,NH White,5.23,13112.0,1,k70,race_d77.tsv
+2014,NH American Indian or Alaska Native,25.97,676.0,0,k70,race_d77.tsv
+2016,NH White,6.13,15520.0,1,k70,race_d77.tsv
+2014,NH Asian or Pacific Islander,1.07,233.0,1,k70,race_d77.tsv
+2014,NH White,5.46,13853.0,0,k70,race_d77.tsv
+2015,NH American Indian or Alaska Native,29.0,769.0,0,k70,race_d77.tsv
+2015,NH Asian or Pacific Islander,1.1600000000000001,244.0,2,k70,race_d77.tsv
+2015,NH Black or African American,3.6599999999999997,1569.0,1,k70,race_d77.tsv
+2015,NH White,5.909999999999999,14978.0,0,k70,race_d77.tsv
+2016,NH Asian or Pacific Islander,1.1400000000000001,273.0,2,k70,race_d77.tsv
+2014,NH Black or African American,3.41,1444.0,1,k70,race_d77.tsv
+2020,NH American Indian or Alaska Native,44.08,1178.0,1,k70,race_d77.tsv
+1999,NH American Indian or Alaska Native,9.85,245.0,12,suicide,race_d77.tsv
+2003,NH American Indian or Alaska Native,16.95,381.0,1,k70,race_d77.tsv
+2016,NH Asian or Pacific Islander,6.4799999999999995,1339.0,9,suicide,race_d77.tsv
+2016,NH American Indian or Alaska Native,19.45,547.0,10,suicide,race_d77.tsv
+2015,NH White,16.92,36411.0,3,suicide,race_d77.tsv
+2015,NH Black or African American,5.52,2373.0,7,suicide,race_d77.tsv
+2015,NH Asian or Pacific Islander,6.21,1243.0,9,suicide,race_d77.tsv
+2015,NH American Indian or Alaska Native,17.44,471.0,14,suicide,race_d77.tsv
+2014,NH White,16.37,35378.0,2,suicide,race_d77.tsv
+2014,NH Black or African American,5.51,2305.0,7,suicide,race_d77.tsv
+2014,NH Asian or Pacific Islander,5.8,1118.0,8,suicide,race_d77.tsv
+2016,NH Black or African American,6.05,2627.0,8,suicide,race_d77.tsv
+2014,NH American Indian or Alaska Native,15.56,419.0,14,suicide,race_d77.tsv
+2013,NH Black or African American,5.46,2257.0,7,suicide,race_d77.tsv
+2013,NH Asian or Pacific Islander,5.45,1053.0,10,suicide,race_d77.tsv
+2013,NH American Indian or Alaska Native,15.88,455.0,9,suicide,race_d77.tsv
+2012,NH White,15.6,33664.0,2,suicide,race_d77.tsv
+2012,NH Black or African American,5.66,2265.0,8,suicide,race_d77.tsv
+2012,NH Asian or Pacific Islander,5.74,1088.0,6,suicide,race_d77.tsv
+2012,NH American Indian or Alaska Native,15.3,421.0,8,suicide,race_d77.tsv
+2011,NH White,15.43,32953.0,3,suicide,race_d77.tsv
+2011,NH Black or African American,5.4,2178.0,3,suicide,race_d77.tsv
+2013,NH White,15.68,34179.0,1,suicide,race_d77.tsv
+2011,NH Asian or Pacific Islander,5.52,987.0,9,suicide,race_d77.tsv
+2016,NH White,16.91,36444.0,2,suicide,race_d77.tsv
+2017,NH Asian or Pacific Islander,6.45,1381.0,11,suicide,race_d77.tsv
+2000,NH Asian or Pacific Islander,0.72,94.0,10,overdose_cdc,race_d77.tsv
+2000,NH American Indian or Alaska Native,3.4400000000000004,87.0,9,overdose_cdc,race_d77.tsv
+1999,NH White,6.03,12325.0,1,overdose_cdc,race_d77.tsv
+1999,NH Black or African American,7.31,2410.0,5,overdose_cdc,race_d77.tsv
+1999,NH Asian or Pacific Islander,0.69,101.0,8,overdose_cdc,race_d77.tsv
+1999,NH American Indian or Alaska Native,3.63,105.0,7,overdose_cdc,race_d77.tsv
+2020,NH White,16.67,35684.0,2,suicide,race_d77.tsv
+2020,NH Black or African American,7.609999999999999,3378.0,6,suicide,race_d77.tsv
+2020,NH Asian or Pacific Islander,6.55,1474.0,9,suicide,race_d77.tsv
+2017,NH American Indian or Alaska Native,19.47,569.0,12,suicide,race_d77.tsv
+2020,NH American Indian or Alaska Native,21.24,620.0,13,suicide,race_d77.tsv
+2019,NH Black or African American,7.2,3182.0,7,suicide,race_d77.tsv
+2019,NH Asian or Pacific Islander,6.87,1496.0,10,suicide,race_d77.tsv
+2019,NH American Indian or Alaska Native,20.22,567.0,12,suicide,race_d77.tsv
+2018,NH White,17.96,38613.0,1,suicide,race_d77.tsv
+2018,NH Black or African American,7.1499999999999995,3098.0,6,suicide,race_d77.tsv
+2018,NH Asian or Pacific Islander,6.75,1454.0,10,suicide,race_d77.tsv
+2018,NH American Indian or Alaska Native,20.33,586.0,13,suicide,race_d77.tsv
+2017,NH White,17.66,38050.0,3,suicide,race_d77.tsv
+2017,NH Black or African American,6.67,2896.0,6,suicide,race_d77.tsv
+2019,NH White,17.48,37645.0,2,suicide,race_d77.tsv
+2011,NH American Indian or Alaska Native,14.59,377.0,12,suicide,race_d77.tsv
+2010,NH White,14.9,31960.0,2,suicide,race_d77.tsv
+2010,NH Black or African American,5.22,2046.0,7,suicide,race_d77.tsv
+2004,NH American Indian or Alaska Native,13.0,339.0,11,suicide,race_d77.tsv
+2003,NH White,12.65,26374.0,3,suicide,race_d77.tsv
+2003,NH Black or African American,5.12,1883.0,8,suicide,race_d77.tsv
+2003,NH Asian or Pacific Islander,4.63,655.0,11,suicide,race_d77.tsv
+2003,NH American Indian or Alaska Native,11.149999999999999,273.0,13,suicide,race_d77.tsv
+2002,NH White,12.82,26630.0,2,suicide,race_d77.tsv
+2002,NH Black or African American,5.17,1873.0,6,suicide,race_d77.tsv
+2002,NH Asian or Pacific Islander,4.54,613.0,8,suicide,race_d77.tsv
+2002,NH American Indian or Alaska Native,10.79,265.0,14,suicide,race_d77.tsv
+2004,NH Asian or Pacific Islander,5.07,723.0,8,suicide,race_d77.tsv
+2001,NH White,12.440000000000001,25737.0,3,suicide,race_d77.tsv
+2001,NH Asian or Pacific Islander,4.43,567.0,11,suicide,race_d77.tsv
+2001,NH American Indian or Alaska Native,10.45,276.0,12,suicide,race_d77.tsv
+2000,NH White,11.959999999999999,24578.0,2,suicide,race_d77.tsv
+2000,NH Black or African American,5.35,1896.0,6,suicide,race_d77.tsv
+2000,NH Asian or Pacific Islander,4.7700000000000005,569.0,9,suicide,race_d77.tsv
+2000,NH American Indian or Alaska Native,10.010000000000002,247.0,11,suicide,race_d77.tsv
+1999,NH White,11.92,24509.0,2,suicide,race_d77.tsv
+1999,NH Black or African American,5.5,1894.0,9,suicide,race_d77.tsv
+1999,NH Asian or Pacific Islander,5.220000000000001,620.0,7,suicide,race_d77.tsv
+2001,NH Black or African American,5.28,1880.0,6,suicide,race_d77.tsv
+2004,NH Black or African American,5.21,1948.0,5,suicide,race_d77.tsv
+2004,NH White,12.88,26928.0,3,suicide,race_d77.tsv
+2005,NH American Indian or Alaska Native,11.989999999999998,325.0,11,suicide,race_d77.tsv
+2010,NH Asian or Pacific Islander,5.54,996.0,5,suicide,race_d77.tsv
+2010,NH American Indian or Alaska Native,14.940000000000001,395.0,16,suicide,race_d77.tsv
+2009,NH White,14.41,30747.0,3,suicide,race_d77.tsv
+2009,NH Black or African American,5.09,1989.0,7,suicide,race_d77.tsv
+2009,NH Asian or Pacific Islander,5.2,895.0,7,suicide,race_d77.tsv
+2009,NH American Indian or Alaska Native,13.35,380.0,12,suicide,race_d77.tsv
+2008,NH White,14.15,30216.0,3,suicide,race_d77.tsv
+2008,NH Black or African American,5.21,2032.0,6,suicide,race_d77.tsv
+2008,NH Asian or Pacific Islander,4.75,816.0,9,suicide,race_d77.tsv
+2008,NH American Indian or Alaska Native,12.9,367.0,7,suicide,race_d77.tsv
+2007,NH White,13.68,28844.0,2,suicide,race_d77.tsv
+2007,NH Black or African American,4.87,1885.0,6,suicide,race_d77.tsv
+2007,NH Asian or Pacific Islander,5.45,833.0,10,suicide,race_d77.tsv
+2007,NH American Indian or Alaska Native,11.940000000000001,322.0,11,suicide,race_d77.tsv
+2006,NH White,13.24,27867.0,2,suicide,race_d77.tsv
+2006,NH Black or African American,5.03,1854.0,10,suicide,race_d77.tsv
+2006,NH Asian or Pacific Islander,5.08,754.0,7,suicide,race_d77.tsv
+2006,NH American Indian or Alaska Native,12.540000000000001,335.0,13,suicide,race_d77.tsv
+2005,NH White,13.040000000000001,27236.0,2,suicide,race_d77.tsv
+2005,NH Black or African American,5.2,1922.0,6,suicide,race_d77.tsv
+2005,NH Asian or Pacific Islander,4.6,661.0,10,suicide,race_d77.tsv
+2000,NH Black or African American,7.08,2372.0,5,overdose_cdc,race_d77.tsv
+2000,NH White,6.4799999999999995,13165.0,1,overdose_cdc,race_d77.tsv
+2001,NH American Indian or Alaska Native,4.4,128.0,9,overdose_cdc,race_d77.tsv
+2001,NH Asian or Pacific Islander,0.76,117.0,7,overdose_cdc,race_d77.tsv
+2018,NH Black or African American,21.14,9176.0,5,overdose_cdc,race_d77.tsv
+2018,NH Asian or Pacific Islander,3.33,771.0,6,overdose_cdc,race_d77.tsv
+2018,NH American Indian or Alaska Native,25.16,669.0,9,overdose_cdc,race_d77.tsv
+2017,NH White,27.46,53512.0,1,overdose_cdc,race_d77.tsv
+2017,NH Black or African American,20.46,8821.0,3,overdose_cdc,race_d77.tsv
+2017,NH Asian or Pacific Islander,3.21,734.0,7,overdose_cdc,race_d77.tsv
+2017,NH American Indian or Alaska Native,23.650000000000002,648.0,8,overdose_cdc,race_d77.tsv
+2016,NH White,25.27,49455.0,1,overdose_cdc,race_d77.tsv
+2016,NH Black or African American,16.93,7210.0,3,overdose_cdc,race_d77.tsv
+2018,NH White,25.700000000000003,49921.0,1,overdose_cdc,race_d77.tsv
+2016,NH Asian or Pacific Islander,2.92,636.0,4,overdose_cdc,race_d77.tsv
+2015,NH White,20.99,41712.0,1,overdose_cdc,race_d77.tsv
+2015,NH Black or African American,12.0,5055.0,3,overdose_cdc,race_d77.tsv
+2015,NH Asian or Pacific Islander,2.48,520.0,7,overdose_cdc,race_d77.tsv
+2015,NH American Indian or Alaska Native,19.59,523.0,8,overdose_cdc,race_d77.tsv
+2014,NH White,18.91,37939.0,1,overdose_cdc,race_d77.tsv
+2014,NH Black or African American,10.41,4310.0,4,overdose_cdc,race_d77.tsv
+2014,NH Asian or Pacific Islander,2.14,432.0,8,overdose_cdc,race_d77.tsv
+2014,NH American Indian or Alaska Native,18.97,507.0,7,overdose_cdc,race_d77.tsv
+2013,NH White,17.59,35579.0,1,overdose_cdc,race_d77.tsv
+2016,NH American Indian or Alaska Native,21.96,617.0,6,overdose_cdc,race_d77.tsv
+2019,NH American Indian or Alaska Native,28.07,748.0,10,overdose_cdc,race_d77.tsv
+2019,NH Asian or Pacific Islander,3.68,850.0,4,overdose_cdc,race_d77.tsv
+2019,NH Black or African American,24.5,10681.0,4,overdose_cdc,race_d77.tsv
+2002,NH White,3.9800000000000004,8712.0,1,k70,race_d77.tsv
+2002,NH Black or African American,3.7699999999999996,1173.0,0,k70,race_d77.tsv
+2002,NH Asian or Pacific Islander,0.83,117.0,2,k70,race_d77.tsv
+2002,NH American Indian or Alaska Native,16.86,363.0,1,k70,race_d77.tsv
+2001,NH White,3.91,8631.0,1,k70,race_d77.tsv
+2001,NH Black or African American,4.4399999999999995,1330.0,1,k70,race_d77.tsv
+2001,NH Asian or Pacific Islander,0.74,103.0,1,k70,race_d77.tsv
+2001,NH American Indian or Alaska Native,16.73,341.0,1,k70,race_d77.tsv
+2000,NH White,3.97,8549.0,1,k70,race_d77.tsv
+2000,NH Black or African American,4.71,1370.0,0,k70,race_d77.tsv
+2000,NH Asian or Pacific Islander,0.83,93.0,3,k70,race_d77.tsv
+2000,NH American Indian or Alaska Native,15.93,326.0,1,k70,race_d77.tsv
+1999,NH White,3.96,8468.0,1,k70,race_d77.tsv
+1999,NH Black or African American,5.1899999999999995,1445.0,0,k70,race_d77.tsv
+1999,NH Asian or Pacific Islander,0.59,83.0,2,k70,race_d77.tsv
+1999,NH American Indian or Alaska Native,18.21,340.0,2,k70,race_d77.tsv
+2020,NH White,32.7,62783.0,1,overdose_cdc,race_d77.tsv
+2020,NH Black or African American,35.21,15528.0,4,overdose_cdc,race_d77.tsv
+2020,NH Asian or Pacific Islander,5.2,1200.0,7,overdose_cdc,race_d77.tsv
+2020,NH American Indian or Alaska Native,39.660000000000004,1091.0,8,overdose_cdc,race_d77.tsv
+2019,NH White,25.840000000000003,50343.0,1,overdose_cdc,race_d77.tsv
+2013,NH Black or African American,9.549999999999999,3911.0,4,overdose_cdc,race_d77.tsv
+2003,NH Asian or Pacific Islander,0.61,102.0,2,k70,race_d77.tsv
+2013,NH Asian or Pacific Islander,1.9900000000000002,403.0,6,overdose_cdc,race_d77.tsv
+2012,NH White,16.720000000000002,33818.0,1,overdose_cdc,race_d77.tsv
+2006,NH Asian or Pacific Islander,1.6,253.0,5,overdose_cdc,race_d77.tsv
+2006,NH American Indian or Alaska Native,11.0,311.0,8,overdose_cdc,race_d77.tsv
+2005,NH White,11.73,23599.0,1,overdose_cdc,race_d77.tsv
+2005,NH Black or African American,9.209999999999999,3312.0,3,overdose_cdc,race_d77.tsv
+2005,NH Asian or Pacific Islander,1.3,200.0,7,overdose_cdc,race_d77.tsv
+2005,NH American Indian or Alaska Native,11.04,274.0,8,overdose_cdc,race_d77.tsv
+2004,NH White,10.91,22018.0,1,overdose_cdc,race_d77.tsv
+2004,NH Black or African American,8.040000000000001,2888.0,3,overdose_cdc,race_d77.tsv
+2004,NH Asian or Pacific Islander,1.14,169.0,9,overdose_cdc,race_d77.tsv
+2006,NH Black or African American,10.75,3889.0,5,overdose_cdc,race_d77.tsv
+2004,NH American Indian or Alaska Native,9.85,275.0,6,overdose_cdc,race_d77.tsv
+2003,NH Black or African American,7.99,2811.0,3,overdose_cdc,race_d77.tsv
+2003,NH Asian or Pacific Islander,1.07,166.0,7,overdose_cdc,race_d77.tsv
+2003,NH American Indian or Alaska Native,8.1,227.0,6,overdose_cdc,race_d77.tsv
+2002,NH White,9.07,18399.0,1,overdose_cdc,race_d77.tsv
+2002,NH Black or African American,8.0,2772.0,4,overdose_cdc,race_d77.tsv
+2002,NH Asian or Pacific Islander,0.94,146.0,6,overdose_cdc,race_d77.tsv
+2002,NH American Indian or Alaska Native,6.260000000000001,169.0,8,overdose_cdc,race_d77.tsv
+2001,NH White,7.31,14944.0,1,overdose_cdc,race_d77.tsv
+2001,NH Black or African American,7.32,2512.0,1,overdose_cdc,race_d77.tsv
+2003,NH White,10.14,20360.0,2,overdose_cdc,race_d77.tsv
+2006,NH White,13.479999999999999,27270.0,1,overdose_cdc,race_d77.tsv
+2007,NH American Indian or Alaska Native,10.95,316.0,8,overdose_cdc,race_d77.tsv
+2007,NH Asian or Pacific Islander,1.53,238.0,8,overdose_cdc,race_d77.tsv
+2012,NH Black or African American,8.540000000000001,3474.0,3,overdose_cdc,race_d77.tsv
+2012,NH Asian or Pacific Islander,1.94,380.0,7,overdose_cdc,race_d77.tsv
+2012,NH American Indian or Alaska Native,17.1,455.0,8,overdose_cdc,race_d77.tsv
+2011,NH White,16.85,33961.0,0,overdose_cdc,race_d77.tsv
+2011,NH Black or African American,8.5,3376.0,3,overdose_cdc,race_d77.tsv
+2011,NH Asian or Pacific Islander,2.02,368.0,7,overdose_cdc,race_d77.tsv
+2011,NH American Indian or Alaska Native,15.85,415.0,8,overdose_cdc,race_d77.tsv
+2010,NH White,15.67,31706.0,1,overdose_cdc,race_d77.tsv
+2010,NH Black or African American,7.87,3095.0,6,overdose_cdc,race_d77.tsv
+2010,NH Asian or Pacific Islander,1.43,302.0,5,overdose_cdc,race_d77.tsv
+2010,NH American Indian or Alaska Native,14.63,381.0,8,overdose_cdc,race_d77.tsv
+2009,NH White,14.92,30298.0,1,overdose_cdc,race_d77.tsv
+2009,NH Black or African American,8.180000000000001,3134.0,5,overdose_cdc,race_d77.tsv
+2009,NH Asian or Pacific Islander,1.54,277.0,6,overdose_cdc,race_d77.tsv
+2009,NH American Indian or Alaska Native,15.32,401.0,6,overdose_cdc,race_d77.tsv
+2008,NH White,14.76,29961.0,1,overdose_cdc,race_d77.tsv
+2008,NH Black or African American,8.25,3141.0,3,overdose_cdc,race_d77.tsv
+2008,NH Asian or Pacific Islander,1.41,234.0,8,overdose_cdc,race_d77.tsv
+2008,NH American Indian or Alaska Native,13.43,367.0,5,overdose_cdc,race_d77.tsv
+2007,NH White,14.45,29207.0,2,overdose_cdc,race_d77.tsv
+2007,NH Black or African American,9.59,3572.0,2,overdose_cdc,race_d77.tsv
+2013,NH American Indian or Alaska Native,16.79,462.0,6,overdose_cdc,race_d77.tsv
+2003,NH Black or African American,3.84,1206.0,0,k70,race_d77.tsv

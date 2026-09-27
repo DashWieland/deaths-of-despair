@@ -27,7 +27,7 @@ PAIRS = [("suicide", "overdose"), ("suicide", "k70"), ("overdose", "k70")]
 def main():
     rows = []
     for w in WINDOWS:
-        have_isr = (_W / "national" / _database_file(w)).exists()
+        have_isr = all((_W / "national" / _database_file(w).format(cause=c)).exists() for c in PRIMARY)
         data = {}
         for c in PRIMARY:
             d = county(c, w)

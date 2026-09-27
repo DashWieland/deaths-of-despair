@@ -76,18 +76,26 @@ Files: `county_25_64/{cause}_{window}.tsv`.
 to measure whether the database switch moves county rates.
 Files: `calibration/suicide_2018-2020_{d76,d158}.tsv`.
 
-## E. National age-specific deaths, for age standardisation — 2 exports
+## E. National age-specific deaths, for age standardisation — 4 exports
 
-Group by **Year**, **Ten-Year Age Groups**, **ICD-10 Codes**. Codes: the union
-of every definition above (X40–X45, X60–X85, Y10–Y15, Y45, Y47, Y49, K70, K73,
-K74). D76 for 1999–2020 and D158 for 2018–2024.
-Files: `national/age_{d76,d158}.tsv`.
+* 2018–2024: D158, group by **Year**, **Ten-Year Age Groups**, **ICD-10 Codes**,
+  codes the union of every definition above (X40–X45, X60–X85, Y10–Y15, Y45,
+  Y47, Y49, K70, K73, K74). File: `national/age_d158.tsv`.
+* 1999–2020: D77, one export per primary cause (`suicide`, `overdose`, `k70`),
+  group by **Year**, **Ten-Year Age Groups**. Files:
+  `national/age_{suicide,overdose,k70}_d77.tsv`.
+
+The 1999–2020 tables come from the multiple-cause database: its underlying-cause
+counts are the same death records as D76, and the D76 session had lapsed. A
+single D77 file grouped by ICD code timed out (HTTP 504), hence one file per
+cause. Checked against D158 on 2018–20: the only differences are D158's
+suppressed per-code cells (47–55 cells a year, covering the 0.4% gap).
 
 ## F. National rates by race and Hispanic origin — 2 exports
 
-Who the deaths reached. Group by **Year**, **Race** (D76: bridged race; D158:
+Who the deaths reached. Group by **Year**, **Race** (D77: bridged race; D158:
 Single Race 6), **Hispanic Origin**, **ICD-10 Codes**, with Age Adjusted Rate.
-Codes as in E. Files: `national/race_{d76,d158}.tsv`.
+Codes as in E. Files: `national/race_{d77,d158}.tsv`.
 
 ## G. State drug waves, multiple cause — 12 exports
 
@@ -100,7 +108,17 @@ pills), **T40.3** `methadone`, **T40.4** `synthetic_opioids` (fentanyl),
 Death instead lists every cause on those certificates, 211,171 rows, past
 WONDER's 75,000-row limit.) Files: `state/{drug}_{d77,d157}.tsv`.
 
-**Total: 65 exports.** The machine-readable list is `queries.json`; `tools/wonder_runner.js` runs it.
+## H. State series, underlying cause — 6 exports
+
+D77 (1999–2020) and D157 (2018–2024), group by **State**, **Year**, with Age
+Adjusted Rate: `suicide`, `k70` and `overdose_cdc` (all drug overdoses), for
+comparing each drug wave with the suicide map year by year.
+Files: `state/{suicide,k70,overdose}_ucd_{d77,d157}.tsv`.
+
+**Total: 73 exports.** The machine-readable list is `queries.json`; `tools/wonder_runner.js` runs it.
+WONDER limits request rates: about 60 queries in 15 minutes from four tabs at
+once brought HTTP 429 on every request for over half an hour. Run one tab at a
+time, at least 20 seconds apart.
 
 ## Fetched by script (not WONDER)
 

@@ -11,7 +11,8 @@ import time
 
 STEPS = [
     "r01_consistency", "r02_life_cycle", "r03_aian", "r04_age", "r05_supply",
-    "r06_overlap", "r07_definitions", "r08_annual", "r09_recent_waves", "figures",
+    "r06_overlap", "r07_definitions", "r08_annual", "r09_recent_waves", "r10_race", "r11_drug_waves",
+    "figures",
 ]
 
 if __name__ == "__main__":

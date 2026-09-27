@@ -132,8 +132,7 @@ def fig5_robustness():
     fig, axes = plt.subplots(1, 3, figsize=(12, 3.3))
     so = r4[r4.pair == "suicide x overdose"]
     x = so.window.map(MID)
-    crude = so.crude_on_waar_set.fillna(so.crude_on_isr_set)
-    adj = so.waar.fillna(so.isr)
+    crude, adj = so.crude_on_isr_set, so.isr  # one indirect method in every window
     axes[0].plot(x, crude, color="#b2182b", marker="o", ms=3, label="crude")
     axes[0].plot(x, adj, color="#b2182b", ls="--", marker="o", ms=3, label="age-adjusted")
     axes[0].set_title("Age-adjusted (suicide × overdose)")
@@ -154,8 +153,8 @@ def fig5_robustness():
     for ax in axes:
         ax.set_ylim(-0.2, 0.8)
         ax.axhline(0, color="black", lw=0.5)
-    fig.text(0.01, -0.05, "Rank correlations (ρ) across counties with ≥10 deaths of both causes. Age adjustment: WONDER's "
-             "direct rates to 2018, indirect standardisation after.", fontsize=7)
+    fig.text(0.01, -0.05, "Rank correlations (ρ) across counties with ≥10 deaths of both causes. Age adjustment: indirect "
+             "standardisation in every window (it ranks counties like WONDER's direct rates, ρ ≥ 0.987).", fontsize=7)
     save(fig, "fig5_robustness.png")
 
 
@@ -174,5 +173,31 @@ def fig6_burden():
     save(fig, "fig6_burden.png")
 
 
+def fig7_waves():
+    w = pd.read_csv(OUT / "r11_waves.csv")
+    c = pd.read_csv(OUT / "r11_state_corr.csv")
+    drugs = [("rx_opioids", "prescription-type opioids", "#7f7f7f"), ("heroin", "heroin", "#2166ac"),
+             ("synthetic_opioids", "fentanyl & other synthetics", "#b2182b"), ("psychostimulants", "methamphetamine & other stimulants", "#4d9221"),
+             ("cocaine", "cocaine", "#e08214")]
+    fig, axes = plt.subplots(1, 2, figsize=(11, 3.5))
+    us = w[w.region == "US"]
+    for key, label, color in drugs:
+        s = us[us.measure == key]
+        axes[0].plot(s.year, s.rate, color=color, marker="o", ms=2.5, label=label)
+    axes[0].set_title("Overdose deaths per 100,000, by drug involved")
+    axes[0].legend(fontsize=7)
+    for key, label, color in [("overdose_ucd", "all drug overdoses", "black")] + drugs:
+        s = c[c.measure == key]
+        axes[1].plot(s.year, s.spearman, color=color, marker="o", ms=2.5, lw=2 if key == "overdose_ucd" else 1.2,
+                     label=label if key == "overdose_ucd" else None)
+    axes[1].axhline(0, color="black", lw=0.6)
+    axes[1].legend(fontsize=7, loc="lower left")
+    axes[1].set_title("Across states: suicide rate vs. each drug (ρ)")
+    fig.text(0.01, -0.05, "Deaths from drug overdose (CDC definition) involving each drug; a death involving two drugs counts twice. "
+             "Right: Spearman correlation across states of age-adjusted rates, year by year. CDC WONDER, multiple cause of death.",
+             fontsize=7)
+    save(fig, "fig7_waves.png")
+
+
 if __name__ == "__main__":
-    fig1_life_cycle(); fig2_maps(); fig3_supply(); fig4_regions(); fig5_robustness(); fig6_burden()
+    fig1_life_cycle(); fig2_maps(); fig3_supply(); fig4_regions(); fig5_robustness(); fig6_burden(); fig7_waves()

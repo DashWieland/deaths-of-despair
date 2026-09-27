@@ -40,6 +40,9 @@ def read_export(path: Path | str) -> pd.DataFrame:
     body = text.split('\n"---"', 1)[0]
     df = pd.read_csv(io.StringIO(body), sep="\t", dtype=str).drop(columns=["Notes"])
     df = df.dropna(how="all")
+    # The multiple-cause databases label the underlying cause explicitly.
+    df = df.rename(columns={"Underlying Cause of death": "Cause of death",
+                            "Underlying Cause of death Code": "Cause of death Code"})
     df["suppressed"] = df["Deaths"].eq("Suppressed")
     for col in df.columns:
         if col in ("Deaths", "Population") or "Rate" in col:

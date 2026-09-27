@@ -38,6 +38,17 @@ Everything here regenerates from the repository; see [Reproducing](#reproducing)
    from pooling 2018–2024,** which averages the trough and the rebound, and from
    a sample rule that changed between windows. It also silently dropped
    Oglala Lakota County (Pine Ridge) and all of Connecticut.
+6. **Each drug wave had its own relationship to the suicide map.** Across
+   states, prescription-opioid deaths tracked suicide geography through the
+   2000s (ρ 0.6–0.75); cocaine, heroin (from 2013) and fentanyl (from 2015) ran
+   the opposite way (the East); methamphetamine tracked it throughout (the West). All overdoses
+   together follow the same arc as the counties, year by year: ρ 0.54 with
+   suicide in 2009, −0.37 in 2020, 0.00 in 2024.
+7. **In Case & Deaton's window the overdose epidemic was disproportionately
+   white; in the fentanyl years it was not.** The non-Hispanic white rate nearly
+   tripled from 1999 to 2013 while the Black rate rose by about a third. From
+   2015 the Black and American Indian rates rose far past the white rate (2022:
+   47.5 and 63.5 against 35.6 per 100,000).
 
 ---
 
@@ -85,7 +96,7 @@ co-location; and 2020–24 coverage, which most of the literature predates.
 | Data | Use | How it enters the repo |
 |---|---|---|
 | CDC WONDER, underlying cause of death, 1999–2020 (bridged race) and 2018–2024 (single race) | county and national death counts | 51 exports in `data/wonder/`, each carrying WONDER's echo of the exact query; `queries.json` lists every request |
-| CDC WONDER, multiple cause of death | state deaths by drug | pending (see §6) |
+| CDC WONDER, multiple cause of death, 1999–2020 and 2018–2024 | state deaths by drug; state suicide, liver and overdose series; 1999–2020 national tables by age and by race | 22 exports in `data/wonder/state/` and `national/`; its underlying-cause counts are the same death records as the underlying-cause database (checked on 2018–20) |
 | Census county population estimates, 2000–2024 | age structure; American Indian share | fetched by `revisit/fetch.py`, pinned by SHA-256 |
 | Census TIGER/Line 2020 county boundaries | neighbours for spatial statistics; maps | fetched, pinned |
 | DEA ARCOS via The Washington Post, 2006–2014 | pills shipped per county | fetched, pinned; never committed (ODbL) |
@@ -156,7 +167,11 @@ county, expected deaths = its population in each ten-year age group × the
 national death rate for that age group in the same window; the standardised
 mortality ratio (SMR) = observed ÷ expected; the adjusted rate = SMR × the
 national rate. Indirect standardisation is the standard tool for small areas
-because it needs only the county's total deaths.
+because it needs only the county's total deaths. Here it is the single method
+for all nine windows (national age-specific deaths from WONDER, national and
+county person-years from the Census estimates). Where WONDER also publishes
+direct age-adjusted county rates (1999–2018), the two rank counties almost
+identically: ρ 0.987–0.998 for each cause in each window checked.
 
 **Partial correlation.** The correlation of two rates after removing the part
 of each that a third variable (pill volume, American Indian share) accounts for.
@@ -222,7 +237,7 @@ North Carolina and Virginia in 2022–24.
 | One sample rule across windows | same shape; April's windows mixed rules (the 1999–2020 exports blank rates for 10–19 deaths, the 2018–24 export printed them) | `r01` |
 | Fixed panel vs window sample | same shape (Figure 1) | `r02` |
 | Spatial vs non-spatial statistics | Spearman, weighted Pearson, Moran's I and Lee's L all show it | `r02` |
-| Age adjustment | suicide × overdose moves by ≤ 0.02 in every window; suicide × liver drops slightly (e.g. 0.64 → 0.60), so a small part of that pairing is age | `r04_age.csv` |
+| Age adjustment (one indirect method, all nine windows) | suicide × overdose moves by ≤ 0.015 in every window; suicide × liver drops by 0.04–0.05 (e.g. 0.59 → 0.55), so a small part of that pairing is age structure | `r04_age.csv` |
 | Case & Deaton's definitions | suicide × "poisonings" 0.45 → 0.47 → 0.24 → 0.13 across four coarse windows | `r07_definitions.csv` |
 | Ages 25–64 only | suicide × overdose 0.48 → 0.49 → 0.27 → 0.13 | `r07` |
 | American Indian / Alaska Native counties | suicide × liver stays 0.41–0.54 without counties ≥5% AIAN, 0.40–0.54 with the share held constant (vs 0.47–0.61 all counties) | `r03_aian.csv` |
@@ -289,6 +304,60 @@ happen. The fifth of counties with the highest suicide rates hold about a tenth
 of suicide deaths (and 4–6% of the population); for overdose the top fifth
 holds 18–39% of deaths, depending on the window. (`r06_burden.csv`)
 
+### 4.6 The drug waves, and which matched the suicide map
+
+![Figure 7](figures/revisit/fig7_waves.png)
+
+(State × year deaths from drug overdose involving each drug, CDC WONDER
+multiple cause of death; `r11_waves.csv`, `r11_state_corr.csv`)
+
+* **Nationally**, deaths involving prescription-type opioids rose steadily to
+  about 4.5 per 100,000 (2016–17); heroin peaked in 2016 (4.8); fentanyl and
+  other synthetics in 2022 (22.2); methamphetamine and other stimulants (10.4)
+  and cocaine (8.8) in 2023. A death involving two drugs counts under both.
+* **Across states, year by year**, the correlation of each drug's death rate
+  with the suicide rate:
+  * prescription-type opioids: 0.57–0.75 from 1999 to 2010, about 0 by 2020,
+    0.35 in 2024;
+  * heroin: weakly positive at most before 2013 (up to 0.30), negative since,
+    reaching −0.34;
+  * cocaine: near zero or negative throughout, reaching −0.66;
+  * fentanyl and other synthetics: positive before 2013, when the numbers were
+    small and mostly pharmaceutical fentanyl; −0.52 in 2019; −0.13 in 2024;
+  * methamphetamine and other stimulants: 0.47–0.73 in every year with enough
+    states to measure (2011–2024);
+  * all drug overdoses together: 0.54 in 2009, −0.37 in 2020, 0.00 in 2024.
+
+How to read this. States are large and mixed, so this is a coarse companion to
+the county results, but it has annual resolution, and it shows the same arc.
+The overlap of the pill era came with prescription opioids, whose deaths ran
+high in the same states as suicide; the drugs of the next wave (heroin, then
+fentanyl in the powder-heroin East, and cocaine) ran high in other states. The
+methamphetamine series shows that part of the drug supply has always sat in
+the suicide belt.
+
+### 4.7 Who died
+
+National age-adjusted rates, non-Hispanic groups (`r10_race.csv`; overdose uses
+CDC's standard definition so it can be checked against CDC's published figures,
+which it matches for 2022: Black 47.5, white 35.6).
+
+| Overdose per 100,000 | 1999 | 2013 | 2017 | 2022 | 2024 |
+|---|---|---|---|---|---|
+| Non-Hispanic white | 6.0 | 17.6 | 27.5 | 35.6 | 24.7 |
+| Non-Hispanic Black | 7.3 | 9.5 | 20.5 | 47.5 | 33.7 |
+| Non-Hispanic American Indian / Alaska Native | 3.6 | 16.8 | 23.7 | 63.5 | 50.2 |
+
+* **During Case & Deaton's window (1999–2013)** the white overdose rate nearly
+  tripled while the Black rate rose by about a third: the rise they described
+  was concentrated in the population they studied.
+* **From 2015** the Black and American Indian rates climbed past the white rate.
+  By 2022 they were 1.3 and 1.8 times it.
+* American Indian and Alaska Native people also have the highest suicide rate
+  (2021: 27.1 against 17.3 for white) and far higher alcoholic liver disease
+  (2021: 62.3 against 9.3). Their rates are undercounts: death certificates
+  misclassify many American Indian decedents as another race.
+
 ---
 
 ## 5. What changed since the April analysis
@@ -308,17 +377,13 @@ holds 18–39% of deaths, depending on the window. (`r06_burden.csv`)
 
 ## 6. Open items
 
-WONDER rate-limited this session before 14 of the 65 planned exports ran:
-
-* the 1999–2020 national age table, which would put every window on the same
-  indirect age standardisation (today 1999–2018 uses WONDER's direct rates);
-* state deaths by drug, 1999–2020 and 2018–2024 (the pill → heroin → fentanyl
-  waves before 2015);
-* national rates by race and Hispanic origin, 1999–2020 (the 2018–24 table is in
-  hand).
-
-`tools/wonder_runner.js` and `data/wonder/queries.json` hold all of them; they
-run as soon as WONDER allows.
+* **Final 2025 county data** (expected around the end of 2026) will show
+  whether the 2022–24 rebound continues; the provisional state data in §4.4
+  suggest it might.
+* **Hispanic people of all races** have no age-adjusted series here; that needs
+  its own WONDER query (the tables are grouped by race within Hispanic origin).
+* **County-level drug types** are too heavily suppressed to map by window; the
+  drug waves are state-level only.
 
 ---
 
@@ -339,6 +404,9 @@ and whether it depends on one window.
 | About two fifths of the pill-era overlap runs through pill volume. | §4.3 partial correlations | tentative (crude supply measure) |
 | Since 2023 the West has had the highest regional overdose rate. | §4.4 | strong (provisional for 2024–25) |
 | Most suicide deaths occur outside the highest-rate counties. | §4.5 | strong (descriptive) |
+| Prescription-opioid deaths ran high in the same states as suicide in the 2000s; heroin, cocaine and fentanyl did not. | §4.6 | strong (state level) |
+| Methamphetamine deaths track the suicide geography. | §4.6 | moderate (state level, 2011–24) |
+| In 1999–2013 the overdose rise was concentrated among white Americans; from 2015 Black and American Indian rates rose past it. | §4.7 | strong |
 | Case & Deaton predicted county co-location. | §2 | **not supported**: they did not |
 | Economic distress causes (or does not cause) these deaths. | — | **not testable here** |
 
@@ -379,6 +447,8 @@ uv run python r06_overlap.py       # both-high counties, burden
 uv run python r07_definitions.py   # Case & Deaton definitions, ages 25-64
 uv run python r08_annual.py        # NCHS model check (negative)
 uv run python r09_recent_waves.py  # fentanyl era by region
+uv run python r10_race.py          # who died: race and ethnicity
+uv run python r11_drug_waves.py    # drug waves and the suicide map
 uv run python figures.py
 ```
 

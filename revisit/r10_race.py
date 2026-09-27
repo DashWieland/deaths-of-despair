@@ -27,7 +27,7 @@ CAUSES = {
     "overdose_cdc": lambda c: c[:3] in OVERDOSE_CDC,
     "k70": lambda c: c[:3] == "K70",
 }
-RACE_COLS = {"race_d76.tsv": "Race", "race_d158.tsv": "Single Race 6"}
+RACE_COLS = {"race_d77.tsv": "Race", "race_d158.tsv": "Single Race 6"}
 
 
 def main():

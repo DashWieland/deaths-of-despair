@@ -49,7 +49,11 @@ CAUSES = {
 
 
 def _database_file(window: str) -> str:
-    return "age_d76.tsv" if years(window)[-1] <= 2018 else "age_d158.tsv"
+    # For windows ending by 2018 the national deaths come from the 1999-2020
+    # multiple-cause database (D77), one file per cause (a single file grouped by
+    # ICD code timed out there); its underlying-cause counts are the same death
+    # records as D76. Later windows use the 2018-2024 table grouped by code.
+    return "age_{cause}_d77.tsv" if years(window)[-1] <= 2018 else "age_d158.tsv"
 
 
 @lru_cache(maxsize=None)
@@ -62,15 +66,22 @@ def _national_table(fname: str) -> pd.DataFrame:
 
 
 def national_rates(cause: str, window: str) -> pd.DataFrame:
-    """Per ten-year age group: national deaths, person-years, rate, and suppressed cells."""
-    df = _national_table(_database_file(window))
+    """Per ten-year age group: national deaths, person-years, rate, and suppressed cells.
+
+    Person-years come from the Census county estimates summed nationally, the
+    same source as the county side, because WONDER hides rows with zero deaths
+    (no alcoholic liver deaths among children, say), which would silently drop
+    those ages from a denominator built from WONDER's rows.
+    """
+    fname = _database_file(window).format(cause=cause)
+    df = _national_table(fname)
     df = df[df.year.isin(years(window))]
-    pop = (df.drop_duplicates(["year", "Ten-Year Age Groups Code"])
-             .groupby("age10")["Population"].sum())
-    mine = df[df["Cause of death Code"].map(CAUSES[cause])]
-    deaths = mine.groupby("age10")["Deaths"].sum(min_count=0)
-    supp = mine.groupby("age10")["suppressed"].sum()
-    out = pd.DataFrame({"person_years": pop}).join(deaths.rename("deaths")).join(supp.rename("suppressed_cells"))
+    if "Cause of death Code" in df:  # one table for every cause, grouped by ICD code
+        df = df[df["Cause of death Code"].map(CAUSES[cause])]
+    deaths = df.groupby("age10")["Deaths"].sum(min_count=0)
+    supp = df.groupby("age10")["suppressed"].sum()
+    person_years = county_age_structure(window).sum(axis=0)
+    out = pd.DataFrame({"person_years": person_years}).join(deaths.rename("deaths")).join(supp.rename("suppressed_cells"))
     out = out.reindex(AGE10).fillna({"deaths": 0, "suppressed_cells": 0})
     out["rate"] = out.deaths / out.person_years
     return out
