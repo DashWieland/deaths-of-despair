@@ -71,7 +71,7 @@ def describe(frame, a, b, w, perms, xa=None, xb=None):
 
 
 def main():
-    shapes = county_shapes()
+    shapes = county_shapes(2023)  # the April boundaries, so the reproduction stays exact
     data = {win: load_window(win) for win in APRIL_WINDOWS}
     rows = []
 

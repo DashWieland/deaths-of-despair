@@ -23,6 +23,13 @@ SOURCES = {
         "tl_2023_us_county.zip",
         "692e12c30c83adcaabdbac0d3954fafa55e1c89a24b36d95e72e02dff938652e",
     ),
+    # Census TIGER/Line 2020 county boundaries: the county set CDC WONDER uses
+    # (Connecticut's eight counties, before the 2022 planning regions)
+    "tiger_2020_county": (
+        "https://www2.census.gov/geo/tiger/TIGER2020/COUNTY/tl_2020_us_county.zip",
+        "tl_2020_us_county.zip",
+        "a490d33145b8cd308b0b53113d4bb31575b84a2b4cf6ec28fa5855be37559d8d",
+    ),
     # Census county population by five-year age group (public domain)
     "agesex_2000_2010": (f"{POPEST}/2000-2010/intercensal/county/co-est00int-agesex-5yr.csv", "co-est00int-agesex-5yr.csv", "09077952bd388f1df05b139aa594e599e40095c85266550254a93d107501120d"),
     "agesex_2010_2020": (f"{POPEST}/2010-2020/intercensal/county/asrh/cc-est2020int-agesex-all.csv", "cc-est2020int-agesex-all.csv", "c32ec8c76125c795946066da3b371d9a67c7afe83765cb56bf4557ca49797a88"),

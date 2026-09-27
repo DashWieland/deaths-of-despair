@@ -14,3 +14,4 @@ wheels/
 
 # Revisit: large external downloads, fetched and checksum-verified by revisit/common.py
 data/cache/
+out/revisit/*.log

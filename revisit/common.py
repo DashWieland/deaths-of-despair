@@ -36,9 +36,14 @@ APRIL_WINDOWS = ["1999_2005", "2006_2012", "2013_2019", "2018_2024"]
 CAUSES = {"suicide": "suicide", "overdose": "overdose", "k70": "alcohol_liver"}
 
 
-def county_shapes() -> gpd.GeoDataFrame:
-    """Contiguous-US counties (TIGER 2023), EPSG:5070, fetched once and hash-checked."""
-    g = gpd.read_file(path_for("tiger_2023_county")).rename(columns={"GEOID": "fips"})
+def county_shapes(vintage: int = 2020) -> gpd.GeoDataFrame:
+    """Contiguous-US counties, EPSG:5070, fetched once and hash-checked.
+
+    2020 boundaries match the county set CDC WONDER reports (Connecticut's
+    eight counties). 2023 is what the April analysis used; r01 keeps it so the
+    reproduction stays exact.
+    """
+    g = gpd.read_file(path_for(f"tiger_{vintage}_county")).rename(columns={"GEOID": "fips"})
     g = g[~g["STATEFP"].isin(NON_CONUS)].to_crs("EPSG:5070")
     return g[["fips", "STATEFP", "NAME", "geometry"]].sort_values("fips").reset_index(drop=True)
 
