@@ -2,13 +2,38 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-County-level spatial analysis of US "deaths of despair" (2018–2024), examining whether suicide, drug overdose, and alcoholic liver disease co-cluster geographically as the Case & Deaton unified-epidemic thesis implies.
+County-level spatial analysis of US "deaths of despair": whether suicide, drug overdose, and alcoholic liver disease share the same counties, and how that has changed from 1999 to 2024.
 
 Analysis and [write-up](https://www.apophenia.blog/work/deaths-of-despair) for [Apophenia](https://apophenia.blog).
 
 &copy; 2026 Dash Wieland. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you are free to share and adapt this work for any purpose provided you give appropriate credit.
 
+## 2026 revisit
+
+The [findings write-up](REPORT.md) covers the re-analysis in `revisit/`: nine
+non-overlapping windows 1999–2024 under one sample rule, age adjustment, Case &
+Deaton's own definitions, American Indian / Alaska Native county checks,
+prescription-pill shipments, and the fentanyl era by region. It supersedes the
+April 2026 results below, which it reproduces exactly before correcting them.
+
+```bash
+uv sync
+cd revisit && uv run python run_all.py
+```
+
+Inputs: CDC WONDER exports in `data/wonder/` (with the query record
+`QUERIES.md` / `queries.json` and the browser runner `tools/wonder_runner.js`,
+since WONDER has no county API); CDC snapshots in `data/cdc/`; Census, TIGER and
+Washington Post ARCOS files fetched by `revisit/fetch.py` and checked against
+pinned SHA-256 hashes. NCHS rules forbid publishing any county count or rate
+based on fewer than 10 deaths; every published output respects that.
+
 ---
+
+## April 2026 analysis
+
+The sections below document the original pipeline (scripts in the repository
+root), kept unchanged so the April results remain reproducible.
 
 ## Data
 

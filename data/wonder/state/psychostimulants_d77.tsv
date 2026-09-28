@@ -1,0 +1,1160 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Alabama"	"01"	"2000"	"2000"	Suppressed	4447100	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2001"	"2001"	Suppressed	4467634	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2002"	"2002"	Suppressed	4480089	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2003"	"2003"	Suppressed	4503491	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2004"	"2004"	10	4530729	Unreliable	Unreliable	0.11	0.44
+	"Alabama"	"01"	"2005"	"2005"	10	4569805	Unreliable	Unreliable	0.11	0.41
+	"Alabama"	"01"	"2006"	"2006"	Suppressed	4628981	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2007"	"2007"	Suppressed	4672840	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2008"	"2008"	13	4718206	Unreliable	Unreliable	0.15	0.49
+	"Alabama"	"01"	"2009"	"2009"	Suppressed	4757938	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2010"	"2010"	24	4779736	0.50	0.52	0.33	0.77
+	"Alabama"	"01"	"2011"	"2011"	11	4802740	Unreliable	Unreliable	0.13	0.46
+	"Alabama"	"01"	"2012"	"2012"	15	4822023	Unreliable	Unreliable	0.19	0.57
+	"Alabama"	"01"	"2013"	"2013"	22	4833722	0.46	0.48	0.30	0.74
+	"Alabama"	"01"	"2014"	"2014"	28	4849377	0.58	0.60	0.40	0.88
+	"Alabama"	"01"	"2015"	"2015"	40	4858979	0.82	0.87	0.62	1.19
+	"Alabama"	"01"	"2016"	"2016"	55	4863300	1.13	1.21	0.91	1.58
+	"Alabama"	"01"	"2017"	"2017"	116	4874747	2.38	2.63	2.14	3.11
+	"Alabama"	"01"	"2018"	"2018"	155	4887871	3.17	3.45	2.90	4.01
+	"Alabama"	"01"	"2019"	"2019"	230	4903185	4.69	5.05	4.39	5.72
+	"Alabama"	"01"	"2020"	"2020"	297	4921532	6.03	6.64	5.87	7.41
+	"Alaska"	"02"	"1999"	"1999"	Suppressed	624779	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2002"	"2002"	Suppressed	642337	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2003"	"2003"	Suppressed	648414	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2006"	"2006"	Suppressed	675302	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2007"	"2007"	Suppressed	680300	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2008"	"2008"	Suppressed	687455	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2009"	"2009"	15	698895	Unreliable	Unreliable	1.18	3.63
+	"Alaska"	"02"	"2010"	"2010"	Suppressed	710231	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2011"	"2011"	18	722718	Unreliable	Unreliable	1.40	3.84
+	"Alaska"	"02"	"2012"	"2012"	23	731449	3.14	3.03	1.90	4.59
+	"Alaska"	"02"	"2013"	"2013"	22	735132	2.99	3.40	2.11	5.20
+	"Alaska"	"02"	"2014"	"2014"	29	736732	3.94	3.91	2.60	5.64
+	"Alaska"	"02"	"2015"	"2015"	27	738432	3.66	3.50	2.29	5.13
+	"Alaska"	"02"	"2016"	"2016"	49	741894	6.60	6.27	4.61	8.34
+	"Alaska"	"02"	"2017"	"2017"	66	739795	8.92	9.13	7.03	11.66
+	"Alaska"	"02"	"2018"	"2018"	52	737438	7.05	7.09	5.26	9.35
+	"Alaska"	"02"	"2019"	"2019"	64	731545	8.75	8.51	6.51	10.93
+	"Alaska"	"02"	"2020"	"2020"	70	731158	9.57	9.74	7.54	12.36
+	"Arizona"	"04"	"1999"	"1999"	27	5023823	0.54	0.55	0.36	0.79
+	"Arizona"	"04"	"2000"	"2000"	27	5130632	0.53	0.53	0.35	0.78
+	"Arizona"	"04"	"2001"	"2001"	52	5273477	0.99	1.05	0.78	1.38
+	"Arizona"	"04"	"2002"	"2002"	49	5396255	0.91	0.94	0.70	1.25
+	"Arizona"	"04"	"2003"	"2003"	68	5510364	1.23	1.28	0.99	1.63
+	"Arizona"	"04"	"2004"	"2004"	82	5652404	1.45	1.52	1.20	1.89
+	"Arizona"	"04"	"2005"	"2005"	98	5839077	1.68	1.75	1.42	2.14
+	"Arizona"	"04"	"2006"	"2006"	107	6029141	1.77	1.88	1.52	2.23
+	"Arizona"	"04"	"2007"	"2007"	107	6167681	1.73	1.79	1.45	2.13
+	"Arizona"	"04"	"2008"	"2008"	81	6280362	1.29	1.34	1.07	1.67
+	"Arizona"	"04"	"2009"	"2009"	99	6343154	1.56	1.64	1.33	2.00
+	"Arizona"	"04"	"2010"	"2010"	107	6392017	1.67	1.78	1.44	2.12
+	"Arizona"	"04"	"2011"	"2011"	126	6482505	1.94	2.05	1.68	2.41
+	"Arizona"	"04"	"2012"	"2012"	126	6553255	1.92	1.99	1.64	2.35
+	"Arizona"	"04"	"2013"	"2013"	185	6626624	2.79	2.93	2.50	3.35
+	"Arizona"	"04"	"2014"	"2014"	229	6731484	3.40	3.61	3.13	4.08
+	"Arizona"	"04"	"2015"	"2015"	333	6828065	4.88	5.11	4.55	5.67
+	"Arizona"	"04"	"2016"	"2016"	454	6931071	6.55	6.70	6.07	7.33
+	"Arizona"	"04"	"2017"	"2017"	572	7016270	8.15	8.52	7.81	9.24
+	"Arizona"	"04"	"2018"	"2018"	577	7171646	8.05	8.39	7.69	9.09
+	"Arizona"	"04"	"2019"	"2019"	717	7278717	9.85	10.10	9.34	10.86
+	"Arizona"	"04"	"2020"	"2020"	1015	7421401	13.68	14.26	13.37	15.16
+	"Arkansas"	"05"	"1999"	"1999"	13	2651860	Unreliable	Unreliable	0.29	0.92
+	"Arkansas"	"05"	"2000"	"2000"	13	2673400	Unreliable	Unreliable	0.27	0.88
+	"Arkansas"	"05"	"2001"	"2001"	Suppressed	2691571	Suppressed	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"2002"	"2002"	13	2705927	Unreliable	Unreliable	0.28	0.91
+	"Arkansas"	"05"	"2003"	"2003"	21	2724816	0.77	0.81	0.50	1.23
+	"Arkansas"	"05"	"2004"	"2004"	17	2749686	Unreliable	Unreliable	0.40	1.10
+	"Arkansas"	"05"	"2005"	"2005"	25	2781097	0.90	0.95	0.62	1.41
+	"Arkansas"	"05"	"2006"	"2006"	25	2821761	0.89	0.95	0.62	1.41
+	"Arkansas"	"05"	"2007"	"2007"	23	2848650	0.81	0.89	0.56	1.33
+	"Arkansas"	"05"	"2008"	"2008"	26	2874554	0.90	0.95	0.61	1.40
+	"Arkansas"	"05"	"2009"	"2009"	35	2896843	1.21	1.25	0.87	1.75
+	"Arkansas"	"05"	"2010"	"2010"	31	2915918	1.06	1.19	0.80	1.70
+	"Arkansas"	"05"	"2011"	"2011"	38	2937979	1.29	1.43	1.01	1.97
+	"Arkansas"	"05"	"2012"	"2012"	42	2949131	1.42	1.53	1.10	2.07
+	"Arkansas"	"05"	"2013"	"2013"	45	2959373	1.52	1.55	1.13	2.08
+	"Arkansas"	"05"	"2014"	"2014"	59	2966369	1.99	2.16	1.64	2.79
+	"Arkansas"	"05"	"2015"	"2015"	56	2978204	1.88	2.14	1.60	2.79
+	"Arkansas"	"05"	"2016"	"2016"	70	2988248	2.34	2.56	1.99	3.25
+	"Arkansas"	"05"	"2017"	"2017"	87	3004279	2.90	3.07	2.45	3.81
+	"Arkansas"	"05"	"2018"	"2018"	118	3013825	3.92	4.26	3.48	5.04
+	"Arkansas"	"05"	"2019"	"2019"	126	3017804	4.18	4.53	3.72	5.33
+	"Arkansas"	"05"	"2020"	"2020"	232	3030522	7.66	8.47	7.36	9.58
+	"California"	"06"	"1999"	"1999"	228	33499204	0.68	0.70	0.61	0.79
+	"California"	"06"	"2000"	"2000"	200	33871648	0.59	0.59	0.50	0.67
+	"California"	"06"	"2001"	"2001"	107	34479458	0.31	0.30	0.24	0.35
+	"California"	"06"	"2002"	"2002"	371	34871843	1.06	1.07	0.96	1.18
+	"California"	"06"	"2003"	"2003"	457	35253159	1.30	1.32	1.20	1.44
+	"California"	"06"	"2004"	"2004"	445	35574576	1.25	1.26	1.14	1.38
+	"California"	"06"	"2005"	"2005"	528	35827943	1.47	1.48	1.36	1.61
+	"California"	"06"	"2006"	"2006"	504	36021202	1.40	1.40	1.27	1.52
+	"California"	"06"	"2007"	"2007"	478	36250311	1.32	1.31	1.19	1.43
+	"California"	"06"	"2008"	"2008"	460	36604337	1.26	1.24	1.13	1.36
+	"California"	"06"	"2009"	"2009"	527	36961229	1.43	1.42	1.30	1.55
+	"California"	"06"	"2010"	"2010"	569	37253956	1.53	1.49	1.37	1.61
+	"California"	"06"	"2011"	"2011"	666	37691912	1.77	1.73	1.60	1.87
+	"California"	"06"	"2012"	"2012"	778	38041430	2.05	2.01	1.87	2.15
+	"California"	"06"	"2013"	"2013"	1042	38332521	2.72	2.63	2.46	2.79
+	"California"	"06"	"2014"	"2014"	1141	38802500	2.94	2.83	2.66	3.00
+	"California"	"06"	"2015"	"2015"	1470	39144818	3.76	3.59	3.40	3.78
+	"California"	"06"	"2016"	"2016"	1579	39250017	4.02	3.84	3.65	4.03
+	"California"	"06"	"2017"	"2017"	1916	39536653	4.85	4.60	4.39	4.81
+	"California"	"06"	"2018"	"2018"	2404	39557045	6.08	5.79	5.56	6.03
+	"California"	"06"	"2019"	"2019"	2862	39512223	7.24	6.90	6.64	7.16
+	"California"	"06"	"2020"	"2020"	4411	39368078	11.20	10.72	10.40	11.04
+	"Colorado"	"08"	"1999"	"1999"	16	4226018	Unreliable	Unreliable	0.21	0.60
+	"Colorado"	"08"	"2000"	"2000"	17	4301261	Unreliable	Unreliable	0.22	0.61
+	"Colorado"	"08"	"2001"	"2001"	23	4425687	0.52	0.50	0.32	0.75
+	"Colorado"	"08"	"2002"	"2002"	13	4490406	Unreliable	Unreliable	0.15	0.49
+	"Colorado"	"08"	"2003"	"2003"	33	4528732	0.73	0.69	0.48	0.97
+	"Colorado"	"08"	"2004"	"2004"	30	4575013	0.66	0.61	0.41	0.87
+	"Colorado"	"08"	"2005"	"2005"	53	4631888	1.14	1.06	0.79	1.38
+	"Colorado"	"08"	"2006"	"2006"	36	4720423	0.76	0.73	0.51	1.01
+	"Colorado"	"08"	"2007"	"2007"	43	4803868	0.90	0.86	0.62	1.16
+	"Colorado"	"08"	"2008"	"2008"	39	4889730	0.80	0.75	0.54	1.03
+	"Colorado"	"08"	"2009"	"2009"	39	4972195	0.78	0.77	0.55	1.06
+	"Colorado"	"08"	"2010"	"2010"	39	5029196	0.78	0.76	0.54	1.04
+	"Colorado"	"08"	"2011"	"2011"	64	5116796	1.25	1.21	0.93	1.54
+	"Colorado"	"08"	"2012"	"2012"	60	5187582	1.16	1.14	0.86	1.47
+	"Colorado"	"08"	"2013"	"2013"	98	5268367	1.86	1.85	1.50	2.26
+	"Colorado"	"08"	"2014"	"2014"	118	5355866	2.20	2.16	1.77	2.56
+	"Colorado"	"08"	"2015"	"2015"	140	5456574	2.57	2.56	2.13	2.99
+	"Colorado"	"08"	"2016"	"2016"	200	5540545	3.61	3.57	3.07	4.08
+	"Colorado"	"08"	"2017"	"2017"	301	5607154	5.37	5.24	4.64	5.85
+	"Colorado"	"08"	"2018"	"2018"	326	5695564	5.72	5.58	4.97	6.20
+	"Colorado"	"08"	"2019"	"2019"	353	5758736	6.13	5.86	5.24	6.48
+	"Colorado"	"08"	"2020"	"2020"	535	5807719	9.21	8.96	8.19	9.73
+	"Connecticut"	"09"	"2000"	"2000"	Suppressed	3405565	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2002"	"2002"	Suppressed	3458749	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2004"	"2004"	Suppressed	3496094	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2005"	"2005"	Suppressed	3506956	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2006"	"2006"	Suppressed	3517460	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2007"	"2007"	Suppressed	3527270	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2008"	"2008"	Suppressed	3545579	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2009"	"2009"	Suppressed	3561807	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2010"	"2010"	Suppressed	3574097	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2011"	"2011"	Suppressed	3580709	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2012"	"2012"	Suppressed	3590347	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2013"	"2013"	Suppressed	3596080	Suppressed	Suppressed	Suppressed	Suppressed
+	"Connecticut"	"09"	"2014"	"2014"	15	3596677	Unreliable	Unreliable	0.22	0.68
+	"Connecticut"	"09"	"2015"	"2015"	22	3590886	0.61	0.59	0.37	0.90
+	"Connecticut"	"09"	"2016"	"2016"	25	3576452	0.70	0.73	0.46	1.08
+	"Connecticut"	"09"	"2017"	"2017"	39	3588184	1.09	1.19	0.84	1.65
+	"Connecticut"	"09"	"2018"	"2018"	70	3572665	1.96	2.20	1.70	2.80
+	"Connecticut"	"09"	"2019"	"2019"	70	3565287	1.96	2.26	1.75	2.86
+	"Connecticut"	"09"	"2020"	"2020"	94	3557006	2.64	2.82	2.26	3.46
+	"Delaware"	"10"	"1999"	"1999"	Suppressed	774990	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2000"	"2000"	Suppressed	783600	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2002"	"2002"	Suppressed	806169	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2006"	"2006"	Suppressed	859268	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2007"	"2007"	Suppressed	871749	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2008"	"2008"	Suppressed	883874	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2009"	"2009"	Suppressed	891730	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2010"	"2010"	Suppressed	897934	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2013"	"2013"	Suppressed	925749	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2014"	"2014"	Suppressed	935614	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2015"	"2015"	Suppressed	945934	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2016"	"2016"	Suppressed	952065	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2017"	"2017"	Suppressed	961939	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2018"	"2018"	14	967171	Unreliable	Unreliable	0.81	2.60
+	"Delaware"	"10"	"2019"	"2019"	28	973764	2.88	3.12	2.04	4.57
+	"Delaware"	"10"	"2020"	"2020"	52	986809	5.27	5.94	4.39	7.85
+	"District of Columbia"	"11"	"2002"	"2002"	Suppressed	573158	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2003"	"2003"	Suppressed	568502	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2004"	"2004"	Suppressed	567754	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2005"	"2005"	Suppressed	567136	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2008"	"2008"	Suppressed	580236	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2010"	"2010"	Suppressed	601723	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2013"	"2013"	Suppressed	646449	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2014"	"2014"	Suppressed	658893	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2015"	"2015"	Suppressed	672228	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2016"	"2016"	Suppressed	681170	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2017"	"2017"	Suppressed	693972	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2018"	"2018"	11	702455	Unreliable	Unreliable	0.77	2.95
+	"District of Columbia"	"11"	"2019"	"2019"	12	705749	Unreliable	Unreliable	0.73	2.61
+	"District of Columbia"	"11"	"2020"	"2020"	10	712816	Unreliable	Unreliable	0.65	2.50
+	"Florida"	"12"	"1999"	"1999"	24	15759421	0.15	0.17	0.10	0.25
+	"Florida"	"12"	"2000"	"2000"	23	15982378	0.14	0.17	0.11	0.25
+	"Florida"	"12"	"2001"	"2001"	47	16356966	0.29	0.30	0.22	0.40
+	"Florida"	"12"	"2002"	"2002"	26	16689370	0.16	0.16	0.11	0.24
+	"Florida"	"12"	"2003"	"2003"	22	17004085	0.13	0.13	0.08	0.20
+	"Florida"	"12"	"2004"	"2004"	32	17415318	0.18	0.21	0.14	0.30
+	"Florida"	"12"	"2005"	"2005"	35	17842038	0.20	0.20	0.14	0.28
+	"Florida"	"12"	"2006"	"2006"	32	18166990	0.18	0.19	0.13	0.27
+	"Florida"	"12"	"2007"	"2007"	37	18367842	0.20	0.21	0.15	0.29
+	"Florida"	"12"	"2008"	"2008"	40	18527305	0.22	0.22	0.16	0.30
+	"Florida"	"12"	"2009"	"2009"	41	18652644	0.22	0.23	0.16	0.31
+	"Florida"	"12"	"2010"	"2010"	58	18801310	0.31	0.32	0.25	0.42
+	"Florida"	"12"	"2011"	"2011"	62	19057542	0.33	0.33	0.25	0.42
+	"Florida"	"12"	"2012"	"2012"	67	19317568	0.35	0.36	0.28	0.46
+	"Florida"	"12"	"2013"	"2013"	82	19552860	0.42	0.44	0.35	0.54
+	"Florida"	"12"	"2014"	"2014"	86	19893297	0.43	0.46	0.37	0.57
+	"Florida"	"12"	"2015"	"2015"	151	20271272	0.74	0.83	0.69	0.96
+	"Florida"	"12"	"2016"	"2016"	278	20612439	1.35	1.45	1.28	1.62
+	"Florida"	"12"	"2017"	"2017"	423	20984400	2.02	2.17	1.96	2.38
+	"Florida"	"12"	"2018"	"2018"	592	21299325	2.78	3.05	2.80	3.30
+	"Florida"	"12"	"2019"	"2019"	825	21477737	3.84	4.22	3.93	4.51
+	"Florida"	"12"	"2020"	"2020"	1329	21733312	6.12	6.69	6.33	7.06
+	"Georgia"	"13"	"1999"	"1999"	Suppressed	8045965	Suppressed	Suppressed	Suppressed	Suppressed
+	"Georgia"	"13"	"2000"	"2000"	Suppressed	8186453	Suppressed	Suppressed	Suppressed	Suppressed
+	"Georgia"	"13"	"2001"	"2001"	11	8377038	Unreliable	Unreliable	0.06	0.22
+	"Georgia"	"13"	"2002"	"2002"	21	8508256	0.25	0.24	0.15	0.37
+	"Georgia"	"13"	"2003"	"2003"	16	8622793	Unreliable	Unreliable	0.11	0.30
+	"Georgia"	"13"	"2004"	"2004"	42	8769252	0.48	0.47	0.34	0.63
+	"Georgia"	"13"	"2005"	"2005"	46	8925922	0.52	0.50	0.36	0.66
+	"Georgia"	"13"	"2006"	"2006"	43	9155813	0.47	0.47	0.34	0.63
+	"Georgia"	"13"	"2007"	"2007"	28	9349988	0.30	0.31	0.20	0.44
+	"Georgia"	"13"	"2008"	"2008"	28	9504843	0.29	0.29	0.20	0.43
+	"Georgia"	"13"	"2009"	"2009"	45	9620846	0.47	0.46	0.34	0.62
+	"Georgia"	"13"	"2010"	"2010"	67	9687653	0.69	0.68	0.53	0.87
+	"Georgia"	"13"	"2011"	"2011"	58	9815210	0.59	0.60	0.46	0.78
+	"Georgia"	"13"	"2012"	"2012"	76	9919945	0.77	0.76	0.60	0.96
+	"Georgia"	"13"	"2013"	"2013"	114	9992167	1.14	1.15	0.93	1.36
+	"Georgia"	"13"	"2014"	"2014"	134	10097343	1.33	1.38	1.14	1.61
+	"Georgia"	"13"	"2015"	"2015"	220	10214860	2.15	2.17	1.88	2.46
+	"Georgia"	"13"	"2016"	"2016"	243	10310371	2.36	2.40	2.09	2.70
+	"Georgia"	"13"	"2017"	"2017"	364	10429379	3.49	3.58	3.21	3.95
+	"Georgia"	"13"	"2018"	"2018"	392	10519475	3.73	3.79	3.41	4.18
+	"Georgia"	"13"	"2019"	"2019"	439	10617423	4.13	4.17	3.78	4.57
+	"Georgia"	"13"	"2020"	"2020"	591	10710017	5.52	5.73	5.26	6.19
+	"Hawaii"	"15"	"1999"	"1999"	Suppressed	1210300	Suppressed	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"2000"	"2000"	Suppressed	1211537	Suppressed	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"2001"	"2001"	17	1225948	Unreliable	Unreliable	0.83	2.28
+	"Hawaii"	"15"	"2002"	"2002"	15	1239613	Unreliable	Unreliable	0.68	2.00
+	"Hawaii"	"15"	"2003"	"2003"	23	1251154	1.84	1.79	1.14	2.69
+	"Hawaii"	"15"	"2004"	"2004"	28	1273569	2.20	2.18	1.45	3.16
+	"Hawaii"	"15"	"2005"	"2005"	36	1292729	2.78	2.74	1.91	3.81
+	"Hawaii"	"15"	"2006"	"2006"	21	1309731	1.60	1.60	0.99	2.44
+	"Hawaii"	"15"	"2007"	"2007"	30	1315675	2.28	2.29	1.54	3.29
+	"Hawaii"	"15"	"2008"	"2008"	30	1332213	2.25	2.22	1.49	3.19
+	"Hawaii"	"15"	"2009"	"2009"	37	1346717	2.75	2.66	1.87	3.69
+	"Hawaii"	"15"	"2010"	"2010"	45	1360301	3.31	3.32	2.40	4.48
+	"Hawaii"	"15"	"2011"	"2011"	49	1374810	3.56	3.47	2.55	4.62
+	"Hawaii"	"15"	"2012"	"2012"	43	1392313	3.09	3.00	2.15	4.07
+	"Hawaii"	"15"	"2013"	"2013"	55	1404054	3.92	4.00	2.99	5.23
+	"Hawaii"	"15"	"2014"	"2014"	56	1419561	3.94	4.00	3.00	5.21
+	"Hawaii"	"15"	"2015"	"2015"	87	1431603	6.08	5.88	4.68	7.30
+	"Hawaii"	"15"	"2016"	"2016"	102	1428557	7.14	6.78	5.43	8.14
+	"Hawaii"	"15"	"2017"	"2017"	106	1427538	7.43	7.38	5.94	8.82
+	"Hawaii"	"15"	"2018"	"2018"	148	1420491	10.42	9.90	8.26	11.55
+	"Hawaii"	"15"	"2019"	"2019"	170	1415872	12.01	10.93	9.22	12.64
+	"Hawaii"	"15"	"2020"	"2020"	198	1407006	14.07	13.24	11.33	15.15
+	"Idaho"	"16"	"2000"	"2000"	Suppressed	1293953	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2001"	"2001"	Suppressed	1319962	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2002"	"2002"	Suppressed	1340372	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2003"	"2003"	Suppressed	1363380	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2004"	"2004"	10	1391802	Unreliable	Unreliable	0.35	1.35
+	"Idaho"	"16"	"2005"	"2005"	17	1428241	Unreliable	Unreliable	0.76	2.08
+	"Idaho"	"16"	"2006"	"2006"	Suppressed	1468669	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2007"	"2007"	10	1505105	Unreliable	Unreliable	0.32	1.22
+	"Idaho"	"16"	"2008"	"2008"	Suppressed	1534320	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2009"	"2009"	16	1554439	Unreliable	Unreliable	0.60	1.78
+	"Idaho"	"16"	"2010"	"2010"	14	1567582	Unreliable	Unreliable	0.50	1.55
+	"Idaho"	"16"	"2011"	"2011"	16	1584985	Unreliable	Unreliable	0.63	1.86
+	"Idaho"	"16"	"2012"	"2012"	10	1595728	Unreliable	Unreliable	0.31	1.18
+	"Idaho"	"16"	"2013"	"2013"	26	1612136	1.61	1.71	1.10	2.52
+	"Idaho"	"16"	"2014"	"2014"	28	1634464	1.71	1.86	1.23	2.71
+	"Idaho"	"16"	"2015"	"2015"	38	1654930	2.30	2.61	1.84	3.59
+	"Idaho"	"16"	"2016"	"2016"	47	1683140	2.79	2.93	2.14	3.92
+	"Idaho"	"16"	"2017"	"2017"	43	1716943	2.50	2.74	1.98	3.71
+	"Idaho"	"16"	"2018"	"2018"	68	1754208	3.88	3.96	3.05	5.04
+	"Idaho"	"16"	"2019"	"2019"	86	1787065	4.81	5.03	4.01	6.23
+	"Idaho"	"16"	"2020"	"2020"	101	1826913	5.53	5.73	4.59	6.88
+	"Illinois"	"17"	"1999"	"1999"	Suppressed	12359020	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2000"	"2000"	Suppressed	12419293	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2001"	"2001"	Suppressed	12488445	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2002"	"2002"	10	12525556	Unreliable	Unreliable	0.04	0.16
+	"Illinois"	"17"	"2003"	"2003"	Suppressed	12556006	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2004"	"2004"	14	12589773	Unreliable	Unreliable	0.07	0.21
+	"Illinois"	"17"	"2005"	"2005"	11	12609903	Unreliable	Unreliable	0.04	0.15
+	"Illinois"	"17"	"2006"	"2006"	Suppressed	12643955	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2007"	"2007"	11	12695866	Unreliable	Unreliable	0.05	0.17
+	"Illinois"	"17"	"2008"	"2008"	15	12747038	Unreliable	Unreliable	0.07	0.21
+	"Illinois"	"17"	"2009"	"2009"	19	12796778	Unreliable	Unreliable	0.10	0.25
+	"Illinois"	"17"	"2010"	"2010"	12	12830632	Unreliable	Unreliable	0.06	0.20
+	"Illinois"	"17"	"2011"	"2011"	13	12869257	Unreliable	Unreliable	0.06	0.20
+	"Illinois"	"17"	"2012"	"2012"	22	12875255	0.17	0.16	0.10	0.25
+	"Illinois"	"17"	"2013"	"2013"	24	12882135	0.19	0.19	0.12	0.28
+	"Illinois"	"17"	"2014"	"2014"	45	12880580	0.35	0.35	0.26	0.47
+	"Illinois"	"17"	"2015"	"2015"	60	12859995	0.47	0.49	0.38	0.64
+	"Illinois"	"17"	"2016"	"2016"	112	12801539	0.87	0.95	0.77	1.12
+	"Illinois"	"17"	"2017"	"2017"	171	12802023	1.34	1.41	1.19	1.62
+	"Illinois"	"17"	"2018"	"2018"	255	12741080	2.00	2.11	1.84	2.37
+	"Illinois"	"17"	"2019"	"2019"	257	12671821	2.03	2.14	1.87	2.40
+	"Illinois"	"17"	"2020"	"2020"	431	12587530	3.42	3.63	3.28	3.97
+	"Indiana"	"18"	"1999"	"1999"	Suppressed	6044969	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2000"	"2000"	Suppressed	6080485	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2001"	"2001"	Suppressed	6127760	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2002"	"2002"	Suppressed	6155967	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2003"	"2003"	Suppressed	6196638	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2004"	"2004"	Suppressed	6233007	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2005"	"2005"	Suppressed	6278616	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2006"	"2006"	13	6332669	Unreliable	Unreliable	0.11	0.34
+	"Indiana"	"18"	"2007"	"2007"	Suppressed	6379599	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2008"	"2008"	Suppressed	6424806	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2009"	"2009"	13	6459325	Unreliable	Unreliable	0.11	0.37
+	"Indiana"	"18"	"2010"	"2010"	19	6483802	Unreliable	Unreliable	0.18	0.48
+	"Indiana"	"18"	"2011"	"2011"	13	6516922	Unreliable	Unreliable	0.11	0.36
+	"Indiana"	"18"	"2012"	"2012"	15	6537334	Unreliable	Unreliable	0.14	0.40
+	"Indiana"	"18"	"2013"	"2013"	20	6570902	0.30	0.32	0.20	0.50
+	"Indiana"	"18"	"2014"	"2014"	38	6596855	0.58	0.60	0.42	0.83
+	"Indiana"	"18"	"2015"	"2015"	55	6619680	0.83	0.85	0.63	1.11
+	"Indiana"	"18"	"2016"	"2016"	122	6633053	1.84	2.02	1.66	2.38
+	"Indiana"	"18"	"2017"	"2017"	289	6666818	4.33	4.73	4.18	5.28
+	"Indiana"	"18"	"2018"	"2018"	381	6691878	5.69	6.21	5.58	6.85
+	"Indiana"	"18"	"2019"	"2019"	512	6732219	7.61	8.31	7.58	9.04
+	"Indiana"	"18"	"2020"	"2020"	719	6754953	10.64	11.65	10.79	12.52
+	"Iowa"	"19"	"1999"	"1999"	Suppressed	2917634	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2000"	"2000"	Suppressed	2926324	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2001"	"2001"	10	2931997	Unreliable	Unreliable	0.18	0.68
+	"Iowa"	"19"	"2002"	"2002"	Suppressed	2934234	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2003"	"2003"	13	2941999	Unreliable	Unreliable	0.24	0.77
+	"Iowa"	"19"	"2004"	"2004"	Suppressed	2953635	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2005"	"2005"	15	2964454	Unreliable	Unreliable	0.27	0.81
+	"Iowa"	"19"	"2006"	"2006"	19	2982644	Unreliable	Unreliable	0.42	1.09
+	"Iowa"	"19"	"2007"	"2007"	12	2999212	Unreliable	Unreliable	0.22	0.76
+	"Iowa"	"19"	"2008"	"2008"	Suppressed	3016734	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2009"	"2009"	15	3032870	Unreliable	Unreliable	0.31	0.96
+	"Iowa"	"19"	"2010"	"2010"	25	3046355	0.82	0.90	0.58	1.35
+	"Iowa"	"19"	"2011"	"2011"	12	3062309	Unreliable	Unreliable	0.24	0.81
+	"Iowa"	"19"	"2012"	"2012"	29	3074186	0.94	1.01	0.67	1.46
+	"Iowa"	"19"	"2013"	"2013"	47	3090416	1.52	1.68	1.22	2.24
+	"Iowa"	"19"	"2014"	"2014"	38	3107126	1.22	1.38	0.97	1.90
+	"Iowa"	"19"	"2015"	"2015"	63	3123899	2.02	2.18	1.67	2.80
+	"Iowa"	"19"	"2016"	"2016"	80	3134693	2.55	2.68	2.11	3.35
+	"Iowa"	"19"	"2017"	"2017"	93	3145711	2.96	3.30	2.65	4.06
+	"Iowa"	"19"	"2018"	"2018"	97	3156145	3.07	3.30	2.67	4.05
+	"Iowa"	"19"	"2019"	"2019"	159	3155070	5.04	5.14	4.32	5.97
+	"Iowa"	"19"	"2020"	"2020"	166	3163561	5.25	5.42	4.57	6.27
+	"Kansas"	"20"	"1999"	"1999"	Suppressed	2678338	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2000"	"2000"	Suppressed	2688418	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2001"	"2001"	Suppressed	2702162	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2002"	"2002"	11	2713535	Unreliable	Unreliable	0.22	0.77
+	"Kansas"	"20"	"2003"	"2003"	Suppressed	2723004	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2004"	"2004"	13	2734373	Unreliable	Unreliable	0.26	0.83
+	"Kansas"	"20"	"2005"	"2005"	18	2745299	Unreliable	Unreliable	0.41	1.10
+	"Kansas"	"20"	"2006"	"2006"	15	2762931	Unreliable	Unreliable	0.32	0.94
+	"Kansas"	"20"	"2007"	"2007"	10	2783785	Unreliable	Unreliable	0.18	0.68
+	"Kansas"	"20"	"2008"	"2008"	Suppressed	2808076	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2009"	"2009"	17	2832704	Unreliable	Unreliable	0.37	1.01
+	"Kansas"	"20"	"2010"	"2010"	18	2853118	Unreliable	Unreliable	0.38	1.06
+	"Kansas"	"20"	"2011"	"2011"	22	2871238	0.77	0.84	0.52	1.28
+	"Kansas"	"20"	"2012"	"2012"	29	2885905	1.00	1.14	0.76	1.65
+	"Kansas"	"20"	"2013"	"2013"	34	2893957	1.17	1.26	0.87	1.77
+	"Kansas"	"20"	"2014"	"2014"	35	2904021	1.21	1.29	0.89	1.80
+	"Kansas"	"20"	"2015"	"2015"	64	2911641	2.20	2.35	1.79	3.01
+	"Kansas"	"20"	"2016"	"2016"	81	2907289	2.79	3.00	2.37	3.74
+	"Kansas"	"20"	"2017"	"2017"	81	2913123	2.78	2.91	2.30	3.64
+	"Kansas"	"20"	"2018"	"2018"	77	2911505	2.64	2.80	2.20	3.52
+	"Kansas"	"20"	"2019"	"2019"	162	2913314	5.56	5.82	4.90	6.74
+	"Kansas"	"20"	"2020"	"2020"	194	2913805	6.66	6.92	5.92	7.92
+	"Kentucky"	"21"	"1999"	"1999"	Suppressed	4018053	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2000"	"2000"	Suppressed	4041769	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2001"	"2001"	Suppressed	4068132	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2002"	"2002"	11	4089875	Unreliable	Unreliable	0.14	0.49
+	"Kentucky"	"21"	"2003"	"2003"	13	4117170	Unreliable	Unreliable	0.17	0.54
+	"Kentucky"	"21"	"2004"	"2004"	17	4146101	Unreliable	Unreliable	0.24	0.66
+	"Kentucky"	"21"	"2005"	"2005"	15	4182742	Unreliable	Unreliable	0.20	0.58
+	"Kentucky"	"21"	"2006"	"2006"	10	4219239	Unreliable	Unreliable	0.12	0.45
+	"Kentucky"	"21"	"2007"	"2007"	Suppressed	4256672	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2008"	"2008"	Suppressed	4289878	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2009"	"2009"	16	4317074	Unreliable	Unreliable	0.23	0.65
+	"Kentucky"	"21"	"2010"	"2010"	15	4339367	Unreliable	Unreliable	0.21	0.61
+	"Kentucky"	"21"	"2011"	"2011"	29	4369356	0.66	0.70	0.47	1.02
+	"Kentucky"	"21"	"2012"	"2012"	26	4380415	0.59	0.61	0.40	0.89
+	"Kentucky"	"21"	"2013"	"2013"	42	4395295	0.96	1.00	0.71	1.36
+	"Kentucky"	"21"	"2014"	"2014"	61	4413457	1.38	1.47	1.12	1.90
+	"Kentucky"	"21"	"2015"	"2015"	92	4425092	2.08	2.24	1.80	2.75
+	"Kentucky"	"21"	"2016"	"2016"	192	4436974	4.33	4.68	4.00	5.35
+	"Kentucky"	"21"	"2017"	"2017"	330	4454189	7.41	8.04	7.15	8.92
+	"Kentucky"	"21"	"2018"	"2018"	362	4468402	8.10	8.77	7.85	9.69
+	"Kentucky"	"21"	"2019"	"2019"	459	4467673	10.27	11.10	10.07	12.14
+	"Kentucky"	"21"	"2020"	"2020"	746	4477251	16.66	18.17	16.84	19.50
+	"Louisiana"	"22"	"2000"	"2000"	Suppressed	4468976	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2001"	"2001"	Suppressed	4477875	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2002"	"2002"	Suppressed	4497267	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2003"	"2003"	Suppressed	4521042	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2004"	"2004"	Suppressed	4552238	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2005"	"2005"	Suppressed	4576628	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2006"	"2006"	Suppressed	4302665	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2007"	"2007"	12	4375581	Unreliable	Unreliable	0.14	0.47
+	"Louisiana"	"22"	"2008"	"2008"	Suppressed	4435586	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2009"	"2009"	13	4491648	Unreliable	Unreliable	0.17	0.53
+	"Louisiana"	"22"	"2010"	"2010"	Suppressed	4533372	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2011"	"2011"	Suppressed	4574836	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2012"	"2012"	Suppressed	4601893	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2013"	"2013"	34	4625470	0.74	0.78	0.54	1.09
+	"Louisiana"	"22"	"2014"	"2014"	38	4649676	0.82	0.84	0.59	1.16
+	"Louisiana"	"22"	"2015"	"2015"	43	4670724	0.92	0.96	0.69	1.30
+	"Louisiana"	"22"	"2016"	"2016"	79	4681666	1.69	1.84	1.45	2.30
+	"Louisiana"	"22"	"2017"	"2017"	100	4684333	2.13	2.26	1.81	2.71
+	"Louisiana"	"22"	"2018"	"2018"	137	4659978	2.94	3.04	2.52	3.56
+	"Louisiana"	"22"	"2019"	"2019"	214	4648794	4.60	4.92	4.25	5.59
+	"Louisiana"	"22"	"2020"	"2020"	382	4645318	8.22	8.80	7.90	9.69
+	"Maine"	"23"	"1999"	"1999"	Suppressed	1266808	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2001"	"2001"	Suppressed	1285692	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2002"	"2002"	Suppressed	1295960	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2004"	"2004"	Suppressed	1313688	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2005"	"2005"	Suppressed	1318787	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2006"	"2006"	Suppressed	1323619	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2007"	"2007"	Suppressed	1327040	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2008"	"2008"	Suppressed	1330509	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2009"	"2009"	Suppressed	1329590	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2010"	"2010"	Suppressed	1328361	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2011"	"2011"	Suppressed	1328188	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maine"	"23"	"2012"	"2012"	10	1329192	Unreliable	Unreliable	0.43	1.65
+	"Maine"	"23"	"2013"	"2013"	12	1328302	Unreliable	Unreliable	0.50	1.80
+	"Maine"	"23"	"2014"	"2014"	16	1330089	Unreliable	Unreliable	0.80	2.27
+	"Maine"	"23"	"2015"	"2015"	21	1329328	1.58	1.71	1.05	2.65
+	"Maine"	"23"	"2016"	"2016"	28	1331479	2.10	2.30	1.50	3.37
+	"Maine"	"23"	"2017"	"2017"	44	1335907	3.29	3.80	2.74	5.14
+	"Maine"	"23"	"2018"	"2018"	40	1338404	2.99	3.02	2.13	4.16
+	"Maine"	"23"	"2019"	"2019"	65	1344212	4.84	5.50	4.23	7.04
+	"Maine"	"23"	"2020"	"2020"	118	1350141	8.74	10.20	8.32	12.09
+	"Maryland"	"24"	"1999"	"1999"	Suppressed	5254509	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2000"	"2000"	Suppressed	5296486	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2002"	"2002"	Suppressed	5440389	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2004"	"2004"	Suppressed	5546935	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2005"	"2005"	Suppressed	5592379	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2006"	"2006"	Suppressed	5627367	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2007"	"2007"	Suppressed	5653408	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2008"	"2008"	Suppressed	5684965	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2009"	"2009"	Suppressed	5730388	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2010"	"2010"	Suppressed	5773552	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2011"	"2011"	Suppressed	5828289	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2012"	"2012"	Suppressed	5884563	Suppressed	Suppressed	Suppressed	Suppressed
+	"Maryland"	"24"	"2013"	"2013"	16	5928814	Unreliable	Unreliable	0.15	0.44
+	"Maryland"	"24"	"2014"	"2014"	16	5976407	Unreliable	Unreliable	0.16	0.48
+	"Maryland"	"24"	"2015"	"2015"	26	6006401	0.43	0.44	0.29	0.65
+	"Maryland"	"24"	"2016"	"2016"	43	6016447	0.71	0.75	0.54	1.02
+	"Maryland"	"24"	"2017"	"2017"	65	6052177	1.07	1.15	0.89	1.47
+	"Maryland"	"24"	"2018"	"2018"	65	6042718	1.08	1.10	0.85	1.40
+	"Maryland"	"24"	"2019"	"2019"	79	6045680	1.31	1.36	1.08	1.70
+	"Maryland"	"24"	"2020"	"2020"	137	6055802	2.26	2.36	1.96	2.76
+	"Massachusetts"	"25"	"1999"	"1999"	Suppressed	6317345	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2000"	"2000"	Suppressed	6349097	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2001"	"2001"	Suppressed	6397634	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2002"	"2002"	Suppressed	6417206	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2004"	"2004"	Suppressed	6412281	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2005"	"2005"	Suppressed	6403290	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2006"	"2006"	14	6410084	Unreliable	Unreliable	0.11	0.35
+	"Massachusetts"	"25"	"2007"	"2007"	11	6431559	Unreliable	Unreliable	0.08	0.29
+	"Massachusetts"	"25"	"2008"	"2008"	11	6468967	Unreliable	Unreliable	0.08	0.28
+	"Massachusetts"	"25"	"2009"	"2009"	13	6517613	Unreliable	Unreliable	0.11	0.34
+	"Massachusetts"	"25"	"2010"	"2010"	Suppressed	6547629	Suppressed	Suppressed	Suppressed	Suppressed
+	"Massachusetts"	"25"	"2011"	"2011"	19	6587536	Unreliable	Unreliable	0.17	0.44
+	"Massachusetts"	"25"	"2012"	"2012"	20	6646144	0.30	0.30	0.18	0.48
+	"Massachusetts"	"25"	"2013"	"2013"	29	6692824	0.43	0.43	0.29	0.62
+	"Massachusetts"	"25"	"2014"	"2014"	43	6745408	0.64	0.70	0.50	0.95
+	"Massachusetts"	"25"	"2015"	"2015"	43	6794422	0.63	0.65	0.47	0.87
+	"Massachusetts"	"25"	"2016"	"2016"	45	6811779	0.66	0.69	0.50	0.93
+	"Massachusetts"	"25"	"2017"	"2017"	64	6859819	0.93	1.00	0.76	1.28
+	"Massachusetts"	"25"	"2018"	"2018"	73	6902149	1.06	1.16	0.90	1.46
+	"Massachusetts"	"25"	"2019"	"2019"	104	6892503	1.51	1.57	1.26	1.87
+	"Massachusetts"	"25"	"2020"	"2020"	176	6893574	2.55	2.72	2.31	3.13
+	"Michigan"	"26"	"1999"	"1999"	Suppressed	9897116	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2000"	"2000"	Suppressed	9938444	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2001"	"2001"	Suppressed	9991120	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2002"	"2002"	Suppressed	10015710	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2003"	"2003"	Suppressed	10041152	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2004"	"2004"	Suppressed	10055315	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2005"	"2005"	Suppressed	10051137	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2006"	"2006"	Suppressed	10036081	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2007"	"2007"	Suppressed	10001284	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2008"	"2008"	Suppressed	9946889	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2009"	"2009"	Suppressed	9901591	Suppressed	Suppressed	Suppressed	Suppressed
+	"Michigan"	"26"	"2010"	"2010"	11	9883640	Unreliable	Unreliable	0.06	0.22
+	"Michigan"	"26"	"2011"	"2011"	25	9876187	0.25	0.26	0.16	0.38
+	"Michigan"	"26"	"2012"	"2012"	17	9883360	Unreliable	Unreliable	0.10	0.28
+	"Michigan"	"26"	"2013"	"2013"	26	9895622	0.26	0.28	0.18	0.42
+	"Michigan"	"26"	"2014"	"2014"	54	9909877	0.54	0.59	0.44	0.78
+	"Michigan"	"26"	"2015"	"2015"	57	9922576	0.57	0.65	0.49	0.84
+	"Michigan"	"26"	"2016"	"2016"	88	9928300	0.89	0.94	0.75	1.17
+	"Michigan"	"26"	"2017"	"2017"	145	9962311	1.46	1.64	1.37	1.91
+	"Michigan"	"26"	"2018"	"2018"	172	9995915	1.72	1.84	1.56	2.12
+	"Michigan"	"26"	"2019"	"2019"	225	9986857	2.25	2.45	2.12	2.78
+	"Michigan"	"26"	"2020"	"2020"	390	9966555	3.91	4.32	3.89	4.76
+	"Minnesota"	"27"	"1999"	"1999"	Suppressed	4873481	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2000"	"2000"	Suppressed	4919479	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2001"	"2001"	Suppressed	4982796	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2002"	"2002"	11	5018935	Unreliable	Unreliable	0.11	0.39
+	"Minnesota"	"27"	"2003"	"2003"	12	5053572	Unreliable	Unreliable	0.12	0.42
+	"Minnesota"	"27"	"2004"	"2004"	Suppressed	5087713	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2005"	"2005"	19	5119598	Unreliable	Unreliable	0.24	0.61
+	"Minnesota"	"27"	"2006"	"2006"	13	5163555	Unreliable	Unreliable	0.14	0.44
+	"Minnesota"	"27"	"2007"	"2007"	Suppressed	5207203	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2008"	"2008"	14	5247018	Unreliable	Unreliable	0.14	0.45
+	"Minnesota"	"27"	"2009"	"2009"	Suppressed	5281203	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2010"	"2010"	18	5303925	Unreliable	Unreliable	0.19	0.51
+	"Minnesota"	"27"	"2011"	"2011"	26	5344861	0.49	0.51	0.33	0.75
+	"Minnesota"	"27"	"2012"	"2012"	48	5379139	0.89	0.94	0.69	1.25
+	"Minnesota"	"27"	"2013"	"2013"	40	5420380	0.74	0.73	0.52	1.00
+	"Minnesota"	"27"	"2014"	"2014"	66	5457173	1.21	1.29	0.99	1.65
+	"Minnesota"	"27"	"2015"	"2015"	82	5489594	1.49	1.54	1.22	1.92
+	"Minnesota"	"27"	"2016"	"2016"	140	5519952	2.54	2.65	2.20	3.10
+	"Minnesota"	"27"	"2017"	"2017"	161	5576606	2.89	2.92	2.46	3.38
+	"Minnesota"	"27"	"2018"	"2018"	167	5611179	2.98	3.06	2.58	3.53
+	"Minnesota"	"27"	"2019"	"2019"	242	5639632	4.29	4.34	3.78	4.90
+	"Minnesota"	"27"	"2020"	"2020"	338	5657342	5.97	6.27	5.59	6.95
+	"Mississippi"	"28"	"1999"	"1999"	Suppressed	2828408	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2000"	"2000"	Suppressed	2844658	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2001"	"2001"	Suppressed	2852994	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2003"	"2003"	Suppressed	2868312	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2004"	"2004"	Suppressed	2889010	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2005"	"2005"	Suppressed	2905943	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2006"	"2006"	Suppressed	2904978	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2007"	"2007"	Suppressed	2928350	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2008"	"2008"	Suppressed	2947806	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2009"	"2009"	Suppressed	2958774	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2010"	"2010"	Suppressed	2967297	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2011"	"2011"	Suppressed	2978512	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2012"	"2012"	Suppressed	2984926	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2013"	"2013"	15	2991207	Unreliable	Unreliable	0.32	0.96
+	"Mississippi"	"28"	"2014"	"2014"	23	2994079	0.77	0.84	0.53	1.26
+	"Mississippi"	"28"	"2015"	"2015"	52	2992333	1.74	1.92	1.43	2.52
+	"Mississippi"	"28"	"2016"	"2016"	56	2988726	1.87	2.04	1.53	2.65
+	"Mississippi"	"28"	"2017"	"2017"	64	2984100	2.14	2.32	1.77	2.98
+	"Mississippi"	"28"	"2018"	"2018"	95	2986530	3.18	3.44	2.77	4.21
+	"Mississippi"	"28"	"2019"	"2019"	130	2976149	4.37	4.63	3.82	5.45
+	"Mississippi"	"28"	"2020"	"2020"	229	2966786	7.72	8.64	7.51	9.78
+	"Missouri"	"29"	"1999"	"1999"	Suppressed	5561948	Suppressed	Suppressed	Suppressed	Suppressed
+	"Missouri"	"29"	"2000"	"2000"	10	5595211	Unreliable	Unreliable	0.09	0.33
+	"Missouri"	"29"	"2001"	"2001"	14	5641142	Unreliable	Unreliable	0.14	0.42
+	"Missouri"	"29"	"2002"	"2002"	16	5674825	Unreliable	Unreliable	0.17	0.47
+	"Missouri"	"29"	"2003"	"2003"	19	5709403	Unreliable	Unreliable	0.21	0.54
+	"Missouri"	"29"	"2004"	"2004"	24	5747741	0.42	0.44	0.28	0.66
+	"Missouri"	"29"	"2005"	"2005"	30	5790300	0.52	0.53	0.36	0.76
+	"Missouri"	"29"	"2006"	"2006"	27	5842704	0.46	0.48	0.32	0.70
+	"Missouri"	"29"	"2007"	"2007"	23	5887612	0.39	0.41	0.25	0.61
+	"Missouri"	"29"	"2008"	"2008"	22	5923916	0.37	0.39	0.24	0.59
+	"Missouri"	"29"	"2009"	"2009"	28	5961088	0.47	0.49	0.32	0.72
+	"Missouri"	"29"	"2010"	"2010"	45	5988927	0.75	0.77	0.56	1.04
+	"Missouri"	"29"	"2011"	"2011"	44	6010688	0.73	0.76	0.54	1.02
+	"Missouri"	"29"	"2012"	"2012"	58	6021988	0.96	1.01	0.76	1.31
+	"Missouri"	"29"	"2013"	"2013"	75	6044171	1.24	1.35	1.05	1.70
+	"Missouri"	"29"	"2014"	"2014"	101	6063589	1.67	1.80	1.45	2.16
+	"Missouri"	"29"	"2015"	"2015"	133	6083672	2.19	2.35	1.94	2.76
+	"Missouri"	"29"	"2016"	"2016"	185	6093000	3.04	3.34	2.85	3.84
+	"Missouri"	"29"	"2017"	"2017"	248	6113532	4.06	4.30	3.75	4.85
+	"Missouri"	"29"	"2018"	"2018"	367	6126452	5.99	6.42	5.75	7.09
+	"Missouri"	"29"	"2019"	"2019"	452	6137428	7.36	7.92	7.17	8.66
+	"Missouri"	"29"	"2020"	"2020"	568	6151548	9.23	9.93	9.10	10.76
+	"Montana"	"30"	"2000"	"2000"	Suppressed	902195	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2001"	"2001"	Suppressed	906961	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2002"	"2002"	Suppressed	911667	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2003"	"2003"	Suppressed	919630	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2004"	"2004"	Suppressed	930009	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2005"	"2005"	Suppressed	940102	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2006"	"2006"	Suppressed	952692	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2007"	"2007"	Suppressed	964706	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2008"	"2008"	Suppressed	976415	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2009"	"2009"	Suppressed	983982	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2010"	"2010"	Suppressed	989415	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2011"	"2011"	Suppressed	998199	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2012"	"2012"	Suppressed	1005141	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2013"	"2013"	16	1015165	Unreliable	Unreliable	0.93	2.74
+	"Montana"	"30"	"2014"	"2014"	Suppressed	1023579	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2015"	"2015"	34	1032949	3.29	3.62	2.48	5.12
+	"Montana"	"30"	"2016"	"2016"	24	1042520	2.30	2.58	1.64	3.87
+	"Montana"	"30"	"2017"	"2017"	24	1050493	2.28	2.49	1.56	3.77
+	"Montana"	"30"	"2018"	"2018"	32	1062305	3.01	3.54	2.41	5.03
+	"Montana"	"30"	"2019"	"2019"	58	1068778	5.43	5.90	4.43	7.70
+	"Montana"	"30"	"2020"	"2020"	66	1080577	6.11	6.57	5.04	8.42
+	"Nebraska"	"31"	"1999"	"1999"	Suppressed	1704764	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2000"	"2000"	Suppressed	1711263	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2001"	"2001"	Suppressed	1719836	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2002"	"2002"	Suppressed	1728292	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2003"	"2003"	Suppressed	1738643	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2004"	"2004"	Suppressed	1749370	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2005"	"2005"	Suppressed	1761497	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2006"	"2006"	Suppressed	1772693	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2007"	"2007"	Suppressed	1783440	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2008"	"2008"	Suppressed	1796378	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2009"	"2009"	Suppressed	1812683	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2010"	"2010"	Suppressed	1826341	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2011"	"2011"	15	1842641	Unreliable	Unreliable	0.49	1.43
+	"Nebraska"	"31"	"2012"	"2012"	16	1855525	Unreliable	Unreliable	0.45	1.33
+	"Nebraska"	"31"	"2013"	"2013"	12	1868516	Unreliable	Unreliable	0.36	1.22
+	"Nebraska"	"31"	"2014"	"2014"	16	1881503	Unreliable	Unreliable	0.55	1.61
+	"Nebraska"	"31"	"2015"	"2015"	27	1896190	1.42	1.51	0.99	2.22
+	"Nebraska"	"31"	"2016"	"2016"	18	1907116	Unreliable	Unreliable	0.57	1.56
+	"Nebraska"	"31"	"2017"	"2017"	38	1920076	1.98	2.13	1.50	2.93
+	"Nebraska"	"31"	"2018"	"2018"	32	1929268	1.66	1.70	1.15	2.43
+	"Nebraska"	"31"	"2019"	"2019"	51	1934408	2.64	2.75	2.03	3.63
+	"Nebraska"	"31"	"2020"	"2020"	68	1937552	3.51	3.67	2.83	4.67
+	"Nevada"	"32"	"1999"	"1999"	17	1934718	Unreliable	Unreliable	0.50	1.38
+	"Nevada"	"32"	"2000"	"2000"	24	1998257	1.20	1.19	0.76	1.76
+	"Nevada"	"32"	"2001"	"2001"	18	2098399	Unreliable	Unreliable	0.51	1.35
+	"Nevada"	"32"	"2002"	"2002"	46	2173791	2.12	2.08	1.52	2.77
+	"Nevada"	"32"	"2003"	"2003"	43	2248850	1.91	1.90	1.38	2.56
+	"Nevada"	"32"	"2004"	"2004"	70	2346222	2.98	3.00	2.34	3.79
+	"Nevada"	"32"	"2005"	"2005"	64	2432143	2.63	2.65	2.04	3.39
+	"Nevada"	"32"	"2006"	"2006"	70	2522658	2.77	2.77	2.16	3.51
+	"Nevada"	"32"	"2007"	"2007"	49	2601072	1.88	1.86	1.37	2.46
+	"Nevada"	"32"	"2008"	"2008"	52	2653630	1.96	1.90	1.41	2.50
+	"Nevada"	"32"	"2009"	"2009"	70	2684665	2.61	2.56	1.99	3.24
+	"Nevada"	"32"	"2010"	"2010"	80	2700551	2.96	2.88	2.28	3.59
+	"Nevada"	"32"	"2011"	"2011"	112	2723322	4.11	3.95	3.21	4.69
+	"Nevada"	"32"	"2012"	"2012"	104	2758931	3.77	3.70	2.98	4.42
+	"Nevada"	"32"	"2013"	"2013"	139	2790136	4.98	4.87	4.05	5.70
+	"Nevada"	"32"	"2014"	"2014"	130	2839099	4.58	4.48	3.70	5.26
+	"Nevada"	"32"	"2015"	"2015"	172	2890845	5.95	5.73	4.86	6.60
+	"Nevada"	"32"	"2016"	"2016"	228	2940058	7.75	7.52	6.53	8.52
+	"Nevada"	"32"	"2017"	"2017"	257	2998039	8.57	8.27	7.24	9.30
+	"Nevada"	"32"	"2018"	"2018"	309	3034392	10.18	9.57	8.48	10.66
+	"Nevada"	"32"	"2019"	"2019"	303	3080156	9.84	9.47	8.38	10.56
+	"Nevada"	"32"	"2020"	"2020"	373	3138259	11.89	11.55	10.35	12.75
+	"New Hampshire"	"33"	"1999"	"1999"	Suppressed	1222014	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2001"	"2001"	Suppressed	1255517	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2002"	"2002"	Suppressed	1269089	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2003"	"2003"	Suppressed	1279840	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2004"	"2004"	Suppressed	1290121	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2005"	"2005"	Suppressed	1298492	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2006"	"2006"	Suppressed	1308389	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2007"	"2007"	Suppressed	1312540	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2008"	"2008"	Suppressed	1315906	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2009"	"2009"	Suppressed	1316102	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2010"	"2010"	Suppressed	1316470	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2011"	"2011"	Suppressed	1318194	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2012"	"2012"	Suppressed	1320718	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2013"	"2013"	Suppressed	1323459	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2014"	"2014"	Suppressed	1326813	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2015"	"2015"	Suppressed	1330608	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2016"	"2016"	13	1334795	Unreliable	Unreliable	0.57	1.94
+	"New Hampshire"	"33"	"2017"	"2017"	26	1342795	1.94	2.25	1.46	3.33
+	"New Hampshire"	"33"	"2018"	"2018"	32	1356458	2.36	2.75	1.87	3.90
+	"New Hampshire"	"33"	"2019"	"2019"	59	1359711	4.34	4.67	3.54	6.05
+	"New Hampshire"	"33"	"2020"	"2020"	66	1366275	4.83	5.60	4.30	7.16
+	"New Jersey"	"34"	"1999"	"1999"	Suppressed	8359592	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2000"	"2000"	Suppressed	8414350	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2001"	"2001"	Suppressed	8492671	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2002"	"2002"	Suppressed	8552643	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2003"	"2003"	Suppressed	8601402	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2004"	"2004"	Suppressed	8634561	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2005"	"2005"	11	8651974	Unreliable	Unreliable	0.07	0.23
+	"New Jersey"	"34"	"2006"	"2006"	Suppressed	8661679	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2007"	"2007"	Suppressed	8677885	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2008"	"2008"	Suppressed	8711090	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2009"	"2009"	Suppressed	8755602	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2010"	"2010"	Suppressed	8791894	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Jersey"	"34"	"2011"	"2011"	10	8821155	Unreliable	Unreliable	0.06	0.23
+	"New Jersey"	"34"	"2012"	"2012"	16	8864590	Unreliable	Unreliable	0.10	0.29
+	"New Jersey"	"34"	"2013"	"2013"	19	8899339	Unreliable	Unreliable	0.14	0.37
+	"New Jersey"	"34"	"2014"	"2014"	16	8938175	Unreliable	Unreliable	0.10	0.30
+	"New Jersey"	"34"	"2015"	"2015"	24	8958013	0.27	0.25	0.16	0.37
+	"New Jersey"	"34"	"2016"	"2016"	51	8944469	0.57	0.61	0.45	0.80
+	"New Jersey"	"34"	"2017"	"2017"	75	9005644	0.83	0.89	0.69	1.11
+	"New Jersey"	"34"	"2018"	"2018"	142	8908520	1.59	1.68	1.40	1.96
+	"New Jersey"	"34"	"2019"	"2019"	203	8882190	2.29	2.39	2.06	2.73
+	"New Jersey"	"34"	"2020"	"2020"	263	8882371	2.96	3.16	2.77	3.55
+	"New Mexico"	"35"	"1999"	"1999"	13	1808082	Unreliable	Unreliable	0.40	1.28
+	"New Mexico"	"35"	"2000"	"2000"	Suppressed	1819046	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Mexico"	"35"	"2001"	"2001"	Suppressed	1831690	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Mexico"	"35"	"2002"	"2002"	11	1855309	Unreliable	Unreliable	0.31	1.09
+	"New Mexico"	"35"	"2003"	"2003"	24	1877574	1.28	1.34	0.86	1.99
+	"New Mexico"	"35"	"2004"	"2004"	28	1903808	1.47	1.56	1.04	2.26
+	"New Mexico"	"35"	"2005"	"2005"	39	1932274	2.02	2.07	1.46	2.84
+	"New Mexico"	"35"	"2006"	"2006"	36	1962137	1.83	1.98	1.38	2.75
+	"New Mexico"	"35"	"2007"	"2007"	37	1990070	1.86	1.94	1.36	2.69
+	"New Mexico"	"35"	"2008"	"2008"	29	2010662	1.44	1.53	1.02	2.21
+	"New Mexico"	"35"	"2009"	"2009"	28	2036802	1.37	1.43	0.94	2.08
+	"New Mexico"	"35"	"2010"	"2010"	28	2059179	1.36	1.41	0.93	2.06
+	"New Mexico"	"35"	"2011"	"2011"	34	2082224	1.63	1.69	1.17	2.38
+	"New Mexico"	"35"	"2012"	"2012"	66	2085538	3.16	3.37	2.59	4.31
+	"New Mexico"	"35"	"2013"	"2013"	82	2085287	3.93	4.21	3.34	5.25
+	"New Mexico"	"35"	"2014"	"2014"	124	2085572	5.95	6.34	5.21	7.48
+	"New Mexico"	"35"	"2015"	"2015"	119	2085109	5.71	6.08	4.96	7.20
+	"New Mexico"	"35"	"2016"	"2016"	135	2081015	6.49	7.06	5.84	8.28
+	"New Mexico"	"35"	"2017"	"2017"	158	2088070	7.57	8.19	6.89	9.50
+	"New Mexico"	"35"	"2018"	"2018"	212	2095428	10.12	10.93	9.42	12.44
+	"New Mexico"	"35"	"2019"	"2019"	277	2096829	13.21	14.40	12.66	16.14
+	"New Mexico"	"35"	"2020"	"2020"	325	2106319	15.43	16.26	14.44	18.08
+	"New York"	"36"	"1999"	"1999"	10	18882725	Unreliable	Unreliable	0.02	0.10
+	"New York"	"36"	"2000"	"2000"	Suppressed	18976457	Suppressed	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"2001"	"2001"	Suppressed	19082838	Suppressed	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"2002"	"2002"	15	19137800	Unreliable	Unreliable	0.04	0.12
+	"New York"	"36"	"2003"	"2003"	10	19175939	Unreliable	Unreliable	0.02	0.10
+	"New York"	"36"	"2004"	"2004"	Suppressed	19171567	Suppressed	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"2005"	"2005"	Suppressed	19132610	Suppressed	Suppressed	Suppressed	Suppressed
+	"New York"	"36"	"2006"	"2006"	27	19104631	0.14	0.14	0.09	0.21
+	"New York"	"36"	"2007"	"2007"	25	19132335	0.13	0.12	0.08	0.18
+	"New York"	"36"	"2008"	"2008"	22	19212436	0.11	0.11	0.07	0.16
+	"New York"	"36"	"2009"	"2009"	29	19307066	0.15	0.14	0.10	0.21
+	"New York"	"36"	"2010"	"2010"	30	19378102	0.15	0.15	0.10	0.22
+	"New York"	"36"	"2011"	"2011"	47	19465197	0.24	0.26	0.19	0.35
+	"New York"	"36"	"2012"	"2012"	50	19570261	0.26	0.26	0.19	0.35
+	"New York"	"36"	"2013"	"2013"	53	19651127	0.27	0.26	0.20	0.35
+	"New York"	"36"	"2014"	"2014"	83	19746227	0.42	0.41	0.33	0.51
+	"New York"	"36"	"2015"	"2015"	80	19795791	0.40	0.39	0.31	0.49
+	"New York"	"36"	"2016"	"2016"	150	19745289	0.76	0.75	0.63	0.88
+	"New York"	"36"	"2017"	"2017"	191	19849399	0.96	0.98	0.84	1.12
+	"New York"	"36"	"2018"	"2018"	180	19542209	0.92	0.96	0.82	1.10
+	"New York"	"36"	"2019"	"2019"	240	19453561	1.23	1.29	1.12	1.46
+	"New York"	"36"	"2020"	"2020"	432	19336776	2.23	2.34	2.12	2.56
+	"North Carolina"	"37"	"1999"	"1999"	Suppressed	7949361	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"2000"	"2000"	Suppressed	8049313	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"2001"	"2001"	Suppressed	8210122	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"2002"	"2002"	10	8326201	Unreliable	Unreliable	0.05	0.21
+	"North Carolina"	"37"	"2003"	"2003"	Suppressed	8422501	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"2004"	"2004"	15	8553152	Unreliable	Unreliable	0.10	0.29
+	"North Carolina"	"37"	"2005"	"2005"	20	8705407	0.23	0.24	0.15	0.38
+	"North Carolina"	"37"	"2006"	"2006"	11	8917270	Unreliable	Unreliable	0.07	0.23
+	"North Carolina"	"37"	"2007"	"2007"	14	9118037	Unreliable	Unreliable	0.09	0.27
+	"North Carolina"	"37"	"2008"	"2008"	10	9309449	Unreliable	Unreliable	0.05	0.18
+	"North Carolina"	"37"	"2009"	"2009"	10	9449566	Unreliable	Unreliable	0.05	0.18
+	"North Carolina"	"37"	"2010"	"2010"	13	9535483	Unreliable	Unreliable	0.08	0.25
+	"North Carolina"	"37"	"2011"	"2011"	20	9656401	0.21	0.22	0.13	0.34
+	"North Carolina"	"37"	"2012"	"2012"	27	9752073	0.28	0.29	0.19	0.43
+	"North Carolina"	"37"	"2013"	"2013"	33	9848060	0.34	0.35	0.24	0.49
+	"North Carolina"	"37"	"2014"	"2014"	33	9943964	0.33	0.34	0.23	0.48
+	"North Carolina"	"37"	"2015"	"2015"	67	10042802	0.67	0.71	0.55	0.90
+	"North Carolina"	"37"	"2016"	"2016"	115	10146788	1.13	1.23	1.01	1.46
+	"North Carolina"	"37"	"2017"	"2017"	176	10273419	1.71	1.81	1.53	2.08
+	"North Carolina"	"37"	"2018"	"2018"	258	10383620	2.48	2.65	2.32	2.98
+	"North Carolina"	"37"	"2019"	"2019"	338	10488084	3.22	3.43	3.06	3.80
+	"North Carolina"	"37"	"2020"	"2020"	593	10600823	5.59	5.99	5.50	6.48
+	"North Dakota"	"38"	"1999"	"1999"	Suppressed	644259	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2000"	"2000"	Suppressed	642200	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2001"	"2001"	Suppressed	639062	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2002"	"2002"	Suppressed	638168	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2003"	"2003"	Suppressed	638817	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2004"	"2004"	Suppressed	644705	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2005"	"2005"	Suppressed	646089	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2006"	"2006"	Suppressed	649422	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2008"	"2008"	Suppressed	657569	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2009"	"2009"	Suppressed	664968	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2011"	"2011"	Suppressed	683932	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2012"	"2012"	Suppressed	699628	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2013"	"2013"	Suppressed	723393	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2014"	"2014"	Suppressed	739482	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2015"	"2015"	10	756927	Unreliable	Unreliable	0.72	2.77
+	"North Dakota"	"38"	"2016"	"2016"	12	757952	Unreliable	Unreliable	0.95	3.20
+	"North Dakota"	"38"	"2017"	"2017"	22	755393	2.91	3.04	1.88	4.64
+	"North Dakota"	"38"	"2018"	"2018"	15	760077	Unreliable	Unreliable	1.22	3.74
+	"North Dakota"	"38"	"2019"	"2019"	20	762062	2.62	3.14	1.89	4.90
+	"North Dakota"	"38"	"2020"	"2020"	32	765309	4.18	4.54	3.09	6.45
+	"Ohio"	"39"	"1999"	"1999"	Suppressed	11335454	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2000"	"2000"	Suppressed	11353140	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2001"	"2001"	Suppressed	11387404	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2002"	"2002"	Suppressed	11407889	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2003"	"2003"	Suppressed	11434788	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2004"	"2004"	13	11452251	Unreliable	Unreliable	0.06	0.19
+	"Ohio"	"39"	"2005"	"2005"	15	11463320	Unreliable	Unreliable	0.08	0.24
+	"Ohio"	"39"	"2006"	"2006"	Suppressed	11481213	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2007"	"2007"	Suppressed	11500468	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2008"	"2008"	10	11515391	Unreliable	Unreliable	0.05	0.19
+	"Ohio"	"39"	"2009"	"2009"	Suppressed	11528896	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2010"	"2010"	15	11536504	Unreliable	Unreliable	0.07	0.21
+	"Ohio"	"39"	"2011"	"2011"	31	11544951	0.27	0.29	0.19	0.41
+	"Ohio"	"39"	"2012"	"2012"	33	11544225	0.29	0.33	0.22	0.46
+	"Ohio"	"39"	"2013"	"2013"	51	11570808	0.44	0.49	0.36	0.64
+	"Ohio"	"39"	"2014"	"2014"	68	11594163	0.59	0.64	0.49	0.81
+	"Ohio"	"39"	"2015"	"2015"	105	11613423	0.90	0.99	0.80	1.19
+	"Ohio"	"39"	"2016"	"2016"	243	11614373	2.09	2.27	1.98	2.56
+	"Ohio"	"39"	"2017"	"2017"	556	11658609	4.77	5.26	4.81	5.70
+	"Ohio"	"39"	"2018"	"2018"	577	11689442	4.94	5.46	5.01	5.91
+	"Ohio"	"39"	"2019"	"2019"	846	11689100	7.24	8.00	7.45	8.55
+	"Ohio"	"39"	"2020"	"2020"	1083	11693217	9.26	10.13	9.51	10.74
+	"Oklahoma"	"40"	"1999"	"1999"	14	3437147	Unreliable	Unreliable	0.23	0.71
+	"Oklahoma"	"40"	"2000"	"2000"	24	3450654	0.70	0.72	0.46	1.08
+	"Oklahoma"	"40"	"2001"	"2001"	23	3467100	0.66	0.68	0.43	1.02
+	"Oklahoma"	"40"	"2002"	"2002"	20	3489080	0.57	0.60	0.37	0.93
+	"Oklahoma"	"40"	"2003"	"2003"	44	3504892	1.26	1.30	0.94	1.74
+	"Oklahoma"	"40"	"2004"	"2004"	49	3525233	1.39	1.48	1.09	1.96
+	"Oklahoma"	"40"	"2005"	"2005"	62	3548597	1.75	1.85	1.42	2.38
+	"Oklahoma"	"40"	"2006"	"2006"	40	3594090	1.11	1.15	0.82	1.57
+	"Oklahoma"	"40"	"2007"	"2007"	43	3634349	1.18	1.24	0.89	1.67
+	"Oklahoma"	"40"	"2008"	"2008"	26	3668976	0.71	0.74	0.48	1.09
+	"Oklahoma"	"40"	"2009"	"2009"	67	3717572	1.80	1.89	1.46	2.40
+	"Oklahoma"	"40"	"2010"	"2010"	90	3751351	2.40	2.49	1.99	3.07
+	"Oklahoma"	"40"	"2011"	"2011"	85	3791508	2.24	2.38	1.89	2.95
+	"Oklahoma"	"40"	"2012"	"2012"	112	3814820	2.94	3.03	2.46	3.60
+	"Oklahoma"	"40"	"2013"	"2013"	145	3850568	3.77	3.92	3.27	4.57
+	"Oklahoma"	"40"	"2014"	"2014"	140	3878051	3.61	3.79	3.15	4.43
+	"Oklahoma"	"40"	"2015"	"2015"	199	3911338	5.09	5.34	4.58	6.09
+	"Oklahoma"	"40"	"2016"	"2016"	263	3923561	6.70	7.11	6.24	7.99
+	"Oklahoma"	"40"	"2017"	"2017"	275	3930864	7.00	7.18	6.31	8.04
+	"Oklahoma"	"40"	"2018"	"2018"	327	3943079	8.29	8.52	7.58	9.47
+	"Oklahoma"	"40"	"2019"	"2019"	327	3956971	8.26	8.50	7.56	9.45
+	"Oklahoma"	"40"	"2020"	"2020"	408	3980783	10.25	10.42	9.38	11.46
+	"Oregon"	"41"	"1999"	"1999"	11	3393941	Unreliable	Unreliable	0.16	0.57
+	"Oregon"	"41"	"2000"	"2000"	15	3421399	Unreliable	Unreliable	0.23	0.69
+	"Oregon"	"41"	"2001"	"2001"	18	3467937	Unreliable	Unreliable	0.31	0.84
+	"Oregon"	"41"	"2002"	"2002"	25	3513424	0.71	0.71	0.46	1.05
+	"Oregon"	"41"	"2003"	"2003"	20	3547376	0.56	0.56	0.34	0.87
+	"Oregon"	"41"	"2004"	"2004"	27	3569463	0.76	0.77	0.51	1.12
+	"Oregon"	"41"	"2005"	"2005"	31	3613202	0.86	0.88	0.60	1.26
+	"Oregon"	"41"	"2006"	"2006"	19	3670883	Unreliable	Unreliable	0.31	0.81
+	"Oregon"	"41"	"2007"	"2007"	17	3722417	Unreliable	Unreliable	0.26	0.73
+	"Oregon"	"41"	"2008"	"2008"	24	3768748	0.64	0.63	0.40	0.95
+	"Oregon"	"41"	"2009"	"2009"	34	3808600	0.89	0.90	0.62	1.27
+	"Oregon"	"41"	"2010"	"2010"	34	3831074	0.89	0.92	0.63	1.29
+	"Oregon"	"41"	"2011"	"2011"	62	3871859	1.60	1.62	1.23	2.08
+	"Oregon"	"41"	"2012"	"2012"	54	3899353	1.38	1.44	1.08	1.89
+	"Oregon"	"41"	"2013"	"2013"	80	3930065	2.04	2.09	1.65	2.62
+	"Oregon"	"41"	"2014"	"2014"	114	3970239	2.87	2.92	2.38	3.47
+	"Oregon"	"41"	"2015"	"2015"	124	4028977	3.08	3.09	2.54	3.65
+	"Oregon"	"41"	"2016"	"2016"	150	4093465	3.66	3.56	2.98	4.14
+	"Oregon"	"41"	"2017"	"2017"	170	4142776	4.10	4.02	3.39	4.64
+	"Oregon"	"41"	"2018"	"2018"	216	4190713	5.15	5.10	4.40	5.80
+	"Oregon"	"41"	"2019"	"2019"	288	4217737	6.83	6.51	5.74	7.28
+	"Oregon"	"41"	"2020"	"2020"	360	4241507	8.49	8.30	7.42	9.18
+	"Pennsylvania"	"42"	"1999"	"1999"	Suppressed	12263805	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2000"	"2000"	Suppressed	12281054	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2001"	"2001"	Suppressed	12298970	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2002"	"2002"	Suppressed	12331031	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2003"	"2003"	Suppressed	12374658	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2004"	"2004"	11	12410722	Unreliable	Unreliable	0.04	0.15
+	"Pennsylvania"	"42"	"2005"	"2005"	Suppressed	12449990	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2006"	"2006"	Suppressed	12510809	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2007"	"2007"	Suppressed	12563937	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2008"	"2008"	12	12612285	Unreliable	Unreliable	0.06	0.19
+	"Pennsylvania"	"42"	"2009"	"2009"	Suppressed	12666858	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2010"	"2010"	19	12702379	Unreliable	Unreliable	0.10	0.25
+	"Pennsylvania"	"42"	"2011"	"2011"	22	12742886	0.17	0.19	0.12	0.29
+	"Pennsylvania"	"42"	"2012"	"2012"	28	12763536	0.22	0.23	0.15	0.34
+	"Pennsylvania"	"42"	"2013"	"2013"	33	12773801	0.26	0.28	0.19	0.40
+	"Pennsylvania"	"42"	"2014"	"2014"	37	12787209	0.29	0.30	0.21	0.42
+	"Pennsylvania"	"42"	"2015"	"2015"	67	12802503	0.52	0.53	0.41	0.68
+	"Pennsylvania"	"42"	"2016"	"2016"	106	12784227	0.83	0.94	0.76	1.12
+	"Pennsylvania"	"42"	"2017"	"2017"	191	12805537	1.49	1.62	1.38	1.85
+	"Pennsylvania"	"42"	"2018"	"2018"	300	12807060	2.34	2.50	2.21	2.79
+	"Pennsylvania"	"42"	"2019"	"2019"	454	12801989	3.55	3.82	3.46	4.18
+	"Pennsylvania"	"42"	"2020"	"2020"	794	12783254	6.21	6.78	6.30	7.26
+	"Rhode Island"	"44"	"1999"	"1999"	Suppressed	1040402	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2001"	"2001"	Suppressed	1057142	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2002"	"2002"	Suppressed	1065995	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2003"	"2003"	Suppressed	1071342	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2006"	"2006"	Suppressed	1063096	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2008"	"2008"	Suppressed	1055003	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2009"	"2009"	Suppressed	1053646	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2010"	"2010"	Suppressed	1052567	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2011"	"2011"	Suppressed	1051302	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2012"	"2012"	10	1050292	Unreliable	Unreliable	0.47	1.96
+	"Rhode Island"	"44"	"2013"	"2013"	Suppressed	1051511	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2014"	"2014"	Suppressed	1055173	Suppressed	Suppressed	Suppressed	Suppressed
+	"Rhode Island"	"44"	"2015"	"2015"	11	1056298	Unreliable	Unreliable	0.46	1.64
+	"Rhode Island"	"44"	"2016"	"2016"	10	1056426	Unreliable	Unreliable	0.46	1.78
+	"Rhode Island"	"44"	"2017"	"2017"	12	1059639	Unreliable	Unreliable	0.58	1.98
+	"Rhode Island"	"44"	"2018"	"2018"	15	1057315	Unreliable	Unreliable	0.81	2.48
+	"Rhode Island"	"44"	"2019"	"2019"	22	1059361	2.08	2.32	1.44	3.55
+	"Rhode Island"	"44"	"2020"	"2020"	38	1057125	3.59	3.71	2.60	5.13
+	"South Carolina"	"45"	"2000"	"2000"	Suppressed	4012012	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2001"	"2001"	Suppressed	4064995	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2002"	"2002"	Suppressed	4107795	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2003"	"2003"	Suppressed	4150297	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2004"	"2004"	Suppressed	4210921	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2005"	"2005"	Suppressed	4270150	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2006"	"2006"	Suppressed	4357847	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2007"	"2007"	Suppressed	4444110	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2008"	"2008"	10	4528996	Unreliable	Unreliable	0.10	0.40
+	"South Carolina"	"45"	"2009"	"2009"	16	4589872	Unreliable	Unreliable	0.20	0.57
+	"South Carolina"	"45"	"2010"	"2010"	Suppressed	4625364	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Carolina"	"45"	"2011"	"2011"	14	4679230	Unreliable	Unreliable	0.17	0.53
+	"South Carolina"	"45"	"2012"	"2012"	19	4723723	Unreliable	Unreliable	0.26	0.70
+	"South Carolina"	"45"	"2013"	"2013"	27	4774839	0.57	0.59	0.38	0.86
+	"South Carolina"	"45"	"2014"	"2014"	68	4832482	1.41	1.43	1.10	1.82
+	"South Carolina"	"45"	"2015"	"2015"	87	4896146	1.78	1.91	1.52	2.36
+	"South Carolina"	"45"	"2016"	"2016"	125	4961119	2.52	2.68	2.20	3.16
+	"South Carolina"	"45"	"2017"	"2017"	189	5024369	3.76	4.03	3.44	4.61
+	"South Carolina"	"45"	"2018"	"2018"	249	5084127	4.90	5.25	4.58	5.91
+	"South Carolina"	"45"	"2019"	"2019"	332	5148714	6.45	7.03	6.26	7.80
+	"South Carolina"	"45"	"2020"	"2020"	529	5218040	10.14	11.05	10.08	12.01
+	"South Dakota"	"46"	"2001"	"2001"	Suppressed	757972	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2002"	"2002"	Suppressed	760020	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2003"	"2003"	Suppressed	763729	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2005"	"2005"	Suppressed	775493	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2006"	"2006"	Suppressed	783033	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2007"	"2007"	Suppressed	791623	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2008"	"2008"	Suppressed	799124	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2009"	"2009"	Suppressed	807067	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2010"	"2010"	Suppressed	814180	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2011"	"2011"	Suppressed	824082	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2012"	"2012"	Suppressed	833354	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2013"	"2013"	Suppressed	844877	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2014"	"2014"	14	853175	Unreliable	Unreliable	1.00	3.20
+	"South Dakota"	"46"	"2015"	"2015"	12	858469	Unreliable	Unreliable	0.79	2.66
+	"South Dakota"	"46"	"2016"	"2016"	19	865454	Unreliable	Unreliable	1.57	4.18
+	"South Dakota"	"46"	"2017"	"2017"	27	869666	3.10	3.14	2.05	4.61
+	"South Dakota"	"46"	"2018"	"2018"	12	882235	Unreliable	Unreliable	0.76	2.56
+	"South Dakota"	"46"	"2019"	"2019"	31	884659	3.50	4.03	2.72	5.76
+	"South Dakota"	"46"	"2020"	"2020"	31	892717	3.47	3.95	2.66	5.63
+	"Tennessee"	"47"	"1999"	"1999"	Suppressed	5638706	Suppressed	Suppressed	Suppressed	Suppressed
+	"Tennessee"	"47"	"2000"	"2000"	Suppressed	5689283	Suppressed	Suppressed	Suppressed	Suppressed
+	"Tennessee"	"47"	"2001"	"2001"	Suppressed	5750789	Suppressed	Suppressed	Suppressed	Suppressed
+	"Tennessee"	"47"	"2002"	"2002"	12	5795918	Unreliable	Unreliable	0.11	0.36
+	"Tennessee"	"47"	"2003"	"2003"	15	5847812	Unreliable	Unreliable	0.15	0.43
+	"Tennessee"	"47"	"2004"	"2004"	15	5910809	Unreliable	Unreliable	0.14	0.42
+	"Tennessee"	"47"	"2005"	"2005"	23	5991057	0.38	0.40	0.25	0.59
+	"Tennessee"	"47"	"2006"	"2006"	17	6088766	Unreliable	Unreliable	0.16	0.44
+	"Tennessee"	"47"	"2007"	"2007"	22	6175727	0.36	0.38	0.24	0.57
+	"Tennessee"	"47"	"2008"	"2008"	19	6247411	Unreliable	Unreliable	0.18	0.48
+	"Tennessee"	"47"	"2009"	"2009"	21	6306019	0.33	0.33	0.21	0.51
+	"Tennessee"	"47"	"2010"	"2010"	39	6346105	0.61	0.62	0.44	0.86
+	"Tennessee"	"47"	"2011"	"2011"	47	6403353	0.73	0.76	0.56	1.01
+	"Tennessee"	"47"	"2012"	"2012"	50	6456243	0.77	0.80	0.59	1.06
+	"Tennessee"	"47"	"2013"	"2013"	80	6495978	1.23	1.28	1.01	1.60
+	"Tennessee"	"47"	"2014"	"2014"	74	6549352	1.13	1.24	0.97	1.56
+	"Tennessee"	"47"	"2015"	"2015"	113	6600299	1.71	1.77	1.44	2.10
+	"Tennessee"	"47"	"2016"	"2016"	186	6651194	2.80	2.93	2.50	3.35
+	"Tennessee"	"47"	"2017"	"2017"	320	6715984	4.76	4.99	4.43	5.54
+	"Tennessee"	"47"	"2018"	"2018"	463	6770010	6.84	7.33	6.65	8.01
+	"Tennessee"	"47"	"2019"	"2019"	651	6829174	9.53	9.98	9.19	10.76
+	"Tennessee"	"47"	"2020"	"2020"	998	6886834	14.49	15.36	14.39	16.34
+	"Texas"	"48"	"1999"	"1999"	15	20558220	Unreliable	Unreliable	0.04	0.12
+	"Texas"	"48"	"2000"	"2000"	31	20851820	0.15	0.16	0.11	0.22
+	"Texas"	"48"	"2001"	"2001"	47	21319622	0.22	0.20	0.15	0.27
+	"Texas"	"48"	"2002"	"2002"	55	21690325	0.25	0.25	0.19	0.33
+	"Texas"	"48"	"2003"	"2003"	88	22030931	0.40	0.40	0.32	0.49
+	"Texas"	"48"	"2004"	"2004"	88	22394023	0.39	0.39	0.31	0.48
+	"Texas"	"48"	"2005"	"2005"	144	22778123	0.63	0.62	0.52	0.72
+	"Texas"	"48"	"2006"	"2006"	108	23359580	0.46	0.48	0.39	0.57
+	"Texas"	"48"	"2007"	"2007"	87	23831983	0.37	0.38	0.30	0.47
+	"Texas"	"48"	"2008"	"2008"	86	24309039	0.35	0.36	0.29	0.44
+	"Texas"	"48"	"2009"	"2009"	113	24801761	0.46	0.47	0.38	0.56
+	"Texas"	"48"	"2010"	"2010"	147	25145561	0.58	0.58	0.49	0.68
+	"Texas"	"48"	"2011"	"2011"	169	25674681	0.66	0.66	0.56	0.76
+	"Texas"	"48"	"2012"	"2012"	207	26059203	0.79	0.79	0.68	0.89
+	"Texas"	"48"	"2013"	"2013"	326	26448193	1.23	1.25	1.11	1.38
+	"Texas"	"48"	"2014"	"2014"	377	26956958	1.40	1.40	1.26	1.54
+	"Texas"	"48"	"2015"	"2015"	454	27469114	1.65	1.68	1.52	1.83
+	"Texas"	"48"	"2016"	"2016"	577	27862596	2.07	2.10	1.93	2.27
+	"Texas"	"48"	"2017"	"2017"	653	28304596	2.31	2.33	2.15	2.51
+	"Texas"	"48"	"2018"	"2018"	802	28701845	2.79	2.82	2.62	3.01
+	"Texas"	"48"	"2019"	"2019"	1055	28995881	3.64	3.70	3.47	3.93
+	"Texas"	"48"	"2020"	"2020"	1520	29360759	5.18	5.20	4.93	5.46
+	"Utah"	"49"	"1999"	"1999"	23	2203482	1.04	1.16	0.73	1.76
+	"Utah"	"49"	"2000"	"2000"	13	2233169	Unreliable	Unreliable	0.31	0.99
+	"Utah"	"49"	"2001"	"2001"	15	2283715	Unreliable	Unreliable	0.41	1.22
+	"Utah"	"49"	"2002"	"2002"	25	2324815	1.08	1.15	0.74	1.71
+	"Utah"	"49"	"2003"	"2003"	43	2360137	1.82	1.85	1.33	2.51
+	"Utah"	"49"	"2004"	"2004"	40	2401580	1.67	1.83	1.30	2.51
+	"Utah"	"49"	"2005"	"2005"	41	2457719	1.67	1.81	1.30	2.47
+	"Utah"	"49"	"2006"	"2006"	51	2525507	2.02	2.19	1.62	2.89
+	"Utah"	"49"	"2007"	"2007"	41	2597746	1.58	1.67	1.18	2.28
+	"Utah"	"49"	"2008"	"2008"	43	2663029	1.61	1.79	1.29	2.43
+	"Utah"	"49"	"2009"	"2009"	44	2723421	1.62	1.76	1.27	2.38
+	"Utah"	"49"	"2010"	"2010"	35	2763885	1.27	1.38	0.95	1.93
+	"Utah"	"49"	"2011"	"2011"	56	2817222	1.99	2.22	1.67	2.89
+	"Utah"	"49"	"2012"	"2012"	80	2855287	2.80	3.11	2.45	3.88
+	"Utah"	"49"	"2013"	"2013"	101	2900872	3.48	3.76	3.01	4.50
+	"Utah"	"49"	"2014"	"2014"	106	2942902	3.60	3.91	3.16	4.67
+	"Utah"	"49"	"2015"	"2015"	147	2995919	4.91	5.23	4.37	6.08
+	"Utah"	"49"	"2016"	"2016"	143	3051217	4.69	5.07	4.22	5.91
+	"Utah"	"49"	"2017"	"2017"	198	3101833	6.38	6.82	5.86	7.79
+	"Utah"	"49"	"2018"	"2018"	228	3161105	7.21	7.88	6.84	8.91
+	"Utah"	"49"	"2019"	"2019"	224	3205958	6.99	7.47	6.48	8.46
+	"Utah"	"49"	"2020"	"2020"	235	3249879	7.23	7.84	6.82	8.85
+	"Vermont"	"50"	"2002"	"2002"	Suppressed	615442	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2003"	"2003"	Suppressed	617858	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2004"	"2004"	Suppressed	619920	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2006"	"2006"	Suppressed	622892	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2008"	"2008"	Suppressed	624151	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2009"	"2009"	Suppressed	624817	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2011"	"2011"	Suppressed	626431	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2012"	"2012"	Suppressed	626011	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2013"	"2013"	Suppressed	626630	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2014"	"2014"	Suppressed	626562	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2016"	"2016"	Suppressed	624594	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2017"	"2017"	Suppressed	623657	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2018"	"2018"	Suppressed	626299	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2019"	"2019"	Suppressed	623989	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2020"	"2020"	22	623347	3.53	3.99	2.50	6.04
+	"Virginia"	"51"	"1999"	"1999"	Suppressed	7000174	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2000"	"2000"	Suppressed	7078515	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2001"	"2001"	Suppressed	7198362	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2002"	"2002"	Suppressed	7286873	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2003"	"2003"	Suppressed	7366977	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2004"	"2004"	Suppressed	7475575	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2005"	"2005"	Suppressed	7577105	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2006"	"2006"	Suppressed	7673725	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2007"	"2007"	Suppressed	7751000	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2008"	"2008"	13	7833496	Unreliable	Unreliable	0.09	0.30
+	"Virginia"	"51"	"2009"	"2009"	Suppressed	7925937	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2010"	"2010"	Suppressed	8001024	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2011"	"2011"	17	8096604	Unreliable	Unreliable	0.13	0.36
+	"Virginia"	"51"	"2012"	"2012"	17	8185867	Unreliable	Unreliable	0.12	0.34
+	"Virginia"	"51"	"2013"	"2013"	21	8260405	0.25	0.28	0.18	0.43
+	"Virginia"	"51"	"2014"	"2014"	44	8326289	0.53	0.56	0.40	0.75
+	"Virginia"	"51"	"2015"	"2015"	55	8382993	0.66	0.65	0.49	0.85
+	"Virginia"	"51"	"2016"	"2016"	76	8411808	0.90	0.93	0.73	1.17
+	"Virginia"	"51"	"2017"	"2017"	113	8470020	1.33	1.39	1.13	1.65
+	"Virginia"	"51"	"2018"	"2018"	135	8517685	1.58	1.64	1.36	1.92
+	"Virginia"	"51"	"2019"	"2019"	207	8535519	2.43	2.51	2.16	2.86
+	"Virginia"	"51"	"2020"	"2020"	417	8590563	4.85	4.99	4.51	5.48
+	"Washington"	"53"	"1999"	"1999"	47	5842564	0.80	0.78	0.57	1.03
+	"Washington"	"53"	"2000"	"2000"	54	5894121	0.92	0.88	0.66	1.15
+	"Washington"	"53"	"2001"	"2001"	44	5985722	0.74	0.72	0.52	0.97
+	"Washington"	"53"	"2002"	"2002"	67	6052349	1.11	1.08	0.84	1.38
+	"Washington"	"53"	"2003"	"2003"	93	6104115	1.52	1.49	1.20	1.83
+	"Washington"	"53"	"2004"	"2004"	92	6178645	1.49	1.47	1.18	1.80
+	"Washington"	"53"	"2005"	"2005"	97	6257305	1.55	1.50	1.22	1.83
+	"Washington"	"53"	"2006"	"2006"	85	6370753	1.33	1.28	1.02	1.59
+	"Washington"	"53"	"2007"	"2007"	91	6461587	1.41	1.40	1.13	1.72
+	"Washington"	"53"	"2008"	"2008"	72	6562231	1.10	1.08	0.85	1.37
+	"Washington"	"53"	"2009"	"2009"	112	6667426	1.68	1.65	1.34	1.96
+	"Washington"	"53"	"2010"	"2010"	96	6724540	1.43	1.40	1.13	1.71
+	"Washington"	"53"	"2011"	"2011"	127	6830038	1.86	1.84	1.52	2.17
+	"Washington"	"53"	"2012"	"2012"	143	6897012	2.07	2.07	1.73	2.42
+	"Washington"	"53"	"2013"	"2013"	191	6971406	2.74	2.74	2.35	3.13
+	"Washington"	"53"	"2014"	"2014"	228	7061530	3.23	3.13	2.72	3.54
+	"Washington"	"53"	"2015"	"2015"	304	7170351	4.24	4.24	3.76	4.73
+	"Washington"	"53"	"2016"	"2016"	326	7288000	4.47	4.42	3.93	4.91
+	"Washington"	"53"	"2017"	"2017"	392	7405743	5.29	5.17	4.64	5.69
+	"Washington"	"53"	"2018"	"2018"	466	7535591	6.18	6.01	5.45	6.57
+	"Washington"	"53"	"2019"	"2019"	544	7614893	7.14	6.88	6.29	7.47
+	"Washington"	"53"	"2020"	"2020"	728	7693612	9.46	9.23	8.54	9.91
+	"West Virginia"	"54"	"1999"	"1999"	Suppressed	1811799	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2003"	"2003"	Suppressed	1812295	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2004"	"2004"	Suppressed	1816438	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2005"	"2005"	Suppressed	1820492	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2006"	"2006"	Suppressed	1827912	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2007"	"2007"	Suppressed	1834052	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2008"	"2008"	Suppressed	1840310	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2009"	"2009"	Suppressed	1847775	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2010"	"2010"	19	1852994	Unreliable	Unreliable	0.70	1.81
+	"West Virginia"	"54"	"2011"	"2011"	19	1855364	Unreliable	Unreliable	0.66	1.77
+	"West Virginia"	"54"	"2012"	"2012"	18	1855413	Unreliable	Unreliable	0.62	1.71
+	"West Virginia"	"54"	"2013"	"2013"	39	1854304	2.10	2.29	1.62	3.15
+	"West Virginia"	"54"	"2014"	"2014"	37	1850326	2.00	2.18	1.52	3.01
+	"West Virginia"	"54"	"2015"	"2015"	65	1844128	3.52	3.94	3.02	5.05
+	"West Virginia"	"54"	"2016"	"2016"	117	1831102	6.39	6.99	5.70	8.29
+	"West Virginia"	"54"	"2017"	"2017"	221	1815857	12.17	13.62	11.79	15.46
+	"West Virginia"	"54"	"2018"	"2018"	313	1805832	17.33	19.32	17.13	21.50
+	"West Virginia"	"54"	"2019"	"2019"	393	1792147	21.93	24.44	21.96	26.92
+	"West Virginia"	"54"	"2020"	"2020"	613	1784787	34.35	38.37	35.26	41.49
+	"Wisconsin"	"55"	"1999"	"1999"	Suppressed	5332666	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2000"	"2000"	Suppressed	5363675	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2001"	"2001"	Suppressed	5406835	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2002"	"2002"	Suppressed	5445162	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2003"	"2003"	Suppressed	5479203	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2004"	"2004"	Suppressed	5514026	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2005"	"2005"	Suppressed	5546166	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2006"	"2006"	Suppressed	5577655	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2007"	"2007"	15	5610775	Unreliable	Unreliable	0.14	0.41
+	"Wisconsin"	"55"	"2008"	"2008"	Suppressed	5640996	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2009"	"2009"	11	5669264	Unreliable	Unreliable	0.10	0.35
+	"Wisconsin"	"55"	"2010"	"2010"	Suppressed	5686986	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wisconsin"	"55"	"2011"	"2011"	22	5711767	0.39	0.37	0.23	0.56
+	"Wisconsin"	"55"	"2012"	"2012"	17	5726398	Unreliable	Unreliable	0.17	0.49
+	"Wisconsin"	"55"	"2013"	"2013"	25	5742713	0.44	0.47	0.30	0.71
+	"Wisconsin"	"55"	"2014"	"2014"	46	5757564	0.80	0.86	0.63	1.15
+	"Wisconsin"	"55"	"2015"	"2015"	38	5771337	0.66	0.68	0.47	0.94
+	"Wisconsin"	"55"	"2016"	"2016"	76	5778708	1.32	1.39	1.09	1.74
+	"Wisconsin"	"55"	"2017"	"2017"	128	5795483	2.21	2.32	1.91	2.73
+	"Wisconsin"	"55"	"2018"	"2018"	116	5813568	2.00	2.21	1.80	2.62
+	"Wisconsin"	"55"	"2019"	"2019"	170	5822434	2.92	3.26	2.76	3.76
+	"Wisconsin"	"55"	"2020"	"2020"	281	5832655	4.82	5.33	4.69	5.96
+	"Wyoming"	"56"	"2000"	"2000"	Suppressed	493782	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2001"	"2001"	Suppressed	494657	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2002"	"2002"	Suppressed	500017	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2003"	"2003"	Suppressed	503453	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2004"	"2004"	Suppressed	509106	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2005"	"2005"	Suppressed	514157	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2006"	"2006"	Suppressed	522667	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2007"	"2007"	Suppressed	534876	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2008"	"2008"	Suppressed	546043	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2009"	"2009"	Suppressed	559851	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2010"	"2010"	Suppressed	563626	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2011"	"2011"	Suppressed	568158	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2012"	"2012"	Suppressed	576412	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2013"	"2013"	10	582658	Unreliable	Unreliable	0.78	3.25
+	"Wyoming"	"56"	"2014"	"2014"	17	584153	Unreliable	Unreliable	1.80	5.11
+	"Wyoming"	"56"	"2015"	"2015"	17	586107	Unreliable	Unreliable	1.58	4.48
+	"Wyoming"	"56"	"2016"	"2016"	15	585501	Unreliable	Unreliable	1.58	4.65
+	"Wyoming"	"56"	"2017"	"2017"	15	579315	Unreliable	Unreliable	1.44	4.41
+	"Wyoming"	"56"	"2018"	"2018"	22	577737	3.81	3.87	2.39	5.91
+	"Wyoming"	"56"	"2019"	"2019"	25	578759	4.32	4.49	2.88	6.69
+	"Wyoming"	"56"	"2020"	"2020"	33	582328	5.67	6.14	4.20	8.67
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T43.6 (Psychostimulants with abuse potential)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Group By: State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Sep 27, 2026 8:39:30 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Sep 27, 2026 8:39:30 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"8. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"9. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"10. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"11. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"12. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"13. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

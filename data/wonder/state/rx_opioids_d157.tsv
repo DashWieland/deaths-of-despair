@@ -1,0 +1,447 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Alabama"	"01"	"2018"	"2018"	126	4887871	2.58	2.13	3.03	2.62	2.17	3.15
+	"Alabama"	"01"	"2019"	"2019"	135	4903185	2.75	2.29	3.22	2.72	2.27	3.24
+	"Alabama"	"01"	"2020"	"2020"	122	4921532	2.48	2.04	2.92	2.51	2.07	3.02
+	"Alabama"	"01"	"2021"	"2021"	148	5039877	2.94	2.46	3.41	2.95	2.48	3.49
+	"Alabama"	"01"	"2022"	"2022"	149	5074296	2.94	2.46	3.41	3.06	2.57	3.61
+	"Alabama"	"01"	"2023"	"2023"	158	5108468	3.09	2.61	3.58	3.21	2.72	3.77
+	"Alabama"	"01"	"2024 "	"2024"	108	5157699	2.09	1.70	2.49	2.10	1.71	2.55
+	"Alaska"	"02"	"2018"	"2018"	34	737438	4.61	3.19	6.44	4.47	3.06	6.44
+	"Alaska"	"02"	"2019"	"2019"	42	731545	5.74	4.14	7.76	5.42	3.86	7.50
+	"Alaska"	"02"	"2020"	"2020"	38	731158	5.20	3.68	7.13	4.83	3.39	6.81
+	"Alaska"	"02"	"2021"	"2021"	72	732673	9.83	7.69	12.38	9.73	7.58	12.43
+	"Alaska"	"02"	"2022"	"2022"	48	733583	6.54	4.82	8.68	6.48	4.74	8.73
+	"Alaska"	"02"	"2023"	"2023"	32	733406	4.36	2.98	6.16	4.23	2.87	6.14
+	"Alaska"	"02"	"2024 "	"2024"	29	740133	3.92	2.62	5.63	3.99	2.66	5.85
+	"Arizona"	"04"	"2018"	"2018"	311	7171646	4.34	3.85	4.82	4.28	3.80	4.80
+	"Arizona"	"04"	"2019"	"2019"	308	7278717	4.23	3.76	4.70	4.13	3.67	4.63
+	"Arizona"	"04"	"2020"	"2020"	318	7421401	4.28	3.81	4.76	4.31	3.83	4.83
+	"Arizona"	"04"	"2021"	"2021"	261	7276316	3.59	3.15	4.02	3.52	3.10	4.00
+	"Arizona"	"04"	"2022"	"2022"	215	7359197	2.92	2.53	3.31	2.83	2.45	3.25
+	"Arizona"	"04"	"2023"	"2023"	202	7431344	2.72	2.34	3.09	2.61	2.25	3.01
+	"Arizona"	"04"	"2024 "	"2024"	205	7582384	2.70	2.33	3.07	2.56	2.21	2.96
+	"Arkansas"	"05"	"2018"	"2018"	108	3013825	3.58	2.91	4.26	3.79	3.10	4.61
+	"Arkansas"	"05"	"2019"	"2019"	88	3017804	2.92	2.34	3.59	3.07	2.45	3.81
+	"Arkansas"	"05"	"2020"	"2020"	95	3030522	3.13	2.54	3.83	3.09	2.48	3.81
+	"Arkansas"	"05"	"2021"	"2021"	100	3025891	3.30	2.66	3.95	3.47	2.81	4.25
+	"Arkansas"	"05"	"2022"	"2022"	103	3045637	3.38	2.73	4.04	3.43	2.79	4.19
+	"Arkansas"	"05"	"2023"	"2023"	77	3067732	2.51	1.98	3.14	2.50	1.96	3.15
+	"Arkansas"	"05"	"2024 "	"2024"	48	3088354	1.55	1.15	2.06	1.44	1.05	1.94
+	"California"	"06"	"2018"	"2018"	910	39557045	2.30	2.15	2.45	2.13	1.99	2.28
+	"California"	"06"	"2019"	"2019"	917	39512223	2.32	2.17	2.47	2.18	2.04	2.33
+	"California"	"06"	"2020"	"2020"	988	39368078	2.51	2.35	2.67	2.37	2.22	2.53
+	"California"	"06"	"2021"	"2021"	1034	39237836	2.64	2.47	2.80	2.42	2.27	2.57
+	"California"	"06"	"2022"	"2022"	936	39029342	2.40	2.24	2.55	2.23	2.09	2.38
+	"California"	"06"	"2023"	"2023"	793	38965193	2.04	1.89	2.18	1.86	1.73	2.00
+	"California"	"06"	"2024 "	"2024"	680	39431263	1.72	1.59	1.85	1.57	1.45	1.69
+	"Colorado"	"08"	"2018"	"2018"	222	5695564	3.90	3.39	4.41	3.65	3.18	4.18
+	"Colorado"	"08"	"2019"	"2019"	232	5758736	4.03	3.51	4.55	3.88	3.39	4.42
+	"Colorado"	"08"	"2020"	"2020"	261	5807719	4.49	3.95	5.04	4.19	3.69	4.75
+	"Colorado"	"08"	"2021"	"2021"	286	5812069	4.92	4.35	5.49	4.68	4.15	5.27
+	"Colorado"	"08"	"2022"	"2022"	215	5839926	3.68	3.19	4.17	3.45	3.00	3.96
+	"Colorado"	"08"	"2023"	"2023"	191	5877610	3.25	2.79	3.71	3.03	2.61	3.51
+	"Colorado"	"08"	"2024 "	"2024"	188	5957493	3.16	2.70	3.61	2.86	2.46	3.32
+	"Connecticut"	"09"	"2018"	"2018"	161	3572665	4.51	3.81	5.20	4.46	3.78	5.25
+	"Connecticut"	"09"	"2019"	"2019"	208	3565287	5.83	5.04	6.63	5.65	4.88	6.52
+	"Connecticut"	"09"	"2020"	"2020"	216	3557006	6.07	5.26	6.88	5.94	5.14	6.83
+	"Connecticut"	"09"	"2021"	"2021"	187	3605597	5.19	4.44	5.93	4.60	3.93	5.36
+	"Connecticut"	"09"	"2022"	"2022"	194	3626205	5.35	4.60	6.10	5.08	4.37	5.90
+	"Connecticut"	"09"	"2023"	"2023"	147	3617176	4.06	3.41	4.72	3.59	3.01	4.26
+	"Connecticut"	"09"	"2024 "	"2024"	117	3675069	3.18	2.61	3.76	2.91	2.39	3.54
+	"Delaware"	"10"	"2018"	"2018"	62	967171	6.41	4.91	8.22	6.69	5.08	8.69
+	"Delaware"	"10"	"2019"	"2019"	51	973764	5.24	3.90	6.89	5.42	4.01	7.22
+	"Delaware"	"10"	"2020"	"2020"	52	986809	5.27	3.94	6.91	5.27	3.88	7.03
+	"Delaware"	"10"	"2021"	"2021"	48	1003384	4.78	3.53	6.34	4.78	3.47	6.44
+	"Delaware"	"10"	"2022"	"2022"	37	1018396	3.63	2.56	5.01	3.50	2.41	4.95
+	"Delaware"	"10"	"2023"	"2023"	31	1031890	3.00	2.04	4.26	2.84	1.89	4.15
+	"Delaware"	"10"	"2024 "	"2024"	28	1051917	2.66	1.77	3.85	2.39	1.54	3.58
+	"District of Columbia"	"11"	"2018"	"2018"	32	702455	4.56	3.12	6.43	4.54	3.07	6.56
+	"District of Columbia"	"11"	"2019"	"2019"	24	705749	3.40	2.18	5.06	3.30	2.10	5.04
+	"District of Columbia"	"11"	"2020"	"2020"	37	712816	5.19	3.65	7.15	4.89	3.41	6.90
+	"District of Columbia"	"11"	"2021"	"2021"	26	670050	3.88	2.53	5.69	3.49	2.27	5.25
+	"District of Columbia"	"11"	"2022"	"2022"	31	671803	4.61	3.14	6.55	4.66	3.14	6.73
+	"District of Columbia"	"11"	"2023"	"2023"	22	678972	3.24	2.03	4.91	2.93	1.82	4.58
+	"District of Columbia"	"11"	"2024 "	"2024"	22	702250	3.13	1.96	4.74	2.97	1.85	4.63
+	"Florida"	"12"	"2018"	"2018"	1150	21299325	5.40	5.09	5.71	5.38	5.06	5.71
+	"Florida"	"12"	"2019"	"2019"	1085	21477737	5.05	4.75	5.35	5.09	4.78	5.41
+	"Florida"	"12"	"2020"	"2020"	1112	21733312	5.12	4.82	5.42	5.13	4.82	5.45
+	"Florida"	"12"	"2021"	"2021"	1013	21781128	4.65	4.36	4.94	4.65	4.36	4.96
+	"Florida"	"12"	"2022"	"2022"	901	22244823	4.05	3.79	4.31	4.06	3.79	4.34
+	"Florida"	"12"	"2023"	"2023"	807	22610726	3.57	3.32	3.82	3.48	3.23	3.74
+	"Florida"	"12"	"2024 "	"2024"	568	23372215	2.43	2.23	2.63	2.31	2.12	2.52
+	"Georgia"	"13"	"2018"	"2018"	395	10519475	3.75	3.38	4.13	3.69	3.33	4.09
+	"Georgia"	"13"	"2019"	"2019"	361	10617423	3.40	3.05	3.75	3.31	2.97	3.68
+	"Georgia"	"13"	"2020"	"2020"	443	10710017	4.14	3.75	4.52	4.12	3.74	4.53
+	"Georgia"	"13"	"2021"	"2021"	497	10799566	4.60	4.20	5.01	4.60	4.20	5.03
+	"Georgia"	"13"	"2022"	"2022"	470	10912876	4.31	3.92	4.70	4.35	3.96	4.77
+	"Georgia"	"13"	"2023"	"2023"	372	11029227	3.37	3.03	3.72	3.30	2.97	3.67
+	"Georgia"	"13"	"2024 "	"2024"	307	11180878	2.75	2.44	3.05	2.69	2.39	3.02
+	"Hawaii"	"15"	"2018"	"2018"	27	1420491	1.90	1.25	2.77	1.81	1.18	2.69
+	"Hawaii"	"15"	"2019"	"2019"	24	1415872	1.70	1.09	2.52	1.52	0.95	2.33
+	"Hawaii"	"15"	"2020"	"2020"	28	1407006	1.99	1.32	2.88	2.02	1.33	2.98
+	"Hawaii"	"15"	"2021"	"2021"	29	1441553	2.01	1.35	2.89	1.78	1.18	2.62
+	"Hawaii"	"15"	"2022"	"2022"	23	1440196	1.60	1.01	2.40	1.57	0.98	2.40
+	"Hawaii"	"15"	"2023"	"2023"	20	1435138	1.39	0.85	2.15	1.29	0.78	2.05
+	"Hawaii"	"15"	"2024 "	"2024"	25	1446146	1.73	1.12	2.55	1.37	0.87	2.10
+	"Idaho"	"16"	"2018"	"2018"	68	1754208	3.88	3.01	4.91	3.88	3.00	4.97
+	"Idaho"	"16"	"2019"	"2019"	75	1787065	4.20	3.30	5.26	4.11	3.21	5.20
+	"Idaho"	"16"	"2020"	"2020"	83	1826913	4.54	3.62	5.63	4.57	3.61	5.71
+	"Idaho"	"16"	"2021"	"2021"	87	1900923	4.58	3.67	5.65	4.66	3.71	5.79
+	"Idaho"	"16"	"2022"	"2022"	72	1939033	3.71	2.91	4.68	3.69	2.87	4.68
+	"Idaho"	"16"	"2023"	"2023"	65	1964726	3.31	2.55	4.22	3.41	2.62	4.38
+	"Idaho"	"16"	"2024 "	"2024"	79	2001619	3.95	3.12	4.92	3.92	3.08	4.93
+	"Illinois"	"17"	"2018"	"2018"	407	12741080	3.19	2.88	3.50	3.15	2.84	3.48
+	"Illinois"	"17"	"2019"	"2019"	420	12671821	3.31	3.00	3.63	3.27	2.96	3.61
+	"Illinois"	"17"	"2020"	"2020"	516	12587530	4.10	3.75	4.45	4.00	3.65	4.36
+	"Illinois"	"17"	"2021"	"2021"	507	12671469	4.00	3.65	4.35	3.85	3.52	4.22
+	"Illinois"	"17"	"2022"	"2022"	427	12582032	3.39	3.07	3.72	3.29	2.98	3.63
+	"Illinois"	"17"	"2023"	"2023"	355	12549689	2.83	2.53	3.12	2.75	2.46	3.06
+	"Illinois"	"17"	"2024 "	"2024"	262	12710158	2.06	1.81	2.31	1.96	1.73	2.23
+	"Indiana"	"18"	"2018"	"2018"	323	6691878	4.83	4.30	5.35	4.83	4.30	5.41
+	"Indiana"	"18"	"2019"	"2019"	354	6732219	5.26	4.71	5.81	5.52	4.95	6.15
+	"Indiana"	"18"	"2020"	"2020"	418	6754953	6.19	5.59	6.78	6.59	5.96	7.27
+	"Indiana"	"18"	"2021"	"2021"	441	6805985	6.48	5.87	7.08	6.56	5.95	7.23
+	"Indiana"	"18"	"2022"	"2022"	331	6833037	4.84	4.32	5.37	4.98	4.45	5.57
+	"Indiana"	"18"	"2023"	"2023"	199	6862199	2.90	2.50	3.30	2.94	2.54	3.39
+	"Indiana"	"18"	"2024 "	"2024"	165	6924275	2.38	2.02	2.75	2.35	2.00	2.75
+	"Iowa"	"19"	"2018"	"2018"	54	3156145	1.71	1.29	2.23	1.74	1.30	2.30
+	"Iowa"	"19"	"2019"	"2019"	53	3155070	1.68	1.26	2.20	1.70	1.26	2.24
+	"Iowa"	"19"	"2020"	"2020"	52	3163561	1.64	1.23	2.16	1.78	1.32	2.36
+	"Iowa"	"19"	"2021"	"2021"	65	3193079	2.04	1.57	2.59	2.10	1.61	2.70
+	"Iowa"	"19"	"2022"	"2022"	54	3200517	1.69	1.27	2.20	1.70	1.27	2.25
+	"Iowa"	"19"	"2023"	"2023"	66	3207004	2.06	1.59	2.62	2.14	1.64	2.75
+	"Iowa"	"19"	"2024 "	"2024"	56	3241488	1.73	1.31	2.24	1.88	1.41	2.46
+	"Kansas"	"20"	"2018"	"2018"	73	2911505	2.51	1.97	3.15	2.63	2.05	3.34
+	"Kansas"	"20"	"2019"	"2019"	68	2913314	2.33	1.81	2.96	2.38	1.84	3.05
+	"Kansas"	"20"	"2020"	"2020"	76	2913805	2.61	2.06	3.26	2.77	2.17	3.50
+	"Kansas"	"20"	"2021"	"2021"	109	2934582	3.71	3.02	4.41	3.87	3.16	4.70
+	"Kansas"	"20"	"2022"	"2022"	125	2937150	4.26	3.51	5.00	4.26	3.53	5.11
+	"Kansas"	"20"	"2023"	"2023"	85	2940546	2.89	2.31	3.57	2.82	2.24	3.52
+	"Kansas"	"20"	"2024 "	"2024"	75	2970606	2.52	1.99	3.16	2.57	2.01	3.25
+	"Kentucky"	"21"	"2018"	"2018"	290	4468402	6.49	5.74	7.24	6.59	5.84	7.43
+	"Kentucky"	"21"	"2019"	"2019"	321	4467673	7.18	6.40	7.97	7.26	6.47	8.13
+	"Kentucky"	"21"	"2020"	"2020"	432	4477251	9.65	8.74	10.56	10.03	9.08	11.05
+	"Kentucky"	"21"	"2021"	"2021"	407	4509394	9.03	8.15	9.90	8.94	8.07	9.89
+	"Kentucky"	"21"	"2022"	"2022"	328	4512310	7.27	6.48	8.06	7.31	6.52	8.18
+	"Kentucky"	"21"	"2023"	"2023"	272	4526154	6.01	5.30	6.72	5.96	5.25	6.74
+	"Kentucky"	"21"	"2024 "	"2024"	205	4588372	4.47	3.86	5.08	4.33	3.74	5.00
+	"Louisiana"	"22"	"2018"	"2018"	135	4659978	2.90	2.41	3.39	2.85	2.38	3.40
+	"Louisiana"	"22"	"2019"	"2019"	170	4648794	3.66	3.11	4.21	3.74	3.19	4.37
+	"Louisiana"	"22"	"2020"	"2020"	249	4645318	5.36	4.69	6.03	5.56	4.88	6.32
+	"Louisiana"	"22"	"2021"	"2021"	283	4624047	6.12	5.41	6.83	6.29	5.56	7.09
+	"Louisiana"	"22"	"2022"	"2022"	286	4590241	6.23	5.51	6.95	6.22	5.50	7.01
+	"Louisiana"	"22"	"2023"	"2023"	194	4573749	4.24	3.64	4.84	4.39	3.78	5.07
+	"Louisiana"	"22"	"2024 "	"2024"	127	4597740	2.76	2.28	3.24	2.88	2.40	3.44
+	"Maine"	"23"	"2018"	"2018"	56	1338404	4.18	3.16	5.43	3.95	2.93	5.25
+	"Maine"	"23"	"2019"	"2019"	50	1344212	3.72	2.76	4.90	3.80	2.78	5.10
+	"Maine"	"23"	"2020"	"2020"	71	1350141	5.26	4.11	6.63	5.22	4.02	6.70
+	"Maine"	"23"	"2021"	"2021"	71	1372247	5.17	4.04	6.53	4.81	3.70	6.21
+	"Maine"	"23"	"2022"	"2022"	81	1385340	5.85	4.64	7.27	6.01	4.72	7.59
+	"Maine"	"23"	"2023"	"2023"	63	1395722	4.51	3.47	5.78	4.36	3.29	5.70
+	"Maine"	"23"	"2024 "	"2024"	46	1405012	3.27	2.40	4.37	2.99	2.14	4.13
+	"Maryland"	"24"	"2018"	"2018"	425	6042718	7.03	6.36	7.70	6.84	6.19	7.54
+	"Maryland"	"24"	"2019"	"2019"	432	6045680	7.15	6.47	7.82	6.93	6.28	7.64
+	"Maryland"	"24"	"2020"	"2020"	369	6055802	6.09	5.47	6.72	5.89	5.29	6.54
+	"Maryland"	"24"	"2021"	"2021"	276	6165129	4.48	3.95	5.00	4.16	3.67	4.70
+	"Maryland"	"24"	"2022"	"2022"	223	6164660	3.62	3.14	4.09	3.45	3.00	3.95
+	"Maryland"	"24"	"2023"	"2023"	184	6180253	2.98	2.55	3.41	2.82	2.41	3.27
+	"Maryland"	"24"	"2024 "	"2024"	189	6263220	3.02	2.59	3.45	2.73	2.34	3.17
+	"Massachusetts"	"25"	"2018"	"2018"	253	6902149	3.67	3.21	4.12	3.63	3.18	4.12
+	"Massachusetts"	"25"	"2019"	"2019"	228	6892503	3.31	2.88	3.74	3.18	2.77	3.64
+	"Massachusetts"	"25"	"2020"	"2020"	267	6893574	3.87	3.41	4.34	3.85	3.39	4.36
+	"Massachusetts"	"25"	"2021"	"2021"	198	6984723	2.83	2.44	3.23	2.67	2.30	3.09
+	"Massachusetts"	"25"	"2022"	"2022"	228	6981974	3.27	2.84	3.69	3.03	2.64	3.47
+	"Massachusetts"	"25"	"2023"	"2023"	157	7001399	2.24	1.89	2.59	2.16	1.82	2.54
+	"Massachusetts"	"25"	"2024 "	"2024"	121	7136171	1.70	1.39	2.00	1.55	1.27	1.87
+	"Michigan"	"26"	"2018"	"2018"	442	9995915	4.42	4.01	4.83	4.45	4.03	4.90
+	"Michigan"	"26"	"2019"	"2019"	361	9986857	3.61	3.24	3.99	3.66	3.28	4.07
+	"Michigan"	"26"	"2020"	"2020"	386	9966555	3.87	3.49	4.26	3.85	3.46	4.28
+	"Michigan"	"26"	"2021"	"2021"	413	10050811	4.11	3.71	4.51	4.14	3.73	4.58
+	"Michigan"	"26"	"2022"	"2022"	292	10034113	2.91	2.58	3.24	2.92	2.59	3.29
+	"Michigan"	"26"	"2023"	"2023"	233	10037261	2.32	2.02	2.62	2.26	1.97	2.58
+	"Michigan"	"26"	"2024 "	"2024"	229	10140459	2.26	1.97	2.55	2.13	1.85	2.45
+	"Minnesota"	"27"	"2018"	"2018"	105	5611179	1.87	1.51	2.23	1.88	1.53	2.29
+	"Minnesota"	"27"	"2019"	"2019"	108	5639632	1.92	1.55	2.28	1.93	1.58	2.35
+	"Minnesota"	"27"	"2020"	"2020"	168	5657342	2.97	2.52	3.42	2.98	2.54	3.48
+	"Minnesota"	"27"	"2021"	"2021"	168	5707390	2.94	2.50	3.39	2.95	2.51	3.44
+	"Minnesota"	"27"	"2022"	"2022"	141	5717184	2.47	2.06	2.87	2.38	2.00	2.83
+	"Minnesota"	"27"	"2023"	"2023"	100	5737915	1.74	1.40	2.08	1.77	1.43	2.16
+	"Minnesota"	"27"	"2024 "	"2024"	96	5793151	1.66	1.34	2.02	1.60	1.29	1.97
+	"Mississippi"	"28"	"2018"	"2018"	85	2986530	2.85	2.27	3.52	2.86	2.27	3.57
+	"Mississippi"	"28"	"2019"	"2019"	91	2976149	3.06	2.46	3.75	3.00	2.39	3.71
+	"Mississippi"	"28"	"2020"	"2020"	113	2966786	3.81	3.11	4.51	3.96	3.25	4.80
+	"Mississippi"	"28"	"2021"	"2021"	134	2949965	4.54	3.77	5.31	4.65	3.87	5.54
+	"Mississippi"	"28"	"2022"	"2022"	92	2940057	3.13	2.52	3.84	3.22	2.58	3.98
+	"Mississippi"	"28"	"2023"	"2023"	78	2939690	2.65	2.10	3.31	2.66	2.09	3.36
+	"Mississippi"	"28"	"2024 "	"2024"	50	2943045	1.70	1.26	2.24	1.78	1.31	2.37
+	"Missouri"	"29"	"2018"	"2018"	231	6126452	3.77	3.28	4.26	3.86	3.37	4.42
+	"Missouri"	"29"	"2019"	"2019"	220	6137428	3.58	3.11	4.06	3.58	3.11	4.10
+	"Missouri"	"29"	"2020"	"2020"	211	6151548	3.43	2.97	3.89	3.47	3.01	3.99
+	"Missouri"	"29"	"2021"	"2021"	188	6168187	3.05	2.61	3.48	3.09	2.66	3.59
+	"Missouri"	"29"	"2022"	"2022"	188	6177957	3.04	2.61	3.48	3.00	2.57	3.48
+	"Missouri"	"29"	"2023"	"2023"	142	6196156	2.29	1.91	2.67	2.30	1.93	2.73
+	"Missouri"	"29"	"2024 "	"2024"	123	6245466	1.97	1.62	2.32	1.88	1.55	2.27
+	"Montana"	"30"	"2018"	"2018"	23	1062305	2.17	1.37	3.25	2.03	1.25	3.16
+	"Montana"	"30"	"2019"	"2019"	25	1068778	2.34	1.51	3.45	2.22	1.40	3.38
+	"Montana"	"30"	"2020"	"2020"	35	1080577	3.24	2.26	4.50	3.16	2.16	4.50
+	"Montana"	"30"	"2021"	"2021"	28	1104271	2.54	1.68	3.66	2.75	1.81	4.06
+	"Montana"	"30"	"2022"	"2022"	33	1122867	2.94	2.02	4.13	3.08	2.10	4.39
+	"Montana"	"30"	"2023"	"2023"	25	1132812	2.21	1.43	3.26	2.04	1.30	3.12
+	"Montana"	"30"	"2024 "	"2024"	27	1137233	2.37	1.56	3.45	2.48	1.62	3.68
+	"Nebraska"	"31"	"2018"	"2018"	37	1929268	1.92	1.35	2.64	1.89	1.31	2.66
+	"Nebraska"	"31"	"2019"	"2019"	35	1934408	1.81	1.26	2.52	1.84	1.26	2.59
+	"Nebraska"	"31"	"2020"	"2020"	30	1937552	1.55	1.04	2.21	1.51	1.01	2.20
+	"Nebraska"	"31"	"2021"	"2021"	38	1963692	1.94	1.37	2.66	1.96	1.37	2.72
+	"Nebraska"	"31"	"2022"	"2022"	33	1967923	1.68	1.15	2.35	1.67	1.14	2.37
+	"Nebraska"	"31"	"2023"	"2023"	24	1978379	1.21	0.78	1.81	1.34	0.85	2.01
+	"Nebraska"	"31"	"2024 "	"2024"	16	2005465	0.80	0.46	1.30	0.74	0.41	1.24
+	"Nevada"	"32"	"2018"	"2018"	212	3034392	6.99	6.05	7.93	6.44	5.58	7.40
+	"Nevada"	"32"	"2019"	"2019"	168	3080156	5.45	4.63	6.28	5.16	4.39	6.03
+	"Nevada"	"32"	"2020"	"2020"	219	3138259	6.98	6.05	7.90	6.77	5.88	7.75
+	"Nevada"	"32"	"2021"	"2021"	222	3143991	7.06	6.13	7.99	6.71	5.84	7.68
+	"Nevada"	"32"	"2022"	"2022"	180	3177772	5.66	4.84	6.49	5.48	4.70	6.37
+	"Nevada"	"32"	"2023"	"2023"	165	3194176	5.17	4.38	5.95	4.81	4.09	5.64
+	"Nevada"	"32"	"2024 "	"2024"	137	3267467	4.19	3.49	4.89	3.85	3.22	4.59
+	"New Hampshire"	"33"	"2018"	"2018"	34	1356458	2.51	1.74	3.50	2.43	1.65	3.49
+	"New Hampshire"	"33"	"2019"	"2019"	38	1359711	2.79	1.98	3.84	2.80	1.95	3.94
+	"New Hampshire"	"33"	"2020"	"2020"	29	1366275	2.12	1.42	3.05	1.89	1.24	2.83
+	"New Hampshire"	"33"	"2021"	"2021"	38	1388992	2.74	1.94	3.76	2.58	1.80	3.67
+	"New Hampshire"	"33"	"2022"	"2022"	14	1395231	1.00	0.55	1.68	0.91	0.48	1.64
+	"New Hampshire"	"33"	"2023"	"2023"	25	1402054	1.78	1.15	2.63	1.52	0.96	2.37
+	"New Hampshire"	"33"	"2024 "	"2024"	19	1409032	1.35	0.81	2.11	1.12	0.66	1.87
+	"New Jersey"	"34"	"2018"	"2018"	412	8908520	4.62	4.18	5.07	4.64	4.20	5.13
+	"New Jersey"	"34"	"2019"	"2019"	360	8882190	4.05	3.63	4.47	3.95	3.54	4.39
+	"New Jersey"	"34"	"2020"	"2020"	335	8882371	3.77	3.37	4.18	3.70	3.30	4.14
+	"New Jersey"	"34"	"2021"	"2021"	337	9267130	3.64	3.25	4.02	3.48	3.11	3.89
+	"New Jersey"	"34"	"2022"	"2022"	256	9261699	2.76	2.43	3.10	2.65	2.32	3.01
+	"New Jersey"	"34"	"2023"	"2023"	268	9290841	2.88	2.54	3.23	2.81	2.48	3.18
+	"New Jersey"	"34"	"2024 "	"2024"	194	9500851	2.04	1.75	2.33	1.92	1.65	2.22
+	"New Mexico"	"35"	"2018"	"2018"	133	2095428	6.35	5.27	7.43	6.15	5.11	7.36
+	"New Mexico"	"35"	"2019"	"2019"	140	2096829	6.68	5.57	7.78	6.88	5.76	8.18
+	"New Mexico"	"35"	"2020"	"2020"	156	2106319	7.41	6.24	8.57	7.80	6.59	9.18
+	"New Mexico"	"35"	"2021"	"2021"	142	2115877	6.71	5.61	7.82	6.69	5.60	7.94
+	"New Mexico"	"35"	"2022"	"2022"	97	2113344	4.59	3.72	5.60	4.30	3.45	5.31
+	"New Mexico"	"35"	"2023"	"2023"	89	2114371	4.21	3.38	5.18	4.20	3.35	5.22
+	"New Mexico"	"35"	"2024 "	"2024"	62	2130256	2.91	2.23	3.73	2.78	2.11	3.63
+	"New York"	"36"	"2018"	"2018"	781	19542209	4.00	3.72	4.28	3.86	3.59	4.15
+	"New York"	"36"	"2019"	"2019"	709	19453561	3.64	3.38	3.91	3.52	3.26	3.80
+	"New York"	"36"	"2020"	"2020"	937	19336776	4.85	4.54	5.16	4.72	4.41	5.05
+	"New York"	"36"	"2021"	"2021"	972	19835913	4.90	4.59	5.21	4.67	4.37	4.98
+	"New York"	"36"	"2022"	"2022"	885	19677151	4.50	4.20	4.79	4.22	3.93	4.51
+	"New York"	"36"	"2023"	"2023"	774	19571216	3.95	3.68	4.23	3.65	3.38	3.93
+	"New York"	"36"	"2024 "	"2024"	453	19867248	2.28	2.07	2.49	2.12	1.92	2.33
+	"North Carolina"	"37"	"2018"	"2018"	422	10383620	4.06	3.68	4.45	4.05	3.66	4.47
+	"North Carolina"	"37"	"2019"	"2019"	360	10488084	3.43	3.08	3.79	3.42	3.07	3.80
+	"North Carolina"	"37"	"2020"	"2020"	399	10600823	3.76	3.39	4.13	3.78	3.41	4.19
+	"North Carolina"	"37"	"2021"	"2021"	468	10551162	4.44	4.03	4.84	4.61	4.19	5.06
+	"North Carolina"	"37"	"2022"	"2022"	466	10698973	4.36	3.96	4.75	4.46	4.05	4.89
+	"North Carolina"	"37"	"2023"	"2023"	344	10835491	3.17	2.84	3.51	3.25	2.91	3.62
+	"North Carolina"	"37"	"2024 "	"2024"	290	11046024	2.63	2.32	2.93	2.61	2.31	2.94
+	"North Dakota"	"38"	"2018"	"2018"	20	760077	2.63	1.61	4.06	2.92	1.76	4.59
+	"North Dakota"	"38"	"2019"	"2019"	24	762062	3.15	2.02	4.69	3.19	2.02	4.85
+	"North Dakota"	"38"	"2020"	"2020"	19	765309	2.48	1.49	3.88	2.71	1.61	4.32
+	"North Dakota"	"38"	"2021"	"2021"	17	774948	2.19	1.28	3.51	2.28	1.32	3.73
+	"North Dakota"	"38"	"2022"	"2022"	13	779261	1.67	0.89	2.85	1.81	0.95	3.17
+	"North Dakota"	"38"	"2023"	"2023"	Suppressed	783926	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2024 "	"2024"	27	796568	3.39	2.23	4.93	3.67	2.40	5.41
+	"Ohio"	"39"	"2018"	"2018"	507	11689442	4.34	3.96	4.71	4.43	4.04	4.84
+	"Ohio"	"39"	"2019"	"2019"	410	11689100	3.51	3.17	3.85	3.65	3.30	4.04
+	"Ohio"	"39"	"2020"	"2020"	441	11693217	3.77	3.42	4.12	3.82	3.46	4.21
+	"Ohio"	"39"	"2021"	"2021"	420	11780017	3.57	3.22	3.91	3.57	3.22	3.94
+	"Ohio"	"39"	"2022"	"2022"	377	11756058	3.21	2.88	3.53	3.25	2.93	3.61
+	"Ohio"	"39"	"2023"	"2023"	330	11785935	2.80	2.50	3.10	2.85	2.55	3.19
+	"Ohio"	"39"	"2024 "	"2024"	255	11883304	2.15	1.88	2.41	2.14	1.88	2.43
+	"Oklahoma"	"40"	"2018"	"2018"	154	3943079	3.91	3.29	4.52	3.77	3.18	4.45
+	"Oklahoma"	"40"	"2019"	"2019"	114	3956971	2.88	2.35	3.41	2.89	2.37	3.50
+	"Oklahoma"	"40"	"2020"	"2020"	100	3980783	2.51	2.02	3.00	2.53	2.05	3.10
+	"Oklahoma"	"40"	"2021"	"2021"	115	3986639	2.88	2.36	3.41	2.90	2.39	3.51
+	"Oklahoma"	"40"	"2022"	"2022"	118	4019800	2.94	2.41	3.47	2.88	2.37	3.47
+	"Oklahoma"	"40"	"2023"	"2023"	112	4053824	2.76	2.25	3.27	2.88	2.36	3.48
+	"Oklahoma"	"40"	"2024 "	"2024"	77	4095393	1.88	1.48	2.35	1.84	1.44	2.31
+	"Oregon"	"41"	"2018"	"2018"	123	4190713	2.94	2.42	3.45	2.83	2.34	3.40
+	"Oregon"	"41"	"2019"	"2019"	102	4217737	2.42	1.95	2.89	2.18	1.76	2.67
+	"Oregon"	"41"	"2020"	"2020"	111	4241507	2.62	2.13	3.10	2.56	2.09	3.10
+	"Oregon"	"41"	"2021"	"2021"	175	4246155	4.12	3.51	4.73	3.83	3.27	4.47
+	"Oregon"	"41"	"2022"	"2022"	133	4240137	3.14	2.60	3.67	2.78	2.31	3.32
+	"Oregon"	"41"	"2023"	"2023"	125	4233358	2.95	2.44	3.47	2.72	2.25	3.27
+	"Oregon"	"41"	"2024 "	"2024"	121	4272371	2.83	2.33	3.34	2.44	2.01	2.95
+	"Pennsylvania"	"42"	"2018"	"2018"	595	12807060	4.65	4.27	5.02	4.71	4.33	5.12
+	"Pennsylvania"	"42"	"2019"	"2019"	505	12801989	3.94	3.60	4.29	4.08	3.72	4.46
+	"Pennsylvania"	"42"	"2020"	"2020"	624	12783254	4.88	4.50	5.26	4.99	4.60	5.42
+	"Pennsylvania"	"42"	"2021"	"2021"	619	12964056	4.77	4.40	5.15	4.81	4.43	5.22
+	"Pennsylvania"	"42"	"2022"	"2022"	474	12972008	3.65	3.33	3.98	3.67	3.34	4.03
+	"Pennsylvania"	"42"	"2023"	"2023"	422	12961683	3.26	2.95	3.57	3.15	2.85	3.48
+	"Pennsylvania"	"42"	"2024 "	"2024"	313	13078751	2.39	2.13	2.66	2.33	2.07	2.62
+	"Rhode Island"	"44"	"2018"	"2018"	58	1057315	5.49	4.17	7.09	5.41	4.06	7.11
+	"Rhode Island"	"44"	"2019"	"2019"	42	1059361	3.96	2.86	5.36	4.00	2.85	5.51
+	"Rhode Island"	"44"	"2020"	"2020"	42	1057125	3.97	2.86	5.37	4.06	2.90	5.58
+	"Rhode Island"	"44"	"2021"	"2021"	44	1095610	4.02	2.92	5.39	3.85	2.76	5.30
+	"Rhode Island"	"44"	"2022"	"2022"	41	1093734	3.75	2.69	5.09	3.48	2.46	4.84
+	"Rhode Island"	"44"	"2023"	"2023"	43	1095962	3.92	2.84	5.28	3.54	2.52	4.90
+	"Rhode Island"	"44"	"2024 "	"2024"	31	1112308	2.79	1.89	3.96	2.78	1.87	4.05
+	"South Carolina"	"45"	"2018"	"2018"	330	5084127	6.49	5.79	7.19	6.48	5.78	7.25
+	"South Carolina"	"45"	"2019"	"2019"	331	5148714	6.43	5.74	7.12	6.58	5.87	7.35
+	"South Carolina"	"45"	"2020"	"2020"	400	5218040	7.67	6.91	8.42	7.73	6.97	8.56
+	"South Carolina"	"45"	"2021"	"2021"	372	5190705	7.17	6.44	7.89	7.34	6.59	8.15
+	"South Carolina"	"45"	"2022"	"2022"	349	5282634	6.61	5.91	7.30	6.69	5.98	7.46
+	"South Carolina"	"45"	"2023"	"2023"	271	5373555	5.04	4.44	5.64	4.88	4.30	5.52
+	"South Carolina"	"45"	"2024 "	"2024"	188	5478831	3.43	2.94	3.92	3.43	2.94	3.98
+	"South Dakota"	"46"	"2018"	"2018"	Suppressed	882235	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	15	884659	1.70	0.95	2.80	1.61	0.88	2.77
+	"South Dakota"	"46"	"2020"	"2020"	15	892717	1.68	0.94	2.77	1.70	0.93	2.91
+	"South Dakota"	"46"	"2021"	"2021"	13	895376	1.45	0.77	2.48	1.49	0.78	2.64
+	"South Dakota"	"46"	"2022"	"2022"	Suppressed	909824	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2023"	"2023"	Suppressed	919318	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2024 "	"2024"	15	924669	1.62	0.91	2.68	1.82	1.00	3.04
+	"Tennessee"	"47"	"2018"	"2018"	500	6770010	7.39	6.74	8.03	7.39	6.74	8.09
+	"Tennessee"	"47"	"2019"	"2019"	469	6829174	6.87	6.25	7.49	6.90	6.28	7.58
+	"Tennessee"	"47"	"2020"	"2020"	558	6886834	8.10	7.43	8.77	8.31	7.62	9.05
+	"Tennessee"	"47"	"2021"	"2021"	588	6975218	8.43	7.75	9.11	8.59	7.89	9.33
+	"Tennessee"	"47"	"2022"	"2022"	463	7051339	6.57	5.97	7.16	6.73	6.12	7.39
+	"Tennessee"	"47"	"2023"	"2023"	384	7126489	5.39	4.85	5.93	5.44	4.90	6.03
+	"Tennessee"	"47"	"2024 "	"2024"	278	7227750	3.85	3.39	4.30	3.91	3.45	4.41
+	"Texas"	"48"	"2018"	"2018"	459	28701845	1.60	1.45	1.75	1.56	1.42	1.71
+	"Texas"	"48"	"2019"	"2019"	447	28995881	1.54	1.40	1.68	1.52	1.38	1.67
+	"Texas"	"48"	"2020"	"2020"	539	29360759	1.84	1.68	1.99	1.80	1.65	1.96
+	"Texas"	"48"	"2021"	"2021"	623	29527941	2.11	1.94	2.28	2.07	1.91	2.24
+	"Texas"	"48"	"2022"	"2022"	670	30029572	2.23	2.06	2.40	2.23	2.06	2.41
+	"Texas"	"48"	"2023"	"2023"	598	30503301	1.96	1.80	2.12	1.95	1.79	2.11
+	"Texas"	"48"	"2024 "	"2024"	527	31290831	1.68	1.54	1.83	1.66	1.52	1.81
+	"Utah"	"49"	"2018"	"2018"	279	3161105	8.83	7.79	9.86	9.62	8.51	10.85
+	"Utah"	"49"	"2019"	"2019"	257	3205958	8.02	7.04	9.00	8.63	7.60	9.78
+	"Utah"	"49"	"2020"	"2020"	225	3249879	6.92	6.02	7.83	7.56	6.60	8.64
+	"Utah"	"49"	"2021"	"2021"	185	3337975	5.54	4.74	6.34	5.95	5.11	6.89
+	"Utah"	"49"	"2022"	"2022"	175	3380800	5.18	4.41	5.94	5.56	4.75	6.46
+	"Utah"	"49"	"2023"	"2023"	191	3417734	5.59	4.80	6.38	5.90	5.08	6.82
+	"Utah"	"49"	"2024 "	"2024"	154	3503613	4.40	3.70	5.09	4.74	4.02	5.56
+	"Vermont"	"50"	"2018"	"2018"	20	626299	3.19	1.95	4.93	2.90	1.72	4.73
+	"Vermont"	"50"	"2019"	"2019"	22	623989	3.53	2.21	5.34	3.70	2.25	5.83
+	"Vermont"	"50"	"2020"	"2020"	29	623347	4.65	3.12	6.68	4.78	3.14	7.10
+	"Vermont"	"50"	"2021"	"2021"	31	645570	4.80	3.26	6.82	5.30	3.56	7.72
+	"Vermont"	"50"	"2022"	"2022"	20	647064	3.09	1.89	4.77	3.01	1.80	4.89
+	"Vermont"	"50"	"2023"	"2023"	18	647464	2.78	1.65	4.39	3.02	1.76	4.98
+	"Vermont"	"50"	"2024 "	"2024"	15	648493	2.31	1.29	3.82	1.94	1.04	3.53
+	"Virginia"	"51"	"2018"	"2018"	252	8517685	2.96	2.59	3.32	2.91	2.56	3.31
+	"Virginia"	"51"	"2019"	"2019"	245	8535519	2.87	2.51	3.23	2.79	2.44	3.17
+	"Virginia"	"51"	"2020"	"2020"	289	8590563	3.36	2.98	3.75	3.32	2.94	3.74
+	"Virginia"	"51"	"2021"	"2021"	290	8642274	3.36	2.97	3.74	3.30	2.92	3.72
+	"Virginia"	"51"	"2022"	"2022"	219	8683619	2.52	2.19	2.86	2.49	2.17	2.85
+	"Virginia"	"51"	"2023"	"2023"	171	8715698	1.96	1.67	2.26	1.95	1.67	2.28
+	"Virginia"	"51"	"2024 "	"2024"	136	8811195	1.54	1.28	1.80	1.50	1.25	1.78
+	"Washington"	"53"	"2018"	"2018"	216	7535591	2.87	2.48	3.25	2.74	2.38	3.15
+	"Washington"	"53"	"2019"	"2019"	204	7614893	2.68	2.31	3.05	2.54	2.20	2.93
+	"Washington"	"53"	"2020"	"2020"	238	7693612	3.09	2.70	3.49	2.92	2.56	3.33
+	"Washington"	"53"	"2021"	"2021"	300	7738692	3.88	3.44	4.32	3.61	3.20	4.05
+	"Washington"	"53"	"2022"	"2022"	228	7785786	2.93	2.55	3.31	2.69	2.35	3.08
+	"Washington"	"53"	"2023"	"2023"	253	7812880	3.24	2.84	3.64	2.97	2.61	3.37
+	"Washington"	"53"	"2024 "	"2024"	213	7958180	2.68	2.32	3.04	2.45	2.13	2.81
+	"West Virginia"	"54"	"2018"	"2018"	214	1805832	11.85	10.26	13.44	12.00	10.39	13.81
+	"West Virginia"	"54"	"2019"	"2019"	174	1792147	9.71	8.27	11.15	9.90	8.43	11.56
+	"West Virginia"	"54"	"2020"	"2020"	272	1784787	15.24	13.43	17.05	16.57	14.60	18.74
+	"West Virginia"	"54"	"2021"	"2021"	206	1782959	11.55	9.98	13.13	12.23	10.57	14.11
+	"West Virginia"	"54"	"2022"	"2022"	149	1775156	8.39	7.05	9.74	8.67	7.29	10.27
+	"West Virginia"	"54"	"2023"	"2023"	135	1770071	7.63	6.34	8.91	7.56	6.28	9.04
+	"West Virginia"	"54"	"2024 "	"2024"	77	1769979	4.35	3.43	5.44	4.26	3.32	5.41
+	"Wisconsin"	"55"	"2018"	"2018"	251	5813568	4.32	3.78	4.85	4.37	3.84	4.97
+	"Wisconsin"	"55"	"2019"	"2019"	237	5822434	4.07	3.55	4.59	4.02	3.51	4.60
+	"Wisconsin"	"55"	"2020"	"2020"	279	5832655	4.78	4.22	5.34	4.86	4.29	5.48
+	"Wisconsin"	"55"	"2021"	"2021"	302	5895908	5.12	4.54	5.70	5.26	4.67	5.91
+	"Wisconsin"	"55"	"2022"	"2022"	252	5892539	4.28	3.75	4.80	4.20	3.67	4.78
+	"Wisconsin"	"55"	"2023"	"2023"	250	5910955	4.23	3.71	4.75	4.19	3.67	4.76
+	"Wisconsin"	"55"	"2024 "	"2024"	189	5960975	3.17	2.72	3.62	3.02	2.58	3.51
+	"Wyoming"	"56"	"2018"	"2018"	27	577737	4.67	3.08	6.80	4.48	2.90	6.68
+	"Wyoming"	"56"	"2019"	"2019"	27	578759	4.67	3.07	6.79	4.47	2.90	6.64
+	"Wyoming"	"56"	"2020"	"2020"	29	582328	4.98	3.34	7.15	5.27	3.48	7.69
+	"Wyoming"	"56"	"2021"	"2021"	25	578803	4.32	2.80	6.38	4.11	2.61	6.22
+	"Wyoming"	"56"	"2022"	"2022"	28	581381	4.82	3.20	6.96	4.59	3.01	6.78
+	"Wyoming"	"56"	"2023"	"2023"	34	584057	5.82	4.03	8.13	5.34	3.64	7.65
+	"Wyoming"	"56"	"2024 "	"2024"	27	587618	4.59	3.03	6.69	4.10	2.66	6.15
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.2 (Other opioids)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Group By: State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Sep 27, 2026 8:38:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Sep 27, 2026 8:38:14 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"6. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
